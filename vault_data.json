@@ -1,0 +1,4834 @@
+{
+  "nodes": [
+    {
+      "id": "Mapping the Discourse on AI Safety & Ethics",
+      "title": "Mapping the Discourse on AI Safety & Ethics",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Lei Nelissen",
+      "title": "Lei Nelissen",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "ACE - A LLM-based Negotiation Coaching System",
+      "title": "ACE - A LLM-based Negotiation Coaching System",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Zhehui Liao",
+      "title": "Zhehui Liao",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Jonathan Stray",
+      "title": "Jonathan Stray",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Remesh",
+      "title": "Remesh",
+      "tags": [
+        "organization"
+      ],
+      "content": ""
+    },
+    {
+      "id": "Amelia Glaese",
+      "title": "Amelia Glaese",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Amy Zhang",
+      "title": "Amy Zhang",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Kyle Lo",
+      "title": "Kyle Lo",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Shahar Hechtlinger",
+      "title": "Shahar Hechtlinger",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Zoe Rahwan",
+      "title": "Zoe Rahwan",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Maggie Appleton",
+      "title": "Maggie Appleton",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Andy Zou",
+      "title": "Andy Zou",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Wargames for Peace",
+      "title": "Wargames for Peace",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Evelien Nieuwenburg",
+      "title": "Evelien Nieuwenburg",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Enhancing AI-Assisted Group Decision Making through LLM-Powered Devil’s Advocate",
+      "title": "Enhancing AI-Assisted Group Decision Making through LLM-Powered Devil’s Advocate",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Zaria Jalan",
+      "title": "Zaria Jalan",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Squiggle AI",
+      "title": "Squiggle AI",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Yoshua Bengio",
+      "title": "Yoshua Bengio",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Colleen McKenzie",
+      "title": "Colleen McKenzie",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Reimagining Democracy for AI",
+      "title": "Reimagining Democracy for AI",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Tom Davidson",
+      "title": "Tom Davidson",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Deep Research Bench",
+      "title": "Deep Research Bench",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Joseph Chee Chang",
+      "title": "Joseph Chee Chang",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "AI‐assisted scenario generation for strategic planning",
+      "title": "AI‐assisted scenario generation for strategic planning",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Alek Chakroff",
+      "title": "Alek Chakroff",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Ariel Procaccia",
+      "title": "Ariel Procaccia",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Ryan Shea",
+      "title": "Ryan Shea",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Hannah Sheahan",
+      "title": "Hannah Sheahan",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "AI and the Future of Digital Public Squares",
+      "title": "AI and the Future of Digital Public Squares",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Daniel P. Hogan",
+      "title": "Daniel P. Hogan",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Recursive Public",
+      "title": "Recursive Public",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Rowan Wilkinson",
+      "title": "Rowan Wilkinson",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Snow Globe",
+      "title": "Snow Globe",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Owain Evans",
+      "title": "Owain Evans",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Martin Weiss",
+      "title": "Martin Weiss",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Li Erran Li",
+      "title": "Li Erran Li",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Alice Marwick",
+      "title": "Alice Marwick",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Oliver Klingefjord",
+      "title": "Oliver Klingefjord",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Nicholas Rowland",
+      "title": "Nicholas Rowland",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Scaffolding cooperation in human groups with deep reinforcement learning",
+      "title": "Scaffolding cooperation in human groups with deep reinforcement learning",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Language Agents as Digital Representatives in Collective Decision-Making",
+      "title": "Language Agents as Digital Representatives in Collective Decision-Making",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "vTaiwan",
+      "title": "vTaiwan",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Dirk U. Wulff",
+      "title": "Dirk U. Wulff",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Luke Thorburn",
+      "title": "Luke Thorburn",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "David Schwitzgebel",
+      "title": "David Schwitzgebel",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Foresight AI",
+      "title": "Foresight AI",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Double Crux Bot",
+      "title": "Double Crux Bot",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Emily Saltz",
+      "title": "Emily Saltz",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Julien Cornebise",
+      "title": "Julien Cornebise",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Gili Rusak",
+      "title": "Gili Rusak",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Daniel Jarrett",
+      "title": "Daniel Jarrett",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Danny Fanklin",
+      "title": "Danny Fanklin",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Language Models as Critical Thinking Tools - A Case Study of Philosophers",
+      "title": "Language Models as Critical Thinking Tools - A Case Study of Philosophers",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Talk to the City",
+      "title": "Talk to the City",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Arvind Narayanan",
+      "title": "Arvind Narayanan",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "My Current Claims and Cruxes on LLM Forecasting & Epistemics",
+      "title": "My Current Claims and Cruxes on LLM Forecasting & Epistemics",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Ezequiel Lopez-Lopez",
+      "title": "Ezequiel Lopez-Lopez",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Niki Dupuis",
+      "title": "Niki Dupuis",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Michael W. Morris",
+      "title": "Michael W. Morris",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "AI Enhanced Reasoning - Augmenting Human Critical Thinking With AI Systems",
+      "title": "AI Enhanced Reasoning - Augmenting Human Critical Thinking With AI Systems",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Anthropic",
+      "title": "Anthropic",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Sentinel",
+      "title": "Sentinel",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Sarah Bluhm",
+      "title": "Sarah Bluhm",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Collective Intelligence Project",
+      "title": "Collective Intelligence Project",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Modelling Political Coalition Negotiations Using LLM-based Agents",
+      "title": "Modelling Political Coalition Negotiations Using LLM-based Agents",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Darren Fancher",
+      "title": "Darren Fancher",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Jason W. Burton",
+      "title": "Jason W. Burton",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Approaching Human-Level Forecasting with Language Models",
+      "title": "Approaching Human-Level Forecasting with Language Models",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Alice Siu",
+      "title": "Alice Siu",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Kris Skotheim",
+      "title": "Kris Skotheim",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Felix Sieker",
+      "title": "Felix Sieker",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Audrey Tang",
+      "title": "Audrey Tang",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Bridging Bot",
+      "title": "Bridging Bot",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Wasim Almasri",
+      "title": "Wasim Almasri",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Jia-Wei Cui",
+      "title": "Jia-Wei Cui",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "LLMs as Research Tools -  A Large Scale Survey of Researchers’ Usage and Perceptions",
+      "title": "LLMs as Research Tools -  A Large Scale Survey of Researchers’ Usage and Perceptions",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Andrea Tacchetti",
+      "title": "Andrea Tacchetti",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Tristan Xiao",
+      "title": "Tristan Xiao",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Pepijn Verburg",
+      "title": "Pepijn Verburg",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Jacob Steinhardt",
+      "title": "Jacob Steinhardt",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Wenkang Ji",
+      "title": "Wenkang Ji",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Susan Leavy",
+      "title": "Susan Leavy",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Future Search",
+      "title": "Future Search",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Richard Li",
+      "title": "Richard Li",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Ben Wilson",
+      "title": "Ben Wilson",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Lightning Rod Labs",
+      "title": "Lightning Rod Labs",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Human v Bots Forecasting Tournament 2024",
+      "title": "Human v Bots Forecasting Tournament 2024",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Democratic Policy Development using Collective Dialogues and AI",
+      "title": "Democratic Policy Development using Collective Dialogues and AI",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Dan Hendrycks",
+      "title": "Dan Hendrycks",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Curtis Holdsworth",
+      "title": "Curtis Holdsworth",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Değer Turan",
+      "title": "Değer Turan",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Owen Cotton-Barratt",
+      "title": "Owen Cotton-Barratt",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Jared Moore",
+      "title": "Jared Moore",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Ulrike Hahn",
+      "title": "Ulrike Hahn",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Zhuoyan Li",
+      "title": "Zhuoyan Li",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Aymen Kallala",
+      "title": "Aymen Kallala",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "AI-Augmented Predictions - LLM Assistants Improve Human Forecasting Accuracy",
+      "title": "AI-Augmented Predictions - LLM Assistants Improve Human Forecasting Accuracy",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Jeff Fossett",
+      "title": "Jeff Fossett",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Cameron Jones",
+      "title": "Cameron Jones",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Sara Fish",
+      "title": "Sara Fish",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Human vs. Machine -  Behavioral Differences between Expert Humans and Language Models in Wargame Simulations",
+      "title": "Human vs. Machine -  Behavioral Differences between Expert Humans and Language Models in Wargame Simulations",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Hadjar Homaei",
+      "title": "Hadjar Homaei",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Philipp Schoenegger",
+      "title": "Philipp Schoenegger",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Julian Berger",
+      "title": "Julian Berger",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Joe Kwon",
+      "title": "Joe Kwon",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Jingyan Zhou",
+      "title": "Jingyan Zhou",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Pietro Nickl",
+      "title": "Pietro Nickl",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Metaculus",
+      "title": "Metaculus",
+      "tags": [
+        "organization"
+      ],
+      "content": ""
+    },
+    {
+      "id": "Nuño Sempere",
+      "title": "Nuño Sempere",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Bruno Marnette",
+      "title": "Bruno Marnette",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Ben Rachbach",
+      "title": "Ben Rachbach",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Chun-Wei Chiang",
+      "title": "Chun-Wei Chiang",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Huaben Chen",
+      "title": "Huaben Chen",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Ian Beacock",
+      "title": "Ian Beacock",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Stefan M. Herzog",
+      "title": "Stefan M. Herzog",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Max Lamparth",
+      "title": "Max Lamparth",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Dalit Shalom",
+      "title": "Dalit Shalom",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Patrick Connolly",
+      "title": "Patrick Connolly",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "The Computational Democracy Project",
+      "title": "The Computational Democracy Project",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Matthew Botvinick",
+      "title": "Matthew Botvinick",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Chris Pal",
+      "title": "Chris Pal",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Oriana Skylar Mastro",
+      "title": "Oriana Skylar Mastro",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Generative Social Choice",
+      "title": "Generative Social Choice",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Amplifying transformative potential while designing augmented deliberative systems",
+      "title": "Amplifying transformative potential while designing augmented deliberative systems",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Quantified Uncertainty Research Institute",
+      "title": "Quantified Uncertainty Research Institute",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Creating a large language model of a philosopher",
+      "title": "Creating a large language model of a philosopher",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "What's Important in \"AI for Epistemics\"?",
+      "title": "What's Important in \"AI for Epistemics\"?",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Making Artificial Intelligence Work for Investigative Journalism",
+      "title": "Making Artificial Intelligence Work for Investigative Journalism",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Ezra Karger",
+      "title": "Ezra Karger",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "LLMediator",
+      "title": "LLMediator",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Ai-Heng Lee",
+      "title": "Ai-Heng Lee",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Mantas Mazeika",
+      "title": "Mantas Mazeika",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Daniel Kokotajlo",
+      "title": "Daniel Kokotajlo",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Nathanael Fast",
+      "title": "Nathanael Fast",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Metaforecast",
+      "title": "Metaforecast",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Santeri Koivula",
+      "title": "Santeri Koivula",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "What are human values,and how do we align AI to them?",
+      "title": "What are human values,and how do we align AI to them?",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "UK Policy Lab",
+      "title": "UK Policy Lab",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Andre Ye",
+      "title": "Andre Ye",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Inyoung Cheong",
+      "title": "Inyoung Cheong",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Danny Halawi",
+      "title": "Danny Halawi",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Esin Durmus",
+      "title": "Esin Durmus",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Valdemar Danry",
+      "title": "Valdemar Danry",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Contra papers claiming superhuman AI forecasting",
+      "title": "Contra papers claiming superhuman AI forecasting",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Srijoni Majumdar",
+      "title": "Srijoni Majumdar",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Forecasting Future World Events with Neural Networks",
+      "title": "Forecasting Future World Events with Neural Networks",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "ForecastBench - A Dynamic Benchmark of AI Forecasting Capabilities",
+      "title": "ForecastBench - A Dynamic Benchmark of AI Forecasting Capabilities",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Sofi Vanhanen",
+      "title": "Sofi Vanhanen",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "AI Forecasting Benchmark",
+      "title": "AI Forecasting Benchmark",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Mosaic Labs",
+      "title": "Mosaic Labs",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Rose Novick",
+      "title": "Rose Novick",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "AI doing philosophy = AI generating hands?",
+      "title": "AI doing philosophy = AI generating hands?",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Rich Rippin",
+      "title": "Rich Rippin",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Andrea Brennen",
+      "title": "Andrea Brennen",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Habermas Machine",
+      "title": "Habermas Machine",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Justin Reppert",
+      "title": "Justin Reppert",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Robert G. Gambee",
+      "title": "Robert G. Gambee",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Jack Wildman",
+      "title": "Jack Wildman",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Levin Brinkmann",
+      "title": "Levin Brinkmann",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Itai Shapira",
+      "title": "Itai Shapira",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Bernhard Schölkopf",
+      "title": "Bernhard Schölkopf",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Bram Delisse",
+      "title": "Bram Delisse",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Helen Meng",
+      "title": "Helen Meng",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Aldo de Moor",
+      "title": "Aldo de Moor",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Debate Maps",
+      "title": "Debate Maps",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Outcome-based Reinforcement Learning to Predict the Future",
+      "title": "Outcome-based Reinforcement Learning to Predict the Future",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Molly Hickman",
+      "title": "Molly Hickman",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Kevin McKee",
+      "title": "Kevin McKee",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Forethought",
+      "title": "Forethought",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "AI Future Project",
+      "title": "AI Future Project",
+      "tags": [
+        "organization"
+      ],
+      "content": ""
+    },
+    {
+      "id": "Kevin Systrom",
+      "title": "Kevin Systrom",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Bot Mediation",
+      "title": "Bot Mediation",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "David C. Parkes",
+      "title": "David C. Parkes",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Lizka Vaintrob",
+      "title": "Lizka Vaintrob",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Fine-tuning language models to find agreement among humans with diverse preferences",
+      "title": "Fine-tuning language models to find agreement among humans with diverse preferences",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Sean Trott",
+      "title": "Sean Trott",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Shiyu Zhao",
+      "title": "Shiyu Zhao",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Ralf H. J. M. Kurvers",
+      "title": "Ralf H. J. M. Kurvers",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Ivan Vendrov",
+      "title": "Ivan Vendrov",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Nat McAleese",
+      "title": "Nat McAleese",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Elicit",
+      "title": "Elicit",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Can AI bring deliberative democracy to the masses?",
+      "title": "Can AI bring deliberative democracy to the masses?",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Colin Megill",
+      "title": "Colin Megill",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Diana Acosta-Navas",
+      "title": "Diana Acosta-Navas",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "John Bash",
+      "title": "John Bash",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Andreas Stuhlmüller",
+      "title": "Andreas Stuhlmüller",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "The AI Adoption Gap - Preparing the US Government for Advanced AI",
+      "title": "The AI Adoption Gap - Preparing the US Government for Advanced AI",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Alex Krasodomski-Jones",
+      "title": "Alex Krasodomski-Jones",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Zachary Jacobs",
+      "title": "Zachary Jacobs",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Rethinking Machine Ethics –Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?",
+      "title": "Rethinking Machine Ethics –Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Artifact",
+      "title": "Artifact",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Wearable Reasoner",
+      "title": "Wearable Reasoner",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Yuan-Fang Li",
+      "title": "Yuan-Fang Li",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Eli Lifland",
+      "title": "Eli Lifland",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Iterated Decomposition - Improving Science Q&A by Supervising Reasoning Processes",
+      "title": "Iterated Decomposition - Improving Science Q&A by Supervising Reasoning Processes",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Peter Mühlbacher",
+      "title": "Peter Mühlbacher",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Lawrence Phillips",
+      "title": "Lawrence Phillips",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Junan Li",
+      "title": "Junan Li",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Shu Yang Lin",
+      "title": "Shu Yang Lin",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Grim",
+      "title": "Grim",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Aleks Berditchevskaia",
+      "title": "Aleks Berditchevskaia",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Rolf Kleef",
+      "title": "Rolf Kleef",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Raphael Köster",
+      "title": "Raphael Köster",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Ravi Iyer",
+      "title": "Ravi Iyer",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Jacquelyn Schneider",
+      "title": "Jacquelyn Schneider",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Xin Lucy Liu",
+      "title": "Xin Lucy Liu",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Jamie Joyce",
+      "title": "Jamie Joyce",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Deep Ganguli",
+      "title": "Deep Ganguli",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Eric Schwitzgebel",
+      "title": "Eric Schwitzgebel",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "$SL Muses",
+      "title": "$SL Muses",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Farhad Moghimifar",
+      "title": "Farhad Moghimifar",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Lukas Finnveden",
+      "title": "Lukas Finnveden",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Reddit",
+      "title": "Reddit",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Samuel Aeschbach",
+      "title": "Samuel Aeschbach",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Indre Tuminauskaite",
+      "title": "Indre Tuminauskaite",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Israel-Palestine Collective Dialogues",
+      "title": "Israel-Palestine Collective Dialogues",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Jaromir Savelka",
+      "title": "Jaromir Savelka",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Opportunities and Risks of LLMs for Scalable Deliberation with Polis",
+      "title": "Opportunities and Risks of LLMs for Scalable Deliberation with Polis",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Joshua A. Becker",
+      "title": "Joshua A. Becker",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Andrew Konya",
+      "title": "Andrew Konya",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "IQT Labs",
+      "title": "IQT Labs",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Gholamreza Haffari",
+      "title": "Gholamreza Haffari",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Joe Edelman",
+      "title": "Joe Edelman",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "MIT Media Lab",
+      "title": "MIT Media Lab",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Evangelos Pournaras",
+      "title": "Evangelos Pournaras",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Jacob Ganz",
+      "title": "Jacob Ganz",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Jan Balaguer",
+      "title": "Jan Balaguer",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "The Society Library",
+      "title": "The Society Library",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Mantic",
+      "title": "Mantic",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Peter Park",
+      "title": "Peter Park",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "OpenAI",
+      "title": "OpenAI",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Flynn Devine",
+      "title": "Flynn Devine",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Dawn Song",
+      "title": "Dawn Song",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Wisdom of the silicon crowd - LLM ensemble prediction capabilities rival human crowd accuracy",
+      "title": "Wisdom of the silicon crowd - LLM ensemble prediction capabilities rival human crowd accuracy",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Anthony Corso",
+      "title": "Anthony Corso",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Aviv Ovadya",
+      "title": "Aviv Ovadya",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Michiel Bakker",
+      "title": "Michiel Bakker",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Let’s use AI to harden human defenses against AI manipulation",
+      "title": "Let’s use AI to harden human defenses against AI manipulation",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Anne-Marie Nussberger",
+      "title": "Anne-Marie Nussberger",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Wei Dai",
+      "title": "Wei Dai",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Christopher Small",
+      "title": "Christopher Small",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Lisa Schirch",
+      "title": "Lisa Schirch",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Sensemaker",
+      "title": "Sensemaker",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Elizabeth Barry",
+      "title": "Elizabeth Barry",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Zhuoran Lu",
+      "title": "Zhuoran Lu",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Pat Pataranutaporn",
+      "title": "Pat Pataranutaporn",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "LLMs Can Teach Themselves to Better Predict the Future",
+      "title": "LLMs Can Teach Themselves to Better Predict the Future",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Martin Chadwick",
+      "title": "Martin Chadwick",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Fred Zhang",
+      "title": "Fred Zhang",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Nexus",
+      "title": "Nexus",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "AI Objectives Institute",
+      "title": "AI Objectives Institute",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Ryan Jia",
+      "title": "Ryan Jia",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Prateek Buch",
+      "title": "Prateek Buch",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Martin Saveski",
+      "title": "Martin Saveski",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Paul Gölz",
+      "title": "Paul Gölz",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Meaning Alignment Institute",
+      "title": "Meaning Alignment Institute",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Q1 AI Benchmarking results",
+      "title": "Q1 AI Benchmarking results",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Lucie Flek",
+      "title": "Lucie Flek",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Stanford Crowdsourced Democracy Team",
+      "title": "Stanford Crowdsourced Democracy Team",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Harold Trinkunas",
+      "title": "Harold Trinkunas",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Nasim Rahaman",
+      "title": "Nasim Rahaman",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Xiaoying Zhang",
+      "title": "Xiaoying Zhang",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "The MultiView Simulation Machine",
+      "title": "The MultiView Simulation Machine",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Forecasting Research Institute",
+      "title": "Forecasting Research Institute",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Christopher Summerfield",
+      "title": "Christopher Summerfield",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Colin Irwin",
+      "title": "Colin Irwin",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Global Dialogues",
+      "title": "Global Dialogues",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "X Community Notes",
+      "title": "X Community Notes",
+      "tags": [
+        "organization"
+      ],
+      "content": ""
+    },
+    {
+      "id": "Hoover Wargaming and Crisis Simulation Initiative",
+      "title": "Hoover Wargaming and Crisis Simulation Initiative",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Luke Stebbing",
+      "title": "Luke Stebbing",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "CeesJan Mol",
+      "title": "CeesJan Mol",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Philip Tetlock",
+      "title": "Philip Tetlock",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Sayash Kapoor",
+      "title": "Sayash Kapoor",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Anita W. Woolley",
+      "title": "Anita W. Woolley",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "AI4Democracy - How AI Can Be Used to Inform Policymaking?",
+      "title": "AI4Democracy - How AI Can Be Used to Inform Policymaking?",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Edith Elkind",
+      "title": "Edith Elkind",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Common Ground",
+      "title": "Common Ground",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Dembrane",
+      "title": "Dembrane",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "John Aslanides",
+      "title": "John Aslanides",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Supernotes",
+      "title": "Supernotes",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Jon Evans",
+      "title": "Jon Evans",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Nick Hikita",
+      "title": "Nick Hikita",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Iyad Rahwan",
+      "title": "Iyad Rahwan",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Anna Strasser",
+      "title": "Anna Strasser",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Romuald Elie",
+      "title": "Romuald Elie",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Grace Kwak Danciu",
+      "title": "Grace Kwak Danciu",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Prompt Engineering Large Language Models’ Forecasting Capabilities",
+      "title": "Prompt Engineering Large Language Models’ Forecasting Capabilities",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Midjourney",
+      "title": "Midjourney",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Luke Hewitt",
+      "title": "Luke Hewitt",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Ted Suzman",
+      "title": "Ted Suzman",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Ozzie Gooen",
+      "title": "Ozzie Gooen",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Georgina Evans",
+      "title": "Georgina Evans",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Nikos I. Bosse",
+      "title": "Nikos I. Bosse",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Ryan Lowe",
+      "title": "Ryan Lowe",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Nicky Case",
+      "title": "Nicky Case",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Raphael Koster",
+      "title": "Raphael Koster",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Justin Stimatze",
+      "title": "Justin Stimatze",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Brett Hennig",
+      "title": "Brett Hennig",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Google DeepMind",
+      "title": "Google DeepMind",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Nandika Donthi",
+      "title": "Nandika Donthi",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Jay Baxter",
+      "title": "Jay Baxter",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Elicit Tool",
+      "title": "Elicit Tool",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Xixin Wu",
+      "title": "Xixin Wu",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Language models can reduce asymmetry in information markets",
+      "title": "Language models can reduce asymmetry in information markets",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Plurality Institute",
+      "title": "Plurality Institute",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "AI Tools for Existential Security",
+      "title": "AI Tools for Existential Security",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Renée DiResta",
+      "title": "Renée DiResta",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Forecasting Tools",
+      "title": "Forecasting Tools",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Karim Benyekhlef",
+      "title": "Karim Benyekhlef",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "How large language models can reshape collective intelligence",
+      "title": "How large language models can reshape collective intelligence",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Mike Krieger",
+      "title": "Mike Krieger",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Democratic Fine-Tuning",
+      "title": "Democratic Fine-Tuning",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Carl Miller",
+      "title": "Carl Miller",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Oded Adomi Leshem",
+      "title": "Oded Adomi Leshem",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Evie Yu-Yen Cheng",
+      "title": "Evie Yu-Yen Cheng",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Generative AI Voting - Fair Collective Choice is Resilient to LLM Biases and Inconsistencies",
+      "title": "Generative AI Voting - Fair Collective Choice is Resilient to LLM Biases and Inconsistencies",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Rai Sur",
+      "title": "Rai Sur",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Naomi Esther",
+      "title": "Naomi Esther",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Tantum Collins",
+      "title": "Tantum Collins",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Multi-Agent Consensus Seeking via Large Language Models",
+      "title": "Multi-Agent Consensus Seeking via Large Language Models",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Online Deliberation Platform",
+      "title": "Online Deliberation Platform",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "How AI Agents Will Improve the Consultation Process",
+      "title": "How AI Agents Will Improve the Consultation Process",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Toby Shevlane",
+      "title": "Toby Shevlane",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Jorim Theuns",
+      "title": "Jorim Theuns",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Google Jigsaw",
+      "title": "Google Jigsaw",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Abdullah Almaatouq",
+      "title": "Abdullah Almaatouq",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Jungwon Byun",
+      "title": "Jungwon Byun",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Manuel Wüthrich",
+      "title": "Manuel Wüthrich",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Richard Everett",
+      "title": "Richard Everett",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Irwin King",
+      "title": "Irwin King",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Pattie Maes",
+      "title": "Pattie Maes",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Miruna Pîslar",
+      "title": "Miruna Pîslar",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Hannes Westermann",
+      "title": "Hannes Westermann",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Maria Antoniak",
+      "title": "Maria Antoniak",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Lucid Lens",
+      "title": "Lucid Lens",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Minda Hu",
+      "title": "Minda Hu",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Ralph Hertwig",
+      "title": "Ralph Hertwig",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Dan Schwarz",
+      "title": "Dan Schwarz",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Ben Turtel",
+      "title": "Ben Turtel",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Matthew Spaniol",
+      "title": "Matthew Spaniol",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Lucy Campbell-Gillingham",
+      "title": "Lucy Campbell-Gillingham",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Deliberative Democracy Lab",
+      "title": "Deliberative Democracy Lab",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Robert Thomson",
+      "title": "Robert Thomson",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Tom Liptay",
+      "title": "Tom Liptay",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Lufeng Xu",
+      "title": "Lufeng Xu",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Houtan Bastani",
+      "title": "Houtan Bastani",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Charlie George",
+      "title": "Charlie George",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Daniel Hnyk",
+      "title": "Daniel Hnyk",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Divya Siddarth",
+      "title": "Divya Siddarth",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Zhou Yu",
+      "title": "Zhou Yu",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Data and Society",
+      "title": "Data and Society",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Natasha Jensen",
+      "title": "Natasha Jensen",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Don't Just Tell Me, Ask Me",
+      "title": "Don't Just Tell Me, Ask Me",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Stanford Center for AI Safety",
+      "title": "Stanford Center for AI Safety",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Rafael Valdece Sousa Bastos",
+      "title": "Rafael Valdece Sousa Bastos",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Barbara Mellers",
+      "title": "Barbara Mellers",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Yaoli Mao",
+      "title": "Yaoli Mao",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Hélène Landemore",
+      "title": "Hélène Landemore",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Michael Henry Tessler",
+      "title": "Michael Henry Tessler",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Ben Day",
+      "title": "Ben Day",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Pantheon",
+      "title": "Pantheon",
+      "tags": [
+        "project"
+      ],
+      "content": "#project"
+    },
+    {
+      "id": "Ran Haase",
+      "title": "Ran Haase",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Saffron Huang",
+      "title": "Saffron Huang",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "AI & Democracy Foundation",
+      "title": "AI & Democracy Foundation",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
+    },
+    {
+      "id": "Chen Yueh-Han",
+      "title": "Chen Yueh-Han",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Taha Yasseri",
+      "title": "Taha Yasseri",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Soham De",
+      "title": "Soham De",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Beth Goldberg",
+      "title": "Beth Goldberg",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Ming Yin",
+      "title": "Ming Yin",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    }
+  ],
+  "links": [
+    {
+      "source": "Mapping the Discourse on AI Safety & Ethics",
+      "target": "Değer Turan"
+    },
+    {
+      "source": "Mapping the Discourse on AI Safety & Ethics",
+      "target": "Colleen McKenzie"
+    },
+    {
+      "source": "Mapping the Discourse on AI Safety & Ethics",
+      "target": "Oliver Klingefjord"
+    },
+    {
+      "source": "ACE - A LLM-based Negotiation Coaching System",
+      "target": "Ryan Shea"
+    },
+    {
+      "source": "ACE - A LLM-based Negotiation Coaching System",
+      "target": "Aymen Kallala"
+    },
+    {
+      "source": "ACE - A LLM-based Negotiation Coaching System",
+      "target": "Xin Lucy Liu"
+    },
+    {
+      "source": "ACE - A LLM-based Negotiation Coaching System",
+      "target": "Michael W. Morris"
+    },
+    {
+      "source": "ACE - A LLM-based Negotiation Coaching System",
+      "target": "Zhou Yu"
+    },
+    {
+      "source": "Amelia Glaese",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Maggie Appleton",
+      "target": "Elicit"
+    },
+    {
+      "source": "Wargames for Peace",
+      "target": "Nicky Case"
+    },
+    {
+      "source": "Wargames for Peace",
+      "target": "Eli Lifland"
+    },
+    {
+      "source": "Wargames for Peace",
+      "target": "Daniel Kokotajlo"
+    },
+    {
+      "source": "Evelien Nieuwenburg",
+      "target": "Dembrane"
+    },
+    {
+      "source": "Enhancing AI-Assisted Group Decision Making through LLM-Powered Devil’s Advocate",
+      "target": "Chun-Wei Chiang"
+    },
+    {
+      "source": "Enhancing AI-Assisted Group Decision Making through LLM-Powered Devil’s Advocate",
+      "target": "Zhuoran Lu"
+    },
+    {
+      "source": "Enhancing AI-Assisted Group Decision Making through LLM-Powered Devil’s Advocate",
+      "target": "Zhuoyan Li"
+    },
+    {
+      "source": "Enhancing AI-Assisted Group Decision Making through LLM-Powered Devil’s Advocate",
+      "target": "Ming Yin"
+    },
+    {
+      "source": "Squiggle AI",
+      "target": "AI Forecasting Benchmark"
+    },
+    {
+      "source": "Squiggle AI",
+      "target": "Ozzie Gooen"
+    },
+    {
+      "source": "Colleen McKenzie",
+      "target": "AI Objectives Institute"
+    },
+    {
+      "source": "Reimagining Democracy for AI",
+      "target": "Aviv Ovadya"
+    },
+    {
+      "source": "Tom Davidson",
+      "target": "Forethought"
+    },
+    {
+      "source": "Deep Research Bench",
+      "target": "Nikos I. Bosse"
+    },
+    {
+      "source": "Deep Research Bench",
+      "target": "Jon Evans"
+    },
+    {
+      "source": "Deep Research Bench",
+      "target": "Robert G. Gambee"
+    },
+    {
+      "source": "Deep Research Bench",
+      "target": "Daniel Hnyk"
+    },
+    {
+      "source": "Deep Research Bench",
+      "target": "Peter Mühlbacher"
+    },
+    {
+      "source": "Deep Research Bench",
+      "target": "Lawrence Phillips"
+    },
+    {
+      "source": "Deep Research Bench",
+      "target": "Dan Schwarz"
+    },
+    {
+      "source": "Deep Research Bench",
+      "target": "Jack Wildman"
+    },
+    {
+      "source": "AI‐assisted scenario generation for strategic planning",
+      "target": "Matthew Spaniol"
+    },
+    {
+      "source": "AI‐assisted scenario generation for strategic planning",
+      "target": "Nicholas Rowland"
+    },
+    {
+      "source": "Hannah Sheahan",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Hannah Sheahan",
+      "target": "OpenAI"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Beth Goldberg"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Diana Acosta-Navas"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Michiel Bakker"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Ian Beacock"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Matthew Botvinick"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Prateek Buch"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Renée DiResta"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Nandika Donthi"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Nathanael Fast"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Ravi Iyer"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Zaria Jalan"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Andrew Konya"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Grace Kwak Danciu"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Hélène Landemore"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Alice Marwick"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Carl Miller"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Aviv Ovadya"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Emily Saltz"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Lisa Schirch"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Dalit Shalom"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Divya Siddarth"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Felix Sieker"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Christopher Small"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Jonathan Stray"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Audrey Tang"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Michael Henry Tessler"
+    },
+    {
+      "source": "AI and the Future of Digital Public Squares",
+      "target": "Amy Zhang"
+    },
+    {
+      "source": "Daniel P. Hogan",
+      "target": "IQT Labs"
+    },
+    {
+      "source": "Recursive Public",
+      "target": "vTaiwan"
+    },
+    {
+      "source": "Recursive Public",
+      "target": "AI Objectives Institute"
+    },
+    {
+      "source": "Recursive Public",
+      "target": "Flynn Devine"
+    },
+    {
+      "source": "Recursive Public",
+      "target": "Alex Krasodomski-Jones"
+    },
+    {
+      "source": "Recursive Public",
+      "target": "Carl Miller"
+    },
+    {
+      "source": "Recursive Public",
+      "target": "Shu Yang Lin"
+    },
+    {
+      "source": "Recursive Public",
+      "target": "Jia-Wei Cui"
+    },
+    {
+      "source": "Recursive Public",
+      "target": "Bruno Marnette"
+    },
+    {
+      "source": "Recursive Public",
+      "target": "Rowan Wilkinson"
+    },
+    {
+      "source": "Snow Globe",
+      "target": "Daniel P. Hogan"
+    },
+    {
+      "source": "Snow Globe",
+      "target": "Andrea Brennen"
+    },
+    {
+      "source": "Alice Marwick",
+      "target": "Data and Society"
+    },
+    {
+      "source": "Oliver Klingefjord",
+      "target": "Meaning Alignment Institute"
+    },
+    {
+      "source": "Scaffolding cooperation in human groups with deep reinforcement learning",
+      "target": "Kevin McKee"
+    },
+    {
+      "source": "Scaffolding cooperation in human groups with deep reinforcement learning",
+      "target": "Andrea Tacchetti"
+    },
+    {
+      "source": "Scaffolding cooperation in human groups with deep reinforcement learning",
+      "target": "Michiel Bakker"
+    },
+    {
+      "source": "Scaffolding cooperation in human groups with deep reinforcement learning",
+      "target": "Jan Balaguer"
+    },
+    {
+      "source": "Scaffolding cooperation in human groups with deep reinforcement learning",
+      "target": "Lucy Campbell-Gillingham"
+    },
+    {
+      "source": "Scaffolding cooperation in human groups with deep reinforcement learning",
+      "target": "Richard Everett"
+    },
+    {
+      "source": "Scaffolding cooperation in human groups with deep reinforcement learning",
+      "target": "Matthew Botvinick"
+    },
+    {
+      "source": "Language Agents as Digital Representatives in Collective Decision-Making",
+      "target": "Daniel Jarrett"
+    },
+    {
+      "source": "Language Agents as Digital Representatives in Collective Decision-Making",
+      "target": "Michael Henry Tessler"
+    },
+    {
+      "source": "Language Agents as Digital Representatives in Collective Decision-Making",
+      "target": "Romuald Elie"
+    },
+    {
+      "source": "Language Agents as Digital Representatives in Collective Decision-Making",
+      "target": "Miruna Pîslar"
+    },
+    {
+      "source": "Language Agents as Digital Representatives in Collective Decision-Making",
+      "target": "Raphael Köster"
+    },
+    {
+      "source": "Language Agents as Digital Representatives in Collective Decision-Making",
+      "target": "Christopher Summerfield"
+    },
+    {
+      "source": "Language Agents as Digital Representatives in Collective Decision-Making",
+      "target": "Michiel Bakker"
+    },
+    {
+      "source": "Language Agents as Digital Representatives in Collective Decision-Making",
+      "target": "Jan Balaguer"
+    },
+    {
+      "source": "Language Agents as Digital Representatives in Collective Decision-Making",
+      "target": "Andrea Tacchetti"
+    },
+    {
+      "source": "Luke Thorburn",
+      "target": "AI & Democracy Foundation"
+    },
+    {
+      "source": "Foresight AI",
+      "target": "AI Forecasting Benchmark"
+    },
+    {
+      "source": "Foresight AI",
+      "target": "Lightning Rod Labs"
+    },
+    {
+      "source": "Double Crux Bot",
+      "target": "Sofi Vanhanen"
+    },
+    {
+      "source": "Double Crux Bot",
+      "target": "Santeri Koivula"
+    },
+    {
+      "source": "Double Crux Bot",
+      "target": "Sarah Bluhm"
+    },
+    {
+      "source": "Emily Saltz",
+      "target": "Google Jigsaw"
+    },
+    {
+      "source": "Julien Cornebise",
+      "target": "The Computational Democracy Project"
+    },
+    {
+      "source": "Daniel Jarrett",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Danny Fanklin",
+      "target": "Lightning Rod Labs"
+    },
+    {
+      "source": "Language Models as Critical Thinking Tools - A Case Study of Philosophers",
+      "target": "Andre Ye"
+    },
+    {
+      "source": "Language Models as Critical Thinking Tools - A Case Study of Philosophers",
+      "target": "Jared Moore"
+    },
+    {
+      "source": "Language Models as Critical Thinking Tools - A Case Study of Philosophers",
+      "target": "Rose Novick"
+    },
+    {
+      "source": "Language Models as Critical Thinking Tools - A Case Study of Philosophers",
+      "target": "Amy Zhang"
+    },
+    {
+      "source": "Talk to the City",
+      "target": "AI Objectives Institute"
+    },
+    {
+      "source": "My Current Claims and Cruxes on LLM Forecasting & Epistemics",
+      "target": "Ozzie Gooen"
+    },
+    {
+      "source": "Niki Dupuis",
+      "target": "Mosaic Labs"
+    },
+    {
+      "source": "AI Enhanced Reasoning - Augmenting Human Critical Thinking With AI Systems",
+      "target": "Valdemar Danry"
+    },
+    {
+      "source": "Modelling Political Coalition Negotiations Using LLM-based Agents",
+      "target": "Farhad Moghimifar"
+    },
+    {
+      "source": "Modelling Political Coalition Negotiations Using LLM-based Agents",
+      "target": "Yuan-Fang Li"
+    },
+    {
+      "source": "Modelling Political Coalition Negotiations Using LLM-based Agents",
+      "target": "Robert Thomson"
+    },
+    {
+      "source": "Modelling Political Coalition Negotiations Using LLM-based Agents",
+      "target": "Gholamreza Haffari"
+    },
+    {
+      "source": "Approaching Human-Level Forecasting with Language Models",
+      "target": "Danny Halawi"
+    },
+    {
+      "source": "Approaching Human-Level Forecasting with Language Models",
+      "target": "Fred Zhang"
+    },
+    {
+      "source": "Approaching Human-Level Forecasting with Language Models",
+      "target": "Chen Yueh-Han"
+    },
+    {
+      "source": "Approaching Human-Level Forecasting with Language Models",
+      "target": "Jacob Steinhardt"
+    },
+    {
+      "source": "Alice Siu",
+      "target": "Deliberative Democracy Lab"
+    },
+    {
+      "source": "Kris Skotheim",
+      "target": "Lightning Rod Labs"
+    },
+    {
+      "source": "Audrey Tang",
+      "target": "Collective Intelligence Project"
+    },
+    {
+      "source": "Audrey Tang",
+      "target": "Plurality Institute"
+    },
+    {
+      "source": "Audrey Tang",
+      "target": "vTaiwan"
+    },
+    {
+      "source": "Bridging Bot",
+      "target": "Jeff Fossett"
+    },
+    {
+      "source": "LLMs as Research Tools -  A Large Scale Survey of Researchers’ Usage and Perceptions",
+      "target": "Zhehui Liao"
+    },
+    {
+      "source": "LLMs as Research Tools -  A Large Scale Survey of Researchers’ Usage and Perceptions",
+      "target": "Maria Antoniak"
+    },
+    {
+      "source": "LLMs as Research Tools -  A Large Scale Survey of Researchers’ Usage and Perceptions",
+      "target": "Inyoung Cheong"
+    },
+    {
+      "source": "LLMs as Research Tools -  A Large Scale Survey of Researchers’ Usage and Perceptions",
+      "target": "Evie Yu-Yen Cheng"
+    },
+    {
+      "source": "LLMs as Research Tools -  A Large Scale Survey of Researchers’ Usage and Perceptions",
+      "target": "Ai-Heng Lee"
+    },
+    {
+      "source": "LLMs as Research Tools -  A Large Scale Survey of Researchers’ Usage and Perceptions",
+      "target": "Kyle Lo"
+    },
+    {
+      "source": "LLMs as Research Tools -  A Large Scale Survey of Researchers’ Usage and Perceptions",
+      "target": "Joseph Chee Chang"
+    },
+    {
+      "source": "LLMs as Research Tools -  A Large Scale Survey of Researchers’ Usage and Perceptions",
+      "target": "Amy Zhang"
+    },
+    {
+      "source": "Andrea Tacchetti",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Future Search",
+      "target": "AI Forecasting Benchmark"
+    },
+    {
+      "source": "Ben Wilson",
+      "target": "Metaculus"
+    },
+    {
+      "source": "Ben Wilson",
+      "target": "The Society Library"
+    },
+    {
+      "source": "Human v Bots Forecasting Tournament 2024",
+      "target": "Future Search"
+    },
+    {
+      "source": "Democratic Policy Development using Collective Dialogues and AI",
+      "target": "Andrew Konya"
+    },
+    {
+      "source": "Democratic Policy Development using Collective Dialogues and AI",
+      "target": "Lisa Schirch"
+    },
+    {
+      "source": "Democratic Policy Development using Collective Dialogues and AI",
+      "target": "Colin Irwin"
+    },
+    {
+      "source": "Democratic Policy Development using Collective Dialogues and AI",
+      "target": "Aviv Ovadya"
+    },
+    {
+      "source": "Değer Turan",
+      "target": "Metaculus"
+    },
+    {
+      "source": "Değer Turan",
+      "target": "AI Objectives Institute"
+    },
+    {
+      "source": "AI-Augmented Predictions - LLM Assistants Improve Human Forecasting Accuracy",
+      "target": "Philipp Schoenegger"
+    },
+    {
+      "source": "AI-Augmented Predictions - LLM Assistants Improve Human Forecasting Accuracy",
+      "target": "Peter Park"
+    },
+    {
+      "source": "AI-Augmented Predictions - LLM Assistants Improve Human Forecasting Accuracy",
+      "target": "Ezra Karger"
+    },
+    {
+      "source": "AI-Augmented Predictions - LLM Assistants Improve Human Forecasting Accuracy",
+      "target": "Sean Trott"
+    },
+    {
+      "source": "AI-Augmented Predictions - LLM Assistants Improve Human Forecasting Accuracy",
+      "target": "Philip Tetlock"
+    },
+    {
+      "source": "Jeff Fossett",
+      "target": "Plurality Institute"
+    },
+    {
+      "source": "Human vs. Machine -  Behavioral Differences between Expert Humans and Language Models in Wargame Simulations",
+      "target": "Max Lamparth"
+    },
+    {
+      "source": "Human vs. Machine -  Behavioral Differences between Expert Humans and Language Models in Wargame Simulations",
+      "target": "Anthony Corso"
+    },
+    {
+      "source": "Human vs. Machine -  Behavioral Differences between Expert Humans and Language Models in Wargame Simulations",
+      "target": "Jacob Ganz"
+    },
+    {
+      "source": "Human vs. Machine -  Behavioral Differences between Expert Humans and Language Models in Wargame Simulations",
+      "target": "Oriana Skylar Mastro"
+    },
+    {
+      "source": "Human vs. Machine -  Behavioral Differences between Expert Humans and Language Models in Wargame Simulations",
+      "target": "Jacquelyn Schneider"
+    },
+    {
+      "source": "Human vs. Machine -  Behavioral Differences between Expert Humans and Language Models in Wargame Simulations",
+      "target": "Harold Trinkunas"
+    },
+    {
+      "source": "Hadjar Homaei",
+      "target": "The Computational Democracy Project"
+    },
+    {
+      "source": "Philipp Schoenegger",
+      "target": "Metaculus"
+    },
+    {
+      "source": "Nuño Sempere",
+      "target": "Sentinel"
+    },
+    {
+      "source": "Bruno Marnette",
+      "target": "AI Objectives Institute"
+    },
+    {
+      "source": "Ben Rachbach",
+      "target": "Elicit"
+    },
+    {
+      "source": "Ian Beacock",
+      "target": "Google Jigsaw"
+    },
+    {
+      "source": "Max Lamparth",
+      "target": "Stanford Center for AI Safety"
+    },
+    {
+      "source": "Matthew Botvinick",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Generative Social Choice",
+      "target": "Sara Fish"
+    },
+    {
+      "source": "Generative Social Choice",
+      "target": "Paul Gölz"
+    },
+    {
+      "source": "Generative Social Choice",
+      "target": "David C. Parkes"
+    },
+    {
+      "source": "Generative Social Choice",
+      "target": "Ariel Procaccia"
+    },
+    {
+      "source": "Generative Social Choice",
+      "target": "Gili Rusak"
+    },
+    {
+      "source": "Generative Social Choice",
+      "target": "Itai Shapira"
+    },
+    {
+      "source": "Generative Social Choice",
+      "target": "Manuel Wüthrich"
+    },
+    {
+      "source": "Amplifying transformative potential while designing augmented deliberative systems",
+      "target": "Shu Yang Lin"
+    },
+    {
+      "source": "Creating a large language model of a philosopher",
+      "target": "Eric Schwitzgebel"
+    },
+    {
+      "source": "Creating a large language model of a philosopher",
+      "target": "David Schwitzgebel"
+    },
+    {
+      "source": "Creating a large language model of a philosopher",
+      "target": "Anna Strasser"
+    },
+    {
+      "source": "What's Important in \"AI for Epistemics\"?",
+      "target": "Lukas Finnveden"
+    },
+    {
+      "source": "Making Artificial Intelligence Work for Investigative Journalism",
+      "target": "Jonathan Stray"
+    },
+    {
+      "source": "Ezra Karger",
+      "target": "Forecasting Research Institute"
+    },
+    {
+      "source": "LLMediator",
+      "target": "Hannes Westermann"
+    },
+    {
+      "source": "LLMediator",
+      "target": "Jaromir Savelka"
+    },
+    {
+      "source": "LLMediator",
+      "target": "Karim Benyekhlef"
+    },
+    {
+      "source": "Daniel Kokotajlo",
+      "target": "AI Future Project"
+    },
+    {
+      "source": "Metaforecast",
+      "target": "Nuño Sempere"
+    },
+    {
+      "source": "Metaforecast",
+      "target": "Ozzie Gooen"
+    },
+    {
+      "source": "What are human values,and how do we align AI to them?",
+      "target": "Oliver Klingefjord"
+    },
+    {
+      "source": "What are human values,and how do we align AI to them?",
+      "target": "Ryan Lowe"
+    },
+    {
+      "source": "What are human values,and how do we align AI to them?",
+      "target": "Joe Edelman"
+    },
+    {
+      "source": "Esin Durmus",
+      "target": "Anthropic"
+    },
+    {
+      "source": "Valdemar Danry",
+      "target": "MIT Media Lab"
+    },
+    {
+      "source": "Contra papers claiming superhuman AI forecasting",
+      "target": "Nikos I. Bosse"
+    },
+    {
+      "source": "Contra papers claiming superhuman AI forecasting",
+      "target": "Peter Mühlbacher"
+    },
+    {
+      "source": "Contra papers claiming superhuman AI forecasting",
+      "target": "Lawrence Phillips"
+    },
+    {
+      "source": "Contra papers claiming superhuman AI forecasting",
+      "target": "Dan Schwarz"
+    },
+    {
+      "source": "Forecasting Future World Events with Neural Networks",
+      "target": "Andy Zou"
+    },
+    {
+      "source": "Forecasting Future World Events with Neural Networks",
+      "target": "Tristan Xiao"
+    },
+    {
+      "source": "Forecasting Future World Events with Neural Networks",
+      "target": "Ryan Jia"
+    },
+    {
+      "source": "Forecasting Future World Events with Neural Networks",
+      "target": "Joe Kwon"
+    },
+    {
+      "source": "Forecasting Future World Events with Neural Networks",
+      "target": "Mantas Mazeika"
+    },
+    {
+      "source": "Forecasting Future World Events with Neural Networks",
+      "target": "Richard Li"
+    },
+    {
+      "source": "Forecasting Future World Events with Neural Networks",
+      "target": "Dawn Song"
+    },
+    {
+      "source": "Forecasting Future World Events with Neural Networks",
+      "target": "Jacob Steinhardt"
+    },
+    {
+      "source": "Forecasting Future World Events with Neural Networks",
+      "target": "Owain Evans"
+    },
+    {
+      "source": "Forecasting Future World Events with Neural Networks",
+      "target": "Dan Hendrycks"
+    },
+    {
+      "source": "ForecastBench - A Dynamic Benchmark of AI Forecasting Capabilities",
+      "target": "Ezra Karger"
+    },
+    {
+      "source": "ForecastBench - A Dynamic Benchmark of AI Forecasting Capabilities",
+      "target": "Houtan Bastani"
+    },
+    {
+      "source": "ForecastBench - A Dynamic Benchmark of AI Forecasting Capabilities",
+      "target": "Chen Yueh-Han"
+    },
+    {
+      "source": "ForecastBench - A Dynamic Benchmark of AI Forecasting Capabilities",
+      "target": "Zachary Jacobs"
+    },
+    {
+      "source": "ForecastBench - A Dynamic Benchmark of AI Forecasting Capabilities",
+      "target": "Danny Halawi"
+    },
+    {
+      "source": "ForecastBench - A Dynamic Benchmark of AI Forecasting Capabilities",
+      "target": "Fred Zhang"
+    },
+    {
+      "source": "ForecastBench - A Dynamic Benchmark of AI Forecasting Capabilities",
+      "target": "Philip Tetlock"
+    },
+    {
+      "source": "Sofi Vanhanen",
+      "target": "Mosaic Labs"
+    },
+    {
+      "source": "AI Forecasting Benchmark",
+      "target": "Metaculus"
+    },
+    {
+      "source": "AI doing philosophy = AI generating hands?",
+      "target": "Wei Dai"
+    },
+    {
+      "source": "Andrea Brennen",
+      "target": "IQT Labs"
+    },
+    {
+      "source": "Habermas Machine",
+      "target": "Michael Henry Tessler"
+    },
+    {
+      "source": "Habermas Machine",
+      "target": "Michiel Bakker"
+    },
+    {
+      "source": "Habermas Machine",
+      "target": "Daniel Jarrett"
+    },
+    {
+      "source": "Habermas Machine",
+      "target": "Hannah Sheahan"
+    },
+    {
+      "source": "Habermas Machine",
+      "target": "Martin Chadwick"
+    },
+    {
+      "source": "Habermas Machine",
+      "target": "Raphael Koster"
+    },
+    {
+      "source": "Habermas Machine",
+      "target": "Georgina Evans"
+    },
+    {
+      "source": "Habermas Machine",
+      "target": "Lucy Campbell-Gillingham"
+    },
+    {
+      "source": "Habermas Machine",
+      "target": "Tantum Collins"
+    },
+    {
+      "source": "Habermas Machine",
+      "target": "David C. Parkes"
+    },
+    {
+      "source": "Habermas Machine",
+      "target": "Matthew Botvinick"
+    },
+    {
+      "source": "Habermas Machine",
+      "target": "Christopher Summerfield"
+    },
+    {
+      "source": "Justin Reppert",
+      "target": "Elicit"
+    },
+    {
+      "source": "Robert G. Gambee",
+      "target": "Future Search"
+    },
+    {
+      "source": "Jack Wildman",
+      "target": "Future Search"
+    },
+    {
+      "source": "Debate Maps",
+      "target": "The Society Library"
+    },
+    {
+      "source": "Outcome-based Reinforcement Learning to Predict the Future",
+      "target": "Ben Turtel"
+    },
+    {
+      "source": "Outcome-based Reinforcement Learning to Predict the Future",
+      "target": "Danny Fanklin"
+    },
+    {
+      "source": "Outcome-based Reinforcement Learning to Predict the Future",
+      "target": "Philipp Schoenegger"
+    },
+    {
+      "source": "Outcome-based Reinforcement Learning to Predict the Future",
+      "target": "Kris Skotheim"
+    },
+    {
+      "source": "Outcome-based Reinforcement Learning to Predict the Future",
+      "target": "Luke Hewitt"
+    },
+    {
+      "source": "Molly Hickman",
+      "target": "Forecasting Research Institute"
+    },
+    {
+      "source": "Molly Hickman",
+      "target": "Metaculus"
+    },
+    {
+      "source": "Kevin McKee",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Bot Mediation",
+      "target": "Curtis Holdsworth"
+    },
+    {
+      "source": "Bot Mediation",
+      "target": "Darren Fancher"
+    },
+    {
+      "source": "Bot Mediation",
+      "target": "Nick Hikita"
+    },
+    {
+      "source": "David C. Parkes",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Lizka Vaintrob",
+      "target": "Forethought"
+    },
+    {
+      "source": "Fine-tuning language models to find agreement among humans with diverse preferences",
+      "target": "Michiel Bakker"
+    },
+    {
+      "source": "Fine-tuning language models to find agreement among humans with diverse preferences",
+      "target": "Martin Chadwick"
+    },
+    {
+      "source": "Fine-tuning language models to find agreement among humans with diverse preferences",
+      "target": "Hannah Sheahan"
+    },
+    {
+      "source": "Fine-tuning language models to find agreement among humans with diverse preferences",
+      "target": "Michael Henry Tessler"
+    },
+    {
+      "source": "Fine-tuning language models to find agreement among humans with diverse preferences",
+      "target": "Lucy Campbell-Gillingham"
+    },
+    {
+      "source": "Fine-tuning language models to find agreement among humans with diverse preferences",
+      "target": "Jan Balaguer"
+    },
+    {
+      "source": "Fine-tuning language models to find agreement among humans with diverse preferences",
+      "target": "Nat McAleese"
+    },
+    {
+      "source": "Fine-tuning language models to find agreement among humans with diverse preferences",
+      "target": "Amelia Glaese"
+    },
+    {
+      "source": "Fine-tuning language models to find agreement among humans with diverse preferences",
+      "target": "John Aslanides"
+    },
+    {
+      "source": "Fine-tuning language models to find agreement among humans with diverse preferences",
+      "target": "Matthew Botvinick"
+    },
+    {
+      "source": "Fine-tuning language models to find agreement among humans with diverse preferences",
+      "target": "Christopher Summerfield"
+    },
+    {
+      "source": "Ivan Vendrov",
+      "target": "Midjourney"
+    },
+    {
+      "source": "Ivan Vendrov",
+      "target": "Anthropic"
+    },
+    {
+      "source": "Nat McAleese",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Can AI bring deliberative democracy to the masses?",
+      "target": "Hélène Landemore"
+    },
+    {
+      "source": "Colin Megill",
+      "target": "The Computational Democracy Project"
+    },
+    {
+      "source": "John Bash",
+      "target": "Metaculus"
+    },
+    {
+      "source": "Andreas Stuhlmüller",
+      "target": "Elicit"
+    },
+    {
+      "source": "The AI Adoption Gap - Preparing the US Government for Advanced AI",
+      "target": "Lizka Vaintrob"
+    },
+    {
+      "source": "Zachary Jacobs",
+      "target": "Forecasting Research Institute"
+    },
+    {
+      "source": "Rethinking Machine Ethics –Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?",
+      "target": "Jingyan Zhou"
+    },
+    {
+      "source": "Rethinking Machine Ethics –Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?",
+      "target": "Minda Hu"
+    },
+    {
+      "source": "Rethinking Machine Ethics –Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?",
+      "target": "Junan Li"
+    },
+    {
+      "source": "Rethinking Machine Ethics –Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?",
+      "target": "Xiaoying Zhang"
+    },
+    {
+      "source": "Rethinking Machine Ethics –Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?",
+      "target": "Xixin Wu"
+    },
+    {
+      "source": "Rethinking Machine Ethics –Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?",
+      "target": "Irwin King"
+    },
+    {
+      "source": "Rethinking Machine Ethics –Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?",
+      "target": "Helen Meng"
+    },
+    {
+      "source": "Artifact",
+      "target": "Kevin Systrom"
+    },
+    {
+      "source": "Artifact",
+      "target": "Mike Krieger"
+    },
+    {
+      "source": "Wearable Reasoner",
+      "target": "Valdemar Danry"
+    },
+    {
+      "source": "Wearable Reasoner",
+      "target": "Pat Pataranutaporn"
+    },
+    {
+      "source": "Wearable Reasoner",
+      "target": "Yaoli Mao"
+    },
+    {
+      "source": "Wearable Reasoner",
+      "target": "Pattie Maes"
+    },
+    {
+      "source": "Eli Lifland",
+      "target": "AI Future Project"
+    },
+    {
+      "source": "Iterated Decomposition - Improving Science Q&A by Supervising Reasoning Processes",
+      "target": "Justin Reppert"
+    },
+    {
+      "source": "Iterated Decomposition - Improving Science Q&A by Supervising Reasoning Processes",
+      "target": "Ben Rachbach"
+    },
+    {
+      "source": "Iterated Decomposition - Improving Science Q&A by Supervising Reasoning Processes",
+      "target": "Charlie George"
+    },
+    {
+      "source": "Iterated Decomposition - Improving Science Q&A by Supervising Reasoning Processes",
+      "target": "Luke Stebbing"
+    },
+    {
+      "source": "Iterated Decomposition - Improving Science Q&A by Supervising Reasoning Processes",
+      "target": "Jungwon Byun"
+    },
+    {
+      "source": "Iterated Decomposition - Improving Science Q&A by Supervising Reasoning Processes",
+      "target": "Maggie Appleton"
+    },
+    {
+      "source": "Iterated Decomposition - Improving Science Q&A by Supervising Reasoning Processes",
+      "target": "Andreas Stuhlmüller"
+    },
+    {
+      "source": "Peter Mühlbacher",
+      "target": "Future Search"
+    },
+    {
+      "source": "Lawrence Phillips",
+      "target": "Future Search"
+    },
+    {
+      "source": "Shu Yang Lin",
+      "target": "AI Objectives Institute"
+    },
+    {
+      "source": "Shu Yang Lin",
+      "target": "vTaiwan"
+    },
+    {
+      "source": "Grim",
+      "target": "Rai Sur"
+    },
+    {
+      "source": "Grim",
+      "target": "Nuño Sempere"
+    },
+    {
+      "source": "Raphael Köster",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Jacquelyn Schneider",
+      "target": "Hoover Wargaming and Crisis Simulation Initiative"
+    },
+    {
+      "source": "Jamie Joyce",
+      "target": "The Society Library"
+    },
+    {
+      "source": "Deep Ganguli",
+      "target": "Anthropic"
+    },
+    {
+      "source": "$SL Muses",
+      "target": "The Society Library"
+    },
+    {
+      "source": "Lukas Finnveden",
+      "target": "Forethought"
+    },
+    {
+      "source": "Israel-Palestine Collective Dialogues",
+      "target": "Andrew Konya"
+    },
+    {
+      "source": "Israel-Palestine Collective Dialogues",
+      "target": "Luke Thorburn"
+    },
+    {
+      "source": "Israel-Palestine Collective Dialogues",
+      "target": "Wasim Almasri"
+    },
+    {
+      "source": "Israel-Palestine Collective Dialogues",
+      "target": "Oded Adomi Leshem"
+    },
+    {
+      "source": "Israel-Palestine Collective Dialogues",
+      "target": "Ariel Procaccia"
+    },
+    {
+      "source": "Israel-Palestine Collective Dialogues",
+      "target": "Lisa Schirch"
+    },
+    {
+      "source": "Israel-Palestine Collective Dialogues",
+      "target": "Michiel Bakker"
+    },
+    {
+      "source": "Opportunities and Risks of LLMs for Scalable Deliberation with Polis",
+      "target": "Christopher Small"
+    },
+    {
+      "source": "Opportunities and Risks of LLMs for Scalable Deliberation with Polis",
+      "target": "Ivan Vendrov"
+    },
+    {
+      "source": "Opportunities and Risks of LLMs for Scalable Deliberation with Polis",
+      "target": "Esin Durmus"
+    },
+    {
+      "source": "Opportunities and Risks of LLMs for Scalable Deliberation with Polis",
+      "target": "Hadjar Homaei"
+    },
+    {
+      "source": "Opportunities and Risks of LLMs for Scalable Deliberation with Polis",
+      "target": "Elizabeth Barry"
+    },
+    {
+      "source": "Opportunities and Risks of LLMs for Scalable Deliberation with Polis",
+      "target": "Julien Cornebise"
+    },
+    {
+      "source": "Opportunities and Risks of LLMs for Scalable Deliberation with Polis",
+      "target": "Ted Suzman"
+    },
+    {
+      "source": "Opportunities and Risks of LLMs for Scalable Deliberation with Polis",
+      "target": "Deep Ganguli"
+    },
+    {
+      "source": "Opportunities and Risks of LLMs for Scalable Deliberation with Polis",
+      "target": "Colin Megill"
+    },
+    {
+      "source": "Andrew Konya",
+      "target": "Remesh"
+    },
+    {
+      "source": "Andrew Konya",
+      "target": "AI & Democracy Foundation"
+    },
+    {
+      "source": "Joe Edelman",
+      "target": "Meaning Alignment Institute"
+    },
+    {
+      "source": "Jacob Ganz",
+      "target": "Hoover Wargaming and Crisis Simulation Initiative"
+    },
+    {
+      "source": "Jan Balaguer",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Mantic",
+      "target": "AI Forecasting Benchmark"
+    },
+    {
+      "source": "Wisdom of the silicon crowd - LLM ensemble prediction capabilities rival human crowd accuracy",
+      "target": "Philipp Schoenegger"
+    },
+    {
+      "source": "Wisdom of the silicon crowd - LLM ensemble prediction capabilities rival human crowd accuracy",
+      "target": "Indre Tuminauskaite"
+    },
+    {
+      "source": "Wisdom of the silicon crowd - LLM ensemble prediction capabilities rival human crowd accuracy",
+      "target": "Peter Park"
+    },
+    {
+      "source": "Wisdom of the silicon crowd - LLM ensemble prediction capabilities rival human crowd accuracy",
+      "target": "Rafael Valdece Sousa Bastos"
+    },
+    {
+      "source": "Wisdom of the silicon crowd - LLM ensemble prediction capabilities rival human crowd accuracy",
+      "target": "Philip Tetlock"
+    },
+    {
+      "source": "Anthony Corso",
+      "target": "Stanford Center for AI Safety"
+    },
+    {
+      "source": "Aviv Ovadya",
+      "target": "AI & Democracy Foundation"
+    },
+    {
+      "source": "Michiel Bakker",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Let’s use AI to harden human defenses against AI manipulation",
+      "target": "Tom Davidson"
+    },
+    {
+      "source": "Christopher Small",
+      "target": "Google Jigsaw"
+    },
+    {
+      "source": "Christopher Small",
+      "target": "The Computational Democracy Project"
+    },
+    {
+      "source": "Lisa Schirch",
+      "target": "Plurality Institute"
+    },
+    {
+      "source": "Sensemaker",
+      "target": "Google Jigsaw"
+    },
+    {
+      "source": "Elizabeth Barry",
+      "target": "The Computational Democracy Project"
+    },
+    {
+      "source": "Pat Pataranutaporn",
+      "target": "MIT Media Lab"
+    },
+    {
+      "source": "LLMs Can Teach Themselves to Better Predict the Future",
+      "target": "Ben Turtel"
+    },
+    {
+      "source": "LLMs Can Teach Themselves to Better Predict the Future",
+      "target": "Danny Fanklin"
+    },
+    {
+      "source": "LLMs Can Teach Themselves to Better Predict the Future",
+      "target": "Philipp Schoenegger"
+    },
+    {
+      "source": "Martin Chadwick",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Nexus",
+      "target": "Sofi Vanhanen"
+    },
+    {
+      "source": "Nexus",
+      "target": "Niki Dupuis"
+    },
+    {
+      "source": "Prateek Buch",
+      "target": "UK Policy Lab"
+    },
+    {
+      "source": "Q1 AI Benchmarking results",
+      "target": "Ben Wilson"
+    },
+    {
+      "source": "Q1 AI Benchmarking results",
+      "target": "John Bash"
+    },
+    {
+      "source": "Q1 AI Benchmarking results",
+      "target": "AI Forecasting Benchmark"
+    },
+    {
+      "source": "The MultiView Simulation Machine",
+      "target": "Jamie Joyce"
+    },
+    {
+      "source": "Christopher Summerfield",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Global Dialogues",
+      "target": "Collective Intelligence Project"
+    },
+    {
+      "source": "Global Dialogues",
+      "target": "Remesh"
+    },
+    {
+      "source": "Luke Stebbing",
+      "target": "Elicit"
+    },
+    {
+      "source": "Philip Tetlock",
+      "target": "Forecasting Research Institute"
+    },
+    {
+      "source": "AI4Democracy - How AI Can Be Used to Inform Policymaking?",
+      "target": "Colleen McKenzie"
+    },
+    {
+      "source": "AI4Democracy - How AI Can Be Used to Inform Policymaking?",
+      "target": "Değer Turan"
+    },
+    {
+      "source": "Common Ground",
+      "target": "Jorim Theuns"
+    },
+    {
+      "source": "Common Ground",
+      "target": "Evelien Nieuwenburg"
+    },
+    {
+      "source": "Common Ground",
+      "target": "Pepijn Verburg"
+    },
+    {
+      "source": "Common Ground",
+      "target": "Lei Nelissen"
+    },
+    {
+      "source": "Common Ground",
+      "target": "Brett Hennig"
+    },
+    {
+      "source": "Common Ground",
+      "target": "Rich Rippin"
+    },
+    {
+      "source": "Common Ground",
+      "target": "Ran Haase"
+    },
+    {
+      "source": "Common Ground",
+      "target": "Aldo de Moor"
+    },
+    {
+      "source": "Common Ground",
+      "target": "CeesJan Mol"
+    },
+    {
+      "source": "Common Ground",
+      "target": "Naomi Esther"
+    },
+    {
+      "source": "Common Ground",
+      "target": "Rolf Kleef"
+    },
+    {
+      "source": "Common Ground",
+      "target": "Bram Delisse"
+    },
+    {
+      "source": "John Aslanides",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Supernotes",
+      "target": "Soham De"
+    },
+    {
+      "source": "Supernotes",
+      "target": "Michiel Bakker"
+    },
+    {
+      "source": "Supernotes",
+      "target": "Jay Baxter"
+    },
+    {
+      "source": "Supernotes",
+      "target": "Martin Saveski"
+    },
+    {
+      "source": "Jon Evans",
+      "target": "Future Search"
+    },
+    {
+      "source": "Romuald Elie",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Prompt Engineering Large Language Models’ Forecasting Capabilities",
+      "target": "Philipp Schoenegger"
+    },
+    {
+      "source": "Prompt Engineering Large Language Models’ Forecasting Capabilities",
+      "target": "Cameron Jones"
+    },
+    {
+      "source": "Prompt Engineering Large Language Models’ Forecasting Capabilities",
+      "target": "Philip Tetlock"
+    },
+    {
+      "source": "Prompt Engineering Large Language Models’ Forecasting Capabilities",
+      "target": "Barbara Mellers"
+    },
+    {
+      "source": "Ted Suzman",
+      "target": "The Computational Democracy Project"
+    },
+    {
+      "source": "Ozzie Gooen",
+      "target": "Quantified Uncertainty Research Institute"
+    },
+    {
+      "source": "Georgina Evans",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Nikos I. Bosse",
+      "target": "Future Search"
+    },
+    {
+      "source": "Ryan Lowe",
+      "target": "Meaning Alignment Institute"
+    },
+    {
+      "source": "Ryan Lowe",
+      "target": "OpenAI"
+    },
+    {
+      "source": "Raphael Koster",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Justin Stimatze",
+      "target": "AI Objectives Institute"
+    },
+    {
+      "source": "Nandika Donthi",
+      "target": "Reddit"
+    },
+    {
+      "source": "Jay Baxter",
+      "target": "X Community Notes"
+    },
+    {
+      "source": "Elicit Tool",
+      "target": "Elicit"
+    },
+    {
+      "source": "Language models can reduce asymmetry in information markets",
+      "target": "Martin Weiss"
+    },
+    {
+      "source": "Language models can reduce asymmetry in information markets",
+      "target": "Nasim Rahaman"
+    },
+    {
+      "source": "Language models can reduce asymmetry in information markets",
+      "target": "Manuel Wüthrich"
+    },
+    {
+      "source": "Language models can reduce asymmetry in information markets",
+      "target": "Yoshua Bengio"
+    },
+    {
+      "source": "Language models can reduce asymmetry in information markets",
+      "target": "Li Erran Li"
+    },
+    {
+      "source": "Language models can reduce asymmetry in information markets",
+      "target": "Bernhard Schölkopf"
+    },
+    {
+      "source": "Language models can reduce asymmetry in information markets",
+      "target": "Chris Pal"
+    },
+    {
+      "source": "AI Tools for Existential Security",
+      "target": "Lizka Vaintrob"
+    },
+    {
+      "source": "AI Tools for Existential Security",
+      "target": "Owen Cotton-Barratt"
+    },
+    {
+      "source": "Forecasting Tools",
+      "target": "Ben Wilson"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Jason W. Burton"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Ezequiel Lopez-Lopez"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Shahar Hechtlinger"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Zoe Rahwan"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Samuel Aeschbach"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Michiel Bakker"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Joshua A. Becker"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Aleks Berditchevskaia"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Julian Berger"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Levin Brinkmann"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Lucie Flek"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Stefan M. Herzog"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Saffron Huang"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Sayash Kapoor"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Arvind Narayanan"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Anne-Marie Nussberger"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Taha Yasseri"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Pietro Nickl"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Abdullah Almaatouq"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Ulrike Hahn"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Ralf H. J. M. Kurvers"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Susan Leavy"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Iyad Rahwan"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Divya Siddarth"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Alice Siu"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Anita W. Woolley"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Dirk U. Wulff"
+    },
+    {
+      "source": "How large language models can reshape collective intelligence",
+      "target": "Ralph Hertwig"
+    },
+    {
+      "source": "Democratic Fine-Tuning",
+      "target": "Joe Edelman"
+    },
+    {
+      "source": "Democratic Fine-Tuning",
+      "target": "Oliver Klingefjord"
+    },
+    {
+      "source": "Democratic Fine-Tuning",
+      "target": "Ivan Vendrov"
+    },
+    {
+      "source": "Generative AI Voting - Fair Collective Choice is Resilient to LLM Biases and Inconsistencies",
+      "target": "Srijoni Majumdar"
+    },
+    {
+      "source": "Generative AI Voting - Fair Collective Choice is Resilient to LLM Biases and Inconsistencies",
+      "target": "Edith Elkind"
+    },
+    {
+      "source": "Generative AI Voting - Fair Collective Choice is Resilient to LLM Biases and Inconsistencies",
+      "target": "Evangelos Pournaras"
+    },
+    {
+      "source": "Rai Sur",
+      "target": "Sentinel"
+    },
+    {
+      "source": "Tantum Collins",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Multi-Agent Consensus Seeking via Large Language Models",
+      "target": "Huaben Chen"
+    },
+    {
+      "source": "Multi-Agent Consensus Seeking via Large Language Models",
+      "target": "Wenkang Ji"
+    },
+    {
+      "source": "Multi-Agent Consensus Seeking via Large Language Models",
+      "target": "Lufeng Xu"
+    },
+    {
+      "source": "Multi-Agent Consensus Seeking via Large Language Models",
+      "target": "Shiyu Zhao"
+    },
+    {
+      "source": "Online Deliberation Platform",
+      "target": "Stanford Crowdsourced Democracy Team"
+    },
+    {
+      "source": "Online Deliberation Platform",
+      "target": "Deliberative Democracy Lab"
+    },
+    {
+      "source": "How AI Agents Will Improve the Consultation Process",
+      "target": "Bruno Marnette"
+    },
+    {
+      "source": "Toby Shevlane",
+      "target": "Mantic"
+    },
+    {
+      "source": "Jorim Theuns",
+      "target": "Dembrane"
+    },
+    {
+      "source": "Jungwon Byun",
+      "target": "Elicit"
+    },
+    {
+      "source": "Manuel Wüthrich",
+      "target": "Midjourney"
+    },
+    {
+      "source": "Richard Everett",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Pattie Maes",
+      "target": "MIT Media Lab"
+    },
+    {
+      "source": "Miruna Pîslar",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Lucid Lens",
+      "target": "Alek Chakroff"
+    },
+    {
+      "source": "Lucid Lens",
+      "target": "Justin Stimatze"
+    },
+    {
+      "source": "Lucid Lens",
+      "target": "Natasha Jensen"
+    },
+    {
+      "source": "Dan Schwarz",
+      "target": "Future Search"
+    },
+    {
+      "source": "Ben Turtel",
+      "target": "Lightning Rod Labs"
+    },
+    {
+      "source": "Lucy Campbell-Gillingham",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Tom Liptay",
+      "target": "Future Search"
+    },
+    {
+      "source": "Tom Liptay",
+      "target": "Metaculus"
+    },
+    {
+      "source": "Houtan Bastani",
+      "target": "Forecasting Research Institute"
+    },
+    {
+      "source": "Charlie George",
+      "target": "Elicit"
+    },
+    {
+      "source": "Daniel Hnyk",
+      "target": "Future Search"
+    },
+    {
+      "source": "Divya Siddarth",
+      "target": "Collective Intelligence Project"
+    },
+    {
+      "source": "Natasha Jensen",
+      "target": "AI Objectives Institute"
+    },
+    {
+      "source": "Don't Just Tell Me, Ask Me",
+      "target": "Valdemar Danry"
+    },
+    {
+      "source": "Don't Just Tell Me, Ask Me",
+      "target": "Pat Pataranutaporn"
+    },
+    {
+      "source": "Don't Just Tell Me, Ask Me",
+      "target": "Yaoli Mao"
+    },
+    {
+      "source": "Don't Just Tell Me, Ask Me",
+      "target": "Pattie Maes"
+    },
+    {
+      "source": "Michael Henry Tessler",
+      "target": "Google DeepMind"
+    },
+    {
+      "source": "Ben Day",
+      "target": "Mantic"
+    },
+    {
+      "source": "Pantheon",
+      "target": "Sofi Vanhanen"
+    },
+    {
+      "source": "Pantheon",
+      "target": "Niki Dupuis"
+    },
+    {
+      "source": "Saffron Huang",
+      "target": "Collective Intelligence Project"
+    },
+    {
+      "source": "Beth Goldberg",
+      "target": "Google Jigsaw"
+    }
+  ]
+}
