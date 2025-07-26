@@ -22,7 +22,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \nhttps://arxiv.org/pdf/2410.01555\n\nLLM-based system that serves as both a negotiation partner and provides targeted feedback to help users improve their bargaining skills. The system identifies specific negotiation mistakes using an annotation scheme developed with [MBA](https://en.wikipedia.org/wiki/Master_of_Business_Administration) instructors, then provides detailed feedback on preparation strategies (like setting appropriate target prices) and in-conversation tactics (like including rationales with offers and strategic closing behavior). Through a controlled experiment with 374 participants across two negotiation rounds, the researchers demonstrated that users who received ACE's coaching significantly improved their objective negotiation outcomes compared to control groups."
     },
     {
       "id": "Zhehui Liao",
@@ -39,6 +39,14 @@
         "person"
       ],
       "content": "#person"
+    },
+    {
+      "id": "David Rand",
+      "title": "David Rand",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
     },
     {
       "id": "Remesh",
@@ -62,7 +70,15 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://amyzhang.github.io/"
+    },
+    {
+      "id": "Amina Green",
+      "title": "Amina Green",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n\nhttps://www.amina-io.com/"
     },
     {
       "id": "Kyle Lo",
@@ -177,14 +193,6 @@
       "content": "#person"
     },
     {
-      "id": "Deep Research Bench",
-      "title": "Deep Research Bench",
-      "tags": [
-        "project"
-      ],
-      "content": "#project"
-    },
-    {
       "id": "Joseph Chee Chang",
       "title": "Joseph Chee Chang",
       "tags": [
@@ -198,7 +206,15 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://onlinelibrary.wiley.com/doi/pdf/10.1002/ffo2.148\n\nThis paper explores how LLMs can be used to generate scenarios for strategic planning (for organizations/businesses), examining whether AI-produced scenarios meet professional standards and how they can best assist human decision-makers. The authors conclude that AI-assisted scenario development shows significant promise as a tool for generating \"raw material\" that human facilitators can refine."
+    },
+    {
+      "id": "Nina Lutz",
+      "title": "Nina Lutz",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
     },
     {
       "id": "Alek Chakroff",
@@ -214,7 +230,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://procaccia.info/"
     },
     {
       "id": "Ryan Shea",
@@ -233,12 +249,20 @@
       "content": "#person"
     },
     {
+      "id": "Kevin Leyton-Brown",
+      "title": "Kevin Leyton-Brown",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
+    },
+    {
       "id": "AI and the Future of Digital Public Squares",
       "title": "AI and the Future of Digital Public Squares",
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/pdf/2412.09988\n\nPaper examines how LLMs can improve online discussions and democratic participation. \n\n## Four Main Areas of Focus\n\n**1. Collective Dialogue Systems**\n- Tools that help large groups have structured conversations and find common ground on important issues.\n\n**2. Bridging Systems**\n- Algorithms that promote content bringing people together rather than showing divisive posts that drive engagement.\n\n**3. Community-Driven Moderation**\n- AI tools to help volunteer moderators manage online communities more effectively while keeping humans in control.\n\n**4. Proof of Humanity Systems**\n- Methods to verify that real humans (not bots) are participating in online discussions as AI makes fake accounts easier to create."
     },
     {
       "id": "Daniel P. Hogan",
@@ -302,7 +326,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://tiara.org/"
     },
     {
       "id": "Oliver Klingefjord",
@@ -369,12 +393,28 @@
       "content": "#person"
     },
     {
+      "id": "Jay Van Bavel",
+      "title": "Jay Van Bavel",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
+    },
+    {
       "id": "Foresight AI",
       "title": "Foresight AI",
       "tags": [
         "project"
       ],
       "content": "#project"
+    },
+    {
+      "id": "Sander van der Linden",
+      "title": "Sander van der Linden",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
     },
     {
       "id": "Double Crux Bot",
@@ -486,7 +526,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.proquest.com/openview/3393dad9ea55a5d47f1a0b19e607f964/1.pdf\n\nMasters thesis, uses AI to help humans reason better through 3 experiments:\n- AI logic-checkers that spot argument flaws in real-time\n- Studies on how deceptive AI explanations mess with human thinking\n- AI that improves reasoning by asking smart questions"
     },
     {
       "id": "Anthropic",
@@ -518,7 +558,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://www.cip.org/"
     },
     {
       "id": "Modelling Political Coalition Negotiations Using LLM-based Agents",
@@ -550,7 +590,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/pdf/2402.18563\n\nLLM system forecasting on competitive forecasting platforms by combining news retrieval, structured reasoning, and fine-tuning techniques to predict binary outcomes. The system automates the traditional forecasting process through three key components: \n1. retrieving relevant information from news sources,\n2. generating reasoned predictions, and \n3. aggregating multiple forecasts into a final prediction."
     },
     {
       "id": "Alice Siu",
@@ -558,7 +598,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://www.alicesiu.com/"
     },
     {
       "id": "Kris Skotheim",
@@ -582,7 +622,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://github.com/audreyt"
     },
     {
       "id": "Bridging Bot",
@@ -590,7 +630,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.youtube.com/watch?v=QgfXdJ-7pF4\n\nLLM-based bot that de-escalates arguments on Reddit. Funded by Google Jigsaw."
     },
     {
       "id": "Wasim Almasri",
@@ -622,7 +662,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://www.andreatacchetti.com/"
     },
     {
       "id": "Tristan Xiao",
@@ -665,12 +705,44 @@
       "content": "#person"
     },
     {
+      "id": "Meeyoung Cha",
+      "title": "Meeyoung Cha",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
+    },
+    {
+      "id": "Kehang Zhu",
+      "title": "Kehang Zhu",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
+    },
+    {
       "id": "Future Search",
       "title": "Future Search",
       "tags": [
         "organization"
       ],
       "content": "#organization"
+    },
+    {
+      "id": "Nick Bostrom",
+      "title": "Nick Bostrom",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
+    },
+    {
+      "id": "Sven Seuken",
+      "title": "Sven Seuken",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
     },
     {
       "id": "Richard Li",
@@ -713,12 +785,20 @@
       "content": "#project"
     },
     {
+      "id": "David Huang",
+      "title": "David Huang",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
+    },
+    {
       "id": "Dan Hendrycks",
       "title": "Dan Hendrycks",
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://danhendrycks.com/"
     },
     {
       "id": "Curtis Holdsworth",
@@ -782,7 +862,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/abs/2402.07862\n\nThis paper studies how LLMs can serve as assistants to improve human forecasting accuracy, testing two types of assistants - one designed to provide high-quality \"superforecasting\" advice and another designed to be overconfident and noisy. In a study with 991 participants answering forecasting questions, both LLM assistants significantly enhanced human prediction accuracy compared to controls, with the superforecasting assistant showing up to 41% improvement in some analyses."
     },
     {
       "id": "Jeff Fossett",
@@ -886,7 +966,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://brunomarnette.substack.com/"
     },
     {
       "id": "Ben Rachbach",
@@ -907,6 +987,14 @@
     {
       "id": "Huaben Chen",
       "title": "Huaben Chen",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "David Parkes",
+      "title": "David Parkes",
       "tags": [
         "person"
       ],
@@ -977,6 +1065,14 @@
       "content": "#person"
     },
     {
+      "id": "Factored Cognition Primer",
+      "title": "Factored Cognition Primer",
+      "tags": [
+        "project"
+      ],
+      "content": "#project \n\nhttps://primer.ought.org/"
+    },
+    {
       "id": "Oriana Skylar Mastro",
       "title": "Oriana Skylar Mastro",
       "tags": [
@@ -998,7 +1094,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://ai.objectives.institute/blog/amplifying-transformative-potential-while-designing-augmented-deliberative-systems\n\nBlog post presenting the \"Goldilocks Framework for Augmented Group Intelligence,\" which proposes principles for designing AI systems that enhance human deliberation and decision-making while preserving authentic human agency. The framework argues that effective AI-augmented deliberation requires balancing two key elements: \n1. participants' ability to understand and steer AI outputs (human agency) and \n2. their commitment to deliberative outcomes \nHigher-commitment decisions requiring correspondingly higher human agency."
     },
     {
       "id": "Quantified Uncertainty Research Institute",
@@ -1014,7 +1110,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/abs/2302.01339\n\nExperiment where they fine-tuned GPT-3 on the works of Daniel Dennett to see if an LLM can produce expert-quality philosophical texts. They tested the \"digi-Dan\" model by asking both the real Dennett and the AI model ten philosophical questions, then had 425 participants try to distinguish between Dennett's actual answers and the machine-generated responses. The study found that experts often chose the AI's answers over Dennett's actual responses, and on two questions, the AI outputs were selected by more experts than Dennett's own answers."
     },
     {
       "id": "What's Important in \"AI for Epistemics\"?",
@@ -1063,6 +1159,14 @@
         "person"
       ],
       "content": "#person"
+    },
+    {
+      "id": "Amit Goldenberg",
+      "title": "Amit Goldenberg",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
     },
     {
       "id": "Daniel Kokotajlo",
@@ -1137,8 +1241,24 @@
       "content": "#person"
     },
     {
+      "id": "Filippo Menczer",
+      "title": "Filippo Menczer",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
+    },
+    {
       "id": "Esin Durmus",
       "title": "Esin Durmus",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Robert Gambee",
+      "title": "Robert Gambee",
       "tags": [
         "person"
       ],
@@ -1158,7 +1278,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.lesswrong.com/posts/uGkRcHqatmPkvpGLq/contra-papers-claiming-superhuman-ai-forecasting\n\nCritique of recent academic papers that claim AI systems have achieved \"superhuman\" forecasting performance. The authors from FutureSearch systematically debunk these claims by identifying major methodological flaws, including inadequate information retrieval capabilities, data contamination, unfair timing advantages, and misleading statistical interpretations that make AI performance appear better than it actually is."
     },
     {
       "id": "Srijoni Majumdar",
@@ -1198,7 +1318,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.metaculus.com/aib/\n\nMetaculus AIB (AI Benchmarking) is a series that benchmarks \"the state of the art in AI forecasting against the best humans on real-world questions.\""
     },
     {
       "id": "Mosaic Labs",
@@ -1222,7 +1342,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.lesswrong.com/posts/G4ARgcnFogpqorQgb/ai-doing-philosophy-ai-generating-hands-1\n\nWei Dai argues that just as current AI systems generate beautiful images but distorted hands, future AI might excel at science and technology while being dangerously incompetent at philosophical reasoning, creating a critical capability gap that requires urgent attention."
     },
     {
       "id": "Rich Rippin",
@@ -1249,16 +1369,24 @@
       "content": "#project"
     },
     {
-      "id": "Justin Reppert",
-      "title": "Justin Reppert",
+      "id": "Daniel Schroeder",
+      "title": "Daniel Schroeder",
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n"
     },
     {
-      "id": "Robert G. Gambee",
-      "title": "Robert G. Gambee",
+      "id": "Yanchen Jiang",
+      "title": "Yanchen Jiang",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
+    },
+    {
+      "id": "Justin Reppert",
+      "title": "Justin Reppert",
       "tags": [
         "person"
       ],
@@ -1326,7 +1454,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.societylibrary.org/debate-mapping-program\n\nAutomated pipeline for scraping online content, extracting arguments/claims, and organizing them into visual \"maps\" which structure the debate into a tree of statements and their logical relationships."
     },
     {
       "id": "Outcome-based Reinforcement Learning to Predict the Future",
@@ -1366,7 +1494,7 @@
       "tags": [
         "organization"
       ],
-      "content": ""
+      "content": "#organization \n\nhttps://ai-futures.org/"
     },
     {
       "id": "Kevin Systrom",
@@ -1382,15 +1510,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
-    },
-    {
-      "id": "David C. Parkes",
-      "title": "David C. Parkes",
-      "tags": [
-        "person"
-      ],
-      "content": "#person"
+      "content": "#project \n\nhttps://www.americanbar.org/groups/law_practice/resources/law-technology-today/2025/ai-powered-mediation-for-efficient-legal-dispute-resolution/\n\nAI system designed to mediate disputes between parties without human mediators. The platform claims to reduce mediation timeframes from months to days (without having to pay for professional mediation). The company was selected as a [finalist](https://www.techshow.com/2025/02/voting-is-closed-results-are-in-here-are-the-15-legal-tech-startups-selected-for-the-2025-startup-alley-at-aba-techshow/) in the American Bar Association's [TECHSHOW](https://www.techshow.com/) 2025 Startup Alley competition."
     },
     {
       "id": "Lizka Vaintrob",
@@ -1417,6 +1537,14 @@
       "content": "#person"
     },
     {
+      "id": "Nicholas Christakis",
+      "title": "Nicholas Christakis",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
+    },
+    {
       "id": "Shiyu Zhao",
       "title": "Shiyu Zhao",
       "tags": [
@@ -1441,6 +1569,14 @@
       "content": "#person"
     },
     {
+      "id": "Jonas Kunst",
+      "title": "Jonas Kunst",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
+    },
+    {
       "id": "Nat McAleese",
       "title": "Nat McAleese",
       "tags": [
@@ -1462,7 +1598,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.law.nyu.edu/sites/default/files/Helen%20Landemore%20Can%20AI%20bring%20deliberative%20democracy%20to%20the%20masses.pdf\n\nConceptual paper analyzes France's 2019 \"Great National Debate\" as a case study for scaling deliberative democracy, then theorizes two AI-augmented models: \n1. mass online deliberation platforms that use algorithms to cluster and organize arguments among thousands of participants, and \n2. rotating randomly-selected citizen assemblies supported by AI for facilitation, translation, fact-checking, and data synthesis."
     },
     {
       "id": "Colin Megill",
@@ -1470,7 +1606,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://colinmegill.com/"
     },
     {
       "id": "Diana Acosta-Navas",
@@ -1494,7 +1630,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://stuhlmueller.org/"
     },
     {
       "id": "The AI Adoption Gap - Preparing the US Government for Advanced AI",
@@ -1534,7 +1670,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://techcrunch.com/2024/01/18/why-artifact-from-instagrams-founders-failed-shut-down/\n\nArtifact was an AI-powered news aggregation app created by Instagram's co-founders that used machine learning to recommend articles, summarize news stories, and rewrite clickbait headlines into clearer formats. The app featured social elements like commenting and following, creating an engaged community around news consumption, but ultimately shut down in early 2024.\n\nThey failed because they couldn't achieve sustainable user growth beyond their initial core community, despite having a quality product that users genuinely engaged with."
     },
     {
       "id": "Wearable Reasoner",
@@ -1561,12 +1697,20 @@
       "content": "#person"
     },
     {
+      "id": "David Garcia",
+      "title": "David Garcia",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
+    },
+    {
       "id": "Iterated Decomposition - Improving Science Q&A by Supervising Reasoning Processes",
       "title": "Iterated Decomposition - Improving Science Q&A by Supervising Reasoning Processes",
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/pdf/2301.01751\nhttps://github.com/oughtinc/ice"
     },
     {
       "id": "Peter Mühlbacher",
@@ -1607,6 +1751,14 @@
         "project"
       ],
       "content": "#project"
+    },
+    {
+      "id": "Nikos Bosse",
+      "title": "Nikos Bosse",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
     },
     {
       "id": "Aleks Berditchevskaia",
@@ -1670,7 +1822,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://dganguli.github.io/pweb/"
     },
     {
       "id": "Eric Schwitzgebel",
@@ -1686,7 +1838,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \nhttps://www.sltoken.xyz/\n\nThe Society Library created AI agents called \"Muses\" that users can tag on social media platforms to perform reasoning tasks like fact-checking claims and researching topics. Their \"Muse of Truth\" provides substantive analysis of factual claims with evidence gaps and source references, while the \"Muse of Research\" pulls resources on requested topics.\n\nThe initiative was funded through a community-created meme token ($SL) that was anonymously gifted to the charity, with 50% of holdings donated to support their mission."
     },
     {
       "id": "Farhad Moghimifar",
@@ -1766,7 +1918,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://andrewkonya.com/"
     },
     {
       "id": "IQT Labs",
@@ -1817,6 +1969,14 @@
       "content": "#person"
     },
     {
+      "id": "Francisco Marmolejo-Cossío",
+      "title": "Francisco Marmolejo-Cossío",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
+    },
+    {
       "id": "Jan Balaguer",
       "title": "Jan Balaguer",
       "tags": [
@@ -1838,7 +1998,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://mntc.ai/"
     },
     {
       "id": "Peter Park",
@@ -1865,12 +2025,20 @@
       "content": "#person"
     },
     {
+      "id": "Gordon Pennycook",
+      "title": "Gordon Pennycook",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
+    },
+    {
       "id": "Dawn Song",
       "title": "Dawn Song",
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://dawnsong.io/"
     },
     {
       "id": "Wisdom of the silicon crowd - LLM ensemble prediction capabilities rival human crowd accuracy",
@@ -1894,7 +2062,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://aviv.me/"
     },
     {
       "id": "Michiel Bakker",
@@ -1929,12 +2097,28 @@
       "content": "#person"
     },
     {
+      "id": "Finn Hambly",
+      "title": "Finn Hambly",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
       "id": "Christopher Small",
       "title": "Christopher Small",
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttp://metasoarous.com/"
+    },
+    {
+      "id": "FutureSearch Benchmarks",
+      "title": "FutureSearch Benchmarks",
+      "tags": [
+        "project"
+      ],
+      "content": "#project \n\nhttps://evals.futuresearch.ai/"
     },
     {
       "id": "Lisa Schirch",
@@ -1951,6 +2135,14 @@
         "project"
       ],
       "content": "#project"
+    },
+    {
+      "id": "Frank Schweitzer",
+      "title": "Frank Schweitzer",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
     },
     {
       "id": "Elizabeth Barry",
@@ -1993,6 +2185,14 @@
       "content": "#person"
     },
     {
+      "id": "Gary Marcus",
+      "title": "Gary Marcus",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
+    },
+    {
       "id": "Fred Zhang",
       "title": "Fred Zhang",
       "tags": [
@@ -2014,7 +2214,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://ai.objectives.institute/"
     },
     {
       "id": "Ryan Jia",
@@ -2023,6 +2223,14 @@
         "person"
       ],
       "content": "#person"
+    },
+    {
+      "id": "Ought",
+      "title": "Ought",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
     },
     {
       "id": "Prateek Buch",
@@ -2169,6 +2377,14 @@
       "content": "#person"
     },
     {
+      "id": "How Malicious AI Swarms Can Threaten Democracy",
+      "title": "How Malicious AI Swarms Can Threaten Democracy",
+      "tags": [
+        "project"
+      ],
+      "content": "#project \n\nhttps://arxiv.org/pdf/2506.06299\n\nExamines how coordinated networks of AI agents (\"AI swarms\") can manipulate democratic discourse and decision-making through sophisticated influence operations. The authors warn that unlike traditional botnets that simply repeat scripted messages, AI swarms can create thousands of distinct personas that adapt, learn from feedback, and coordinate autonomously to fabricate grassroots consensus and fragment shared reality."
+    },
+    {
       "id": "CeesJan Mol",
       "title": "CeesJan Mol",
       "tags": [
@@ -2206,7 +2422,15 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://ai.objectives.institute/blog/ai4democracy-paper-how-ai-can-be-used-to-inform-policymaking\n\nReport on how LLMs can be used to process large volumes of public input and aggregate opinions for policymakers, specifically with \"[Talk to the City](https://ai.objectives.institute/talk-to-the-city).\" The paper examines three real-world case studies (including one on [DAO](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) governance)."
+    },
+    {
+      "id": "Deep Research Bench - Evaluating AI Web Research Agents",
+      "title": "Deep Research Bench - Evaluating AI Web Research Agents",
+      "tags": [
+        "project"
+      ],
+      "content": "#project \n\nhttps://arxiv.org/abs/2506.06287\n\nBenchmark for evaluating AI agents on complex, multi-step web research tasks that mirror real-world analytical work, using a frozen web environment to ensure consistent and repeatable evaluations. The benchmark tests research capabilities including strategic planning, source credibility assessment, systematic information gathering, and synthesis across contradictory sources through eight different task categories."
     },
     {
       "id": "Edith Elkind",
@@ -2222,7 +2446,15 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.dembrane.com/en-US/blog/report-openai-october-2023\n\nAI-powered platform for democratic deliberation that organizes people into small groups to discuss and vote on statements, with an AI moderator (powered by GPT-4) synthesizing new statements from their live video conversations with each other. Statements produced by each group are \"cross pollinated\" to each other and ultimately synthesized into final consensus statements.\n\nFunded by [OpenAI Democratic Inputs to AI](https://github.com/openai/democratic-inputs)."
+    },
+    {
+      "id": "Echo",
+      "title": "Echo",
+      "tags": [
+        "project"
+      ],
+      "content": "#project \n\nhttps://www.dembrane.com/en-US/products/echo\nhttps://github.com/dembrane/echo\n\nECHO is a transcription, analysis, and reporting platform designed for multilingual conversations and stakeholder engagement scenarios. It can capture multiple simultaneous conversations in real-time, transcribe them across multiple languages, and use AI to analyze the content and generate insights from the discussions."
     },
     {
       "id": "Dembrane",
@@ -2230,7 +2462,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://www.dembrane.com\n\nFunded (in part) by the European Union via the [AI4Deliberation](https://www.ai4dproject.eu/) project."
     },
     {
       "id": "John Aslanides",
@@ -2247,6 +2479,22 @@
         "project"
       ],
       "content": "#project"
+    },
+    {
+      "id": "Accelerated Preference Elicitation with LLM-Based Proxies",
+      "title": "Accelerated Preference Elicitation with LLM-Based Proxies",
+      "tags": [
+        "project"
+      ],
+      "content": "#project \n\nhttps://arxiv.org/pdf/2501.14625\n\nAI system that help people communicate their preferences more efficiently in complex auctions by using natural language instead of technical queries. The system uses LLM-powered \"proxies\" that learn what people want through conversational interactions and can infer preferences for items not explicitly discussed."
+    },
+    {
+      "id": "LLM-Powered Preference Elicitation in Combinatorial Assignment",
+      "title": "LLM-Powered Preference Elicitation in Combinatorial Assignment",
+      "tags": [
+        "project"
+      ],
+      "content": "#project \n\nhttps://arxiv.org/pdf/2502.10308\n\nAI system that allows people to express complex preferences through natural language rather than answering technical queries in allocation mechanisms. For example, in course registration, students could provide a single free-text description of their preferences (e.g., \"I prefer courses scheduled closely together\" or \"Course A and B complement each other\"), and an LLM proxy would answer comparison queries on their behalf. Experiments testing the system were run using LLM-simulated people."
     },
     {
       "id": "Jon Evans",
@@ -2339,14 +2587,6 @@
     {
       "id": "Georgina Evans",
       "title": "Georgina Evans",
-      "tags": [
-        "person"
-      ],
-      "content": "#person"
-    },
-    {
-      "id": "Nikos I. Bosse",
-      "title": "Nikos I. Bosse",
       "tags": [
         "person"
       ],
@@ -2454,7 +2694,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.forethought.org/research/ai-tools-for-existential-security\n\nPaper by Forethought that argues that rather than simply trying to slow down AI development, we should strategically accelerate the development of specific AI applications that help humanity navigate existential risks. \n\nThree key categories of beneficial AI tools: \n1. epistemic applications to help us anticipate and plan for emerging challenges \n2. coordination-enabling applications to help diverse groups work together towards shared goals\n3. risk-targeted applications to address specific challenges"
     },
     {
       "id": "Renée DiResta",
@@ -2481,6 +2721,14 @@
       "content": "#person"
     },
     {
+      "id": "Yara Kyrychenko",
+      "title": "Yara Kyrychenko",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
+    },
+    {
       "id": "How large language models can reshape collective intelligence",
       "title": "How large language models can reshape collective intelligence",
       "tags": [
@@ -2505,12 +2753,20 @@
       "content": "#project"
     },
     {
+      "id": "Michael Curry",
+      "title": "Michael Curry",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
+    },
+    {
       "id": "Carl Miller",
       "title": "Carl Miller",
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://www.carlmiller.co/"
     },
     {
       "id": "Oded Adomi Leshem",
@@ -2527,6 +2783,14 @@
         "person"
       ],
       "content": "#person"
+    },
+    {
+      "id": "Ermis Soumalias",
+      "title": "Ermis Soumalias",
+      "tags": [
+        "person"
+      ],
+      "content": "#person "
     },
     {
       "id": "Generative AI Voting - Fair Collective Choice is Resilient to LLM Biases and Inconsistencies",
@@ -2559,6 +2823,14 @@
         "person"
       ],
       "content": "#person"
+    },
+    {
+      "id": "Bench to the Future - A Pastcasting Benchmark for Forecasting Agents",
+      "title": "Bench to the Future - A Pastcasting Benchmark for Forecasting Agents",
+      "tags": [
+        "project"
+      ],
+      "content": "#project \n\nhttps://arxiv.org/abs/2506.21558\n\nEstablishes a \"pastcasting\" benchmark that evaluates AI forecasting capabilities by having LLMs predict outcomes of events that have already happened, using carefully curated web snapshots from before those events occurred. The benchmark addresses a key challenge in forecasting research - the long wait times between making predictions and learning outcomes."
     },
     {
       "id": "Multi-Agent Consensus Seeking via Large Language Models",
@@ -2689,6 +2961,14 @@
       "content": "#project"
     },
     {
+      "id": "Ian Baker",
+      "title": "Ian Baker",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
       "id": "Minda Hu",
       "title": "Minda Hu",
       "tags": [
@@ -2710,7 +2990,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nSome writing about [Google's internal prediction markets](https://asteriskmag.com/issues/08/the-death-and-life-of-prediction-markets-at-google)."
     },
     {
       "id": "Ben Turtel",
@@ -2742,7 +3022,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://deliberation.stanford.edu/"
     },
     {
       "id": "Robert Thomson",
@@ -2801,6 +3081,14 @@
       "content": "#person"
     },
     {
+      "id": "Edwin Lock",
+      "title": "Edwin Lock",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
+    },
+    {
       "id": "Zhou Yu",
       "title": "Zhou Yu",
       "tags": [
@@ -2809,12 +3097,12 @@
       "content": "#person"
     },
     {
-      "id": "Data and Society",
-      "title": "Data and Society",
+      "id": "Andrea Baronchelli",
+      "title": "Andrea Baronchelli",
       "tags": [
-        "organization"
+        "person"
       ],
-      "content": "#organization"
+      "content": "#person \n"
     },
     {
       "id": "Natasha Jensen",
@@ -2918,7 +3206,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://aidemocracyfoundation.org/"
     },
     {
       "id": "Chen Yueh-Han",
@@ -2926,7 +3214,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://john-chen.cc/"
     },
     {
       "id": "Taha Yasseri",
@@ -2947,6 +3235,14 @@
     {
       "id": "Beth Goldberg",
       "title": "Beth Goldberg",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Peter Darche",
+      "title": "Peter Darche",
       "tags": [
         "person"
       ],
@@ -2999,8 +3295,16 @@
       "target": "Google DeepMind"
     },
     {
+      "source": "Amina Green",
+      "target": "Plurality Institute"
+    },
+    {
       "source": "Maggie Appleton",
       "target": "Elicit"
+    },
+    {
+      "source": "Maggie Appleton",
+      "target": "Ought"
     },
     {
       "source": "Wargames for Peace",
@@ -3053,38 +3357,6 @@
     {
       "source": "Tom Davidson",
       "target": "Forethought"
-    },
-    {
-      "source": "Deep Research Bench",
-      "target": "Nikos I. Bosse"
-    },
-    {
-      "source": "Deep Research Bench",
-      "target": "Jon Evans"
-    },
-    {
-      "source": "Deep Research Bench",
-      "target": "Robert G. Gambee"
-    },
-    {
-      "source": "Deep Research Bench",
-      "target": "Daniel Hnyk"
-    },
-    {
-      "source": "Deep Research Bench",
-      "target": "Peter Mühlbacher"
-    },
-    {
-      "source": "Deep Research Bench",
-      "target": "Lawrence Phillips"
-    },
-    {
-      "source": "Deep Research Bench",
-      "target": "Dan Schwarz"
-    },
-    {
-      "source": "Deep Research Bench",
-      "target": "Jack Wildman"
     },
     {
       "source": "AI‐assisted scenario generation for strategic planning",
@@ -3257,10 +3529,6 @@
     {
       "source": "Snow Globe",
       "target": "Andrea Brennen"
-    },
-    {
-      "source": "Alice Marwick",
-      "target": "Data and Society"
     },
     {
       "source": "Oliver Klingefjord",
@@ -3456,7 +3724,23 @@
     },
     {
       "source": "Bridging Bot",
+      "target": "Google Jigsaw"
+    },
+    {
+      "source": "Bridging Bot",
       "target": "Jeff Fossett"
+    },
+    {
+      "source": "Bridging Bot",
+      "target": "Amina Green"
+    },
+    {
+      "source": "Bridging Bot",
+      "target": "Ian Baker"
+    },
+    {
+      "source": "Bridging Bot",
+      "target": "Peter Darche"
     },
     {
       "source": "LLMs as Research Tools -  A Large Scale Survey of Researchers’ Usage and Perceptions",
@@ -3535,6 +3819,10 @@
       "target": "AI Objectives Institute"
     },
     {
+      "source": "Owen Cotton-Barratt",
+      "target": "Ought"
+    },
+    {
       "source": "AI-Augmented Predictions - LLM Assistants Improve Human Forecasting Accuracy",
       "target": "Philipp Schoenegger"
     },
@@ -3603,6 +3891,14 @@
       "target": "Elicit"
     },
     {
+      "source": "Ben Rachbach",
+      "target": "Ought"
+    },
+    {
+      "source": "David Parkes",
+      "target": "Google DeepMind"
+    },
+    {
       "source": "Ian Beacock",
       "target": "Google Jigsaw"
     },
@@ -3615,6 +3911,10 @@
       "target": "Google DeepMind"
     },
     {
+      "source": "Factored Cognition Primer",
+      "target": "Ought"
+    },
+    {
       "source": "Generative Social Choice",
       "target": "Sara Fish"
     },
@@ -3624,7 +3924,7 @@
     },
     {
       "source": "Generative Social Choice",
-      "target": "David C. Parkes"
+      "target": "David Parkes"
     },
     {
       "source": "Generative Social Choice",
@@ -3711,12 +4011,16 @@
       "target": "Anthropic"
     },
     {
+      "source": "Robert Gambee",
+      "target": "Future Search"
+    },
+    {
       "source": "Valdemar Danry",
       "target": "MIT Media Lab"
     },
     {
       "source": "Contra papers claiming superhuman AI forecasting",
-      "target": "Nikos I. Bosse"
+      "target": "Nikos Bosse"
     },
     {
       "source": "Contra papers claiming superhuman AI forecasting",
@@ -3852,7 +4156,7 @@
     },
     {
       "source": "Habermas Machine",
-      "target": "David C. Parkes"
+      "target": "David Parkes"
     },
     {
       "source": "Habermas Machine",
@@ -3867,8 +4171,8 @@
       "target": "Elicit"
     },
     {
-      "source": "Robert G. Gambee",
-      "target": "Future Search"
+      "source": "Justin Reppert",
+      "target": "Ought"
     },
     {
       "source": "Jack Wildman",
@@ -3921,10 +4225,6 @@
     {
       "source": "Bot Mediation",
       "target": "Nick Hikita"
-    },
-    {
-      "source": "David C. Parkes",
-      "target": "Google DeepMind"
     },
     {
       "source": "Lizka Vaintrob",
@@ -4001,6 +4301,10 @@
     {
       "source": "Andreas Stuhlmüller",
       "target": "Elicit"
+    },
+    {
+      "source": "Andreas Stuhlmüller",
+      "target": "Ought"
     },
     {
       "source": "The AI Adoption Gap - Preparing the US Government for Advanced AI",
@@ -4119,6 +4423,10 @@
       "target": "Nuño Sempere"
     },
     {
+      "source": "Nikos Bosse",
+      "target": "Future Search"
+    },
+    {
       "source": "Raphael Köster",
       "target": "Google DeepMind"
     },
@@ -4141,6 +4449,10 @@
     {
       "source": "Lukas Finnveden",
       "target": "Forethought"
+    },
+    {
+      "source": "Lukas Finnveden",
+      "target": "Ought"
     },
     {
       "source": "Israel-Palestine Collective Dialogues",
@@ -4267,12 +4579,28 @@
       "target": "Tom Davidson"
     },
     {
+      "source": "Finn Hambly",
+      "target": "Future Search"
+    },
+    {
       "source": "Christopher Small",
       "target": "Google Jigsaw"
     },
     {
       "source": "Christopher Small",
       "target": "The Computational Democracy Project"
+    },
+    {
+      "source": "FutureSearch Benchmarks",
+      "target": "Future Search"
+    },
+    {
+      "source": "FutureSearch Benchmarks",
+      "target": "Deep Research Bench - Evaluating AI Web Research Agents"
+    },
+    {
+      "source": "FutureSearch Benchmarks",
+      "target": "Bench to the Future - A Pastcasting Benchmark for Forecasting Agents"
     },
     {
       "source": "Lisa Schirch",
@@ -4351,6 +4679,94 @@
       "target": "Elicit"
     },
     {
+      "source": "Luke Stebbing",
+      "target": "Ought"
+    },
+    {
+      "source": "How Malicious AI Swarms Can Threaten Democracy",
+      "target": "Daniel Schroeder"
+    },
+    {
+      "source": "How Malicious AI Swarms Can Threaten Democracy",
+      "target": "Meeyoung Cha"
+    },
+    {
+      "source": "How Malicious AI Swarms Can Threaten Democracy",
+      "target": "Andrea Baronchelli"
+    },
+    {
+      "source": "How Malicious AI Swarms Can Threaten Democracy",
+      "target": "Nick Bostrom"
+    },
+    {
+      "source": "How Malicious AI Swarms Can Threaten Democracy",
+      "target": "Nicholas Christakis"
+    },
+    {
+      "source": "How Malicious AI Swarms Can Threaten Democracy",
+      "target": "David Garcia"
+    },
+    {
+      "source": "How Malicious AI Swarms Can Threaten Democracy",
+      "target": "Amit Goldenberg"
+    },
+    {
+      "source": "How Malicious AI Swarms Can Threaten Democracy",
+      "target": "Yara Kyrychenko"
+    },
+    {
+      "source": "How Malicious AI Swarms Can Threaten Democracy",
+      "target": "Kevin Leyton-Brown"
+    },
+    {
+      "source": "How Malicious AI Swarms Can Threaten Democracy",
+      "target": "Nina Lutz"
+    },
+    {
+      "source": "How Malicious AI Swarms Can Threaten Democracy",
+      "target": "Gary Marcus"
+    },
+    {
+      "source": "How Malicious AI Swarms Can Threaten Democracy",
+      "target": "Filippo Menczer"
+    },
+    {
+      "source": "How Malicious AI Swarms Can Threaten Democracy",
+      "target": "Gordon Pennycook"
+    },
+    {
+      "source": "How Malicious AI Swarms Can Threaten Democracy",
+      "target": "David Rand"
+    },
+    {
+      "source": "How Malicious AI Swarms Can Threaten Democracy",
+      "target": "Frank Schweitzer"
+    },
+    {
+      "source": "How Malicious AI Swarms Can Threaten Democracy",
+      "target": "Christopher Summerfield"
+    },
+    {
+      "source": "How Malicious AI Swarms Can Threaten Democracy",
+      "target": "Audrey Tang"
+    },
+    {
+      "source": "How Malicious AI Swarms Can Threaten Democracy",
+      "target": "Jay Van Bavel"
+    },
+    {
+      "source": "How Malicious AI Swarms Can Threaten Democracy",
+      "target": "Sander van der Linden"
+    },
+    {
+      "source": "How Malicious AI Swarms Can Threaten Democracy",
+      "target": "Dawn Song"
+    },
+    {
+      "source": "How Malicious AI Swarms Can Threaten Democracy",
+      "target": "Jonas Kunst"
+    },
+    {
       "source": "Philip Tetlock",
       "target": "Forecasting Research Institute"
     },
@@ -4361,6 +4777,38 @@
     {
       "source": "AI4Democracy - How AI Can Be Used to Inform Policymaking?",
       "target": "Değer Turan"
+    },
+    {
+      "source": "Deep Research Bench - Evaluating AI Web Research Agents",
+      "target": "Nikos Bosse"
+    },
+    {
+      "source": "Deep Research Bench - Evaluating AI Web Research Agents",
+      "target": "Jon Evans"
+    },
+    {
+      "source": "Deep Research Bench - Evaluating AI Web Research Agents",
+      "target": "Robert Gambee"
+    },
+    {
+      "source": "Deep Research Bench - Evaluating AI Web Research Agents",
+      "target": "Daniel Hnyk"
+    },
+    {
+      "source": "Deep Research Bench - Evaluating AI Web Research Agents",
+      "target": "Peter Mühlbacher"
+    },
+    {
+      "source": "Deep Research Bench - Evaluating AI Web Research Agents",
+      "target": "Lawrence Phillips"
+    },
+    {
+      "source": "Deep Research Bench - Evaluating AI Web Research Agents",
+      "target": "Dan Schwarz"
+    },
+    {
+      "source": "Deep Research Bench - Evaluating AI Web Research Agents",
+      "target": "Jack Wildman"
     },
     {
       "source": "Common Ground",
@@ -4411,6 +4859,10 @@
       "target": "Bram Delisse"
     },
     {
+      "source": "Echo",
+      "target": "Dembrane"
+    },
+    {
       "source": "John Aslanides",
       "target": "Google DeepMind"
     },
@@ -4429,6 +4881,46 @@
     {
       "source": "Supernotes",
       "target": "Martin Saveski"
+    },
+    {
+      "source": "Accelerated Preference Elicitation with LLM-Based Proxies",
+      "target": "David Huang"
+    },
+    {
+      "source": "Accelerated Preference Elicitation with LLM-Based Proxies",
+      "target": "Francisco Marmolejo-Cossío"
+    },
+    {
+      "source": "Accelerated Preference Elicitation with LLM-Based Proxies",
+      "target": "Edwin Lock"
+    },
+    {
+      "source": "Accelerated Preference Elicitation with LLM-Based Proxies",
+      "target": "David Parkes"
+    },
+    {
+      "source": "LLM-Powered Preference Elicitation in Combinatorial Assignment",
+      "target": "Ermis Soumalias"
+    },
+    {
+      "source": "LLM-Powered Preference Elicitation in Combinatorial Assignment",
+      "target": "Yanchen Jiang"
+    },
+    {
+      "source": "LLM-Powered Preference Elicitation in Combinatorial Assignment",
+      "target": "Kehang Zhu"
+    },
+    {
+      "source": "LLM-Powered Preference Elicitation in Combinatorial Assignment",
+      "target": "Michael Curry"
+    },
+    {
+      "source": "LLM-Powered Preference Elicitation in Combinatorial Assignment",
+      "target": "Sven Seuken"
+    },
+    {
+      "source": "LLM-Powered Preference Elicitation in Combinatorial Assignment",
+      "target": "David Parkes"
     },
     {
       "source": "Jon Evans",
@@ -4465,10 +4957,6 @@
     {
       "source": "Georgina Evans",
       "target": "Google DeepMind"
-    },
-    {
-      "source": "Nikos I. Bosse",
-      "target": "Future Search"
     },
     {
       "source": "Ryan Lowe",
@@ -4683,6 +5171,38 @@
       "target": "Google DeepMind"
     },
     {
+      "source": "Bench to the Future - A Pastcasting Benchmark for Forecasting Agents",
+      "target": "Jack Wildman"
+    },
+    {
+      "source": "Bench to the Future - A Pastcasting Benchmark for Forecasting Agents",
+      "target": "Nikos Bosse"
+    },
+    {
+      "source": "Bench to the Future - A Pastcasting Benchmark for Forecasting Agents",
+      "target": "Daniel Hnyk"
+    },
+    {
+      "source": "Bench to the Future - A Pastcasting Benchmark for Forecasting Agents",
+      "target": "Peter Mühlbacher"
+    },
+    {
+      "source": "Bench to the Future - A Pastcasting Benchmark for Forecasting Agents",
+      "target": "Finn Hambly"
+    },
+    {
+      "source": "Bench to the Future - A Pastcasting Benchmark for Forecasting Agents",
+      "target": "Jon Evans"
+    },
+    {
+      "source": "Bench to the Future - A Pastcasting Benchmark for Forecasting Agents",
+      "target": "Dan Schwarz"
+    },
+    {
+      "source": "Bench to the Future - A Pastcasting Benchmark for Forecasting Agents",
+      "target": "Lawrence Phillips"
+    },
+    {
       "source": "Multi-Agent Consensus Seeking via Large Language Models",
       "target": "Huaben Chen"
     },
@@ -4723,6 +5243,10 @@
       "target": "Elicit"
     },
     {
+      "source": "Jungwon Byun",
+      "target": "Ought"
+    },
+    {
       "source": "Manuel Wüthrich",
       "target": "Midjourney"
     },
@@ -4751,6 +5275,10 @@
       "target": "Natasha Jensen"
     },
     {
+      "source": "Ian Baker",
+      "target": "Plurality Institute"
+    },
+    {
       "source": "Dan Schwarz",
       "target": "Future Search"
     },
@@ -4777,6 +5305,10 @@
     {
       "source": "Charlie George",
       "target": "Elicit"
+    },
+    {
+      "source": "Charlie George",
+      "target": "Ought"
     },
     {
       "source": "Daniel Hnyk",
@@ -4829,6 +5361,10 @@
     {
       "source": "Beth Goldberg",
       "target": "Google Jigsaw"
+    },
+    {
+      "source": "Peter Darche",
+      "target": "Plurality Institute"
     }
   ]
 }

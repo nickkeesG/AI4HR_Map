@@ -9,8 +9,8 @@ import * as d3 from 'd3-force';
 
 // Configuration
 const INPUT_FILE = 'vault_data.json';
-const OUTPUT_FILE = 'vault_data_with_positions.json';
-const SIMULATION_TICKS = 500;
+const OUTPUT_FILE = 'web/vault_data_with_positions.json';
+const SIMULATION_TICKS = 2000;
 
 console.log('Loading graph data...');
 
@@ -19,6 +19,31 @@ const rawData = fs.readFileSync(INPUT_FILE, 'utf8');
 const data = JSON.parse(rawData);
 
 console.log(`Loaded ${data.nodes.length} nodes and ${data.links.length} links`);
+
+// Calculate node degrees (number of connections)
+const nodeDegrees = {};
+data.nodes.forEach(node => {
+    nodeDegrees[node.id] = 0;
+});
+
+data.links.forEach(link => {
+    nodeDegrees[link.source] = (nodeDegrees[link.source] || 0) + 1;
+    nodeDegrees[link.target] = (nodeDegrees[link.target] || 0) + 1;
+});
+
+// Add size property based on degree
+const minSize = 8;
+const maxSize = 16;
+const maxDegree = Math.max(...Object.values(nodeDegrees));
+const minDegree = Math.min(...Object.values(nodeDegrees));
+
+data.nodes.forEach(node => {
+    const degree = nodeDegrees[node.id];
+    // Scale size based on degree
+    node.size = minSize + (maxSize - minSize) * ((degree - minDegree) / (maxDegree - minDegree));
+});
+
+console.log(`Node degrees range: ${minDegree} - ${maxDegree}`);
 
 // Set up simulation dimensions (matching web app)
 const width = 1200;
@@ -34,7 +59,7 @@ const simulation = d3.forceSimulation(data.nodes)
     .force("x", d3.forceX(width / 2).strength(0.02))
     .force("y", d3.forceY(height / 2).strength(0.02))
     .alpha(1.2)
-    .alphaDecay(0.001);
+    .alphaDecay(0.0005);
 
 console.log(`Running simulation for ${SIMULATION_TICKS} ticks...`);
 
@@ -61,7 +86,8 @@ const outputData = {
         tags: node.tags,
         content: node.content,
         x: node.x,
-        y: node.y
+        y: node.y,
+        size: node.size
     })),
     links: data.links
 };
