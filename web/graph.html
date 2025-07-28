@@ -72,6 +72,50 @@
             transform: scale(1.1);
         }
         
+        .feedback-button {
+            position: absolute;
+            top: 20px;
+            right: 70px;
+            width: 40px;
+            height: 40px;
+            border: none;
+            border-radius: 50%;
+            background: var(--text-color);
+            color: var(--bg-color);
+            cursor: pointer;
+            font-size: 20px;
+            z-index: 1001;
+            transition: all 0.3s ease;
+            line-height: 40px;
+            text-align: center;
+        }
+        
+        .feedback-button:hover {
+            transform: scale(1.1);
+        }
+        
+        .help-button {
+            position: absolute;
+            top: 20px;
+            right: 120px;
+            width: 40px;
+            height: 40px;
+            border: none;
+            border-radius: 50%;
+            background: var(--text-color);
+            color: var(--bg-color);
+            cursor: pointer;
+            font-size: 20px;
+            z-index: 1001;
+            transition: all 0.3s ease;
+            line-height: 40px;
+            text-align: center;
+        }
+        
+        .help-button:hover {
+            transform: scale(1.1);
+        }
+        
         .links line {
             stroke: var(--link-color);
             stroke-opacity: 0.6;
@@ -197,9 +241,11 @@
 </head>
 <body>
     <button class="theme-toggle" onclick="toggleTheme()"><span style="position: relative; top: -4px;">&#9789;</span></button>
+    <button class="feedback-button" onclick="openFeedbackModal()"><span style="position: relative; top: -2px;">!</span></button>
+    <button class="help-button" onclick="openHelpModal()"><span style="position: relative; top: -2px;">?</span></button>
     <div id="graph"></div>
 
-    <!-- Modal -->
+    <!-- Content Modal -->
     <div id="contentModal" class="modal">
         <div class="modal-content">
             <div class="modal-header">
@@ -207,6 +253,61 @@
                 <span class="close" onclick="closeModal()">&times;</span>
             </div>
             <div class="modal-body" id="modalBody"></div>
+        </div>
+    </div>
+
+    <!-- Feedback Modal -->
+    <div id="feedbackModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title">Feedback</h2>
+                <span class="close" onclick="closeFeedbackModal()">&times;</span>
+            </div>
+            <div class="modal-body">
+                <form name="feedback" method="POST" data-netlify="true" netlify-honeypot="bot-field" onsubmit="handleFeedbackSubmit(event)">
+                    <input type="hidden" name="form-name" value="feedback" />
+                    <p style="display: none;"><input name="bot-field" /></p>
+                    <div style="margin-bottom: 15px;">
+                        <label for="feedback-message" style="display: block; margin-bottom: 5px; font-weight: bold;">Please tell me what I missed!</label>
+                        <textarea id="feedback-message" name="message" placeholder="Thoughts, suggestions, issues..." required style="width: calc(100% - 22px); height: 120px; padding: 10px; border: 1px solid var(--text-color); border-radius: 4px; background-color: var(--bg-color); color: var(--text-color); font-family: inherit; resize: vertical; box-sizing: border-box;"></textarea>
+                    </div>
+                    <div style="margin-bottom: 15px;">
+                        <label for="feedback-email" style="display: block; margin-bottom: 5px; font-weight: bold;">Email (optional):</label>
+                        <input type="email" id="feedback-email" name="email" placeholder="your@email.com" style="width: calc(100% - 22px); padding: 10px; border: 1px solid var(--text-color); border-radius: 4px; background-color: var(--bg-color); color: var(--text-color); font-family: inherit; box-sizing: border-box;" />
+                    </div>
+                    <button type="submit" style="background-color: var(--project-color); color: white; border: none; padding: 10px 20px; border-radius: 4px; cursor: pointer; font-size: 14px; font-weight: bold;">Send Feedback</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Help Modal -->
+    <div id="helpModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title">About This Map</h2>
+                <span class="close" onclick="closeHelpModal()">&times;</span>
+            </div>
+            <div class="modal-body">
+                <p>This is an interactive map of the AI4HR space - exploring past attempts to apply AI to improving human reasoning, epistemics, or coordination (as well as some theoretical/conceptual discussions on the topic).</p>
+                
+                <h3>How to Navigate:</h3>
+                <ul>
+                    <li><strong>Click and drag</strong> to pan around the map</li>
+                    <li><strong>Scroll</strong> to zoom in and out</li>
+                    <li><strong>Hover over nodes</strong> to see connections</li>
+                    <li><strong>Click on nodes</strong> to read more details</li>
+                </ul>
+                
+                <h3>Node Types:</h3>
+                <ul>
+                    <li><span style="color: var(--person-color); font-weight: bold;">People</span></li>
+                    <li><span style="color: var(--project-color); font-weight: bold;">Projects</span></li>
+                    <li><span style="color: var(--organization-color); font-weight: bold;">Organizations</span></li>
+                </ul>
+                
+                <p>Found something missing or incorrect? Use the <strong>!</strong> button to let me know!</p>
+            </div>
         </div>
     </div>
     
@@ -436,6 +537,66 @@
         document.addEventListener('keydown', function(event) {
             if (event.key === 'Escape') {
                 closeModal();
+                closeFeedbackModal();
+                closeHelpModal();
+            }
+        });
+
+        // Feedback modal functions
+        function openFeedbackModal() {
+            const modal = document.getElementById('feedbackModal');
+            modal.style.display = 'block';
+        }
+
+        function closeFeedbackModal() {
+            const modal = document.getElementById('feedbackModal');
+            modal.style.display = 'none';
+        }
+
+        function handleFeedbackSubmit(event) {
+            // Form will be handled by Netlify automatically
+            // Show a simple confirmation and close modal after a brief delay
+            const submitButton = event.target.querySelector('button[type="submit"]');
+            submitButton.textContent = 'Sending...';
+            submitButton.disabled = true;
+            
+            // Let Netlify handle the form submission naturally
+            setTimeout(() => {
+                closeFeedbackModal();
+                // Reset form after closing
+                setTimeout(() => {
+                    event.target.reset();
+                    submitButton.textContent = 'Send Feedback';
+                    submitButton.disabled = false;
+                }, 500);
+            }, 1000);
+        }
+
+        // Help modal functions
+        function openHelpModal() {
+            const modal = document.getElementById('helpModal');
+            modal.style.display = 'block';
+        }
+
+        function closeHelpModal() {
+            const modal = document.getElementById('helpModal');
+            modal.style.display = 'none';
+        }
+
+        // Close modals when clicking outside of them
+        window.addEventListener('click', function(event) {
+            const contentModal = document.getElementById('contentModal');
+            const feedbackModal = document.getElementById('feedbackModal');
+            const helpModal = document.getElementById('helpModal');
+            
+            if (event.target === contentModal) {
+                closeModal();
+            }
+            if (event.target === feedbackModal) {
+                closeFeedbackModal();
+            }
+            if (event.target === helpModal) {
+                closeHelpModal();
             }
         });
     </script>
