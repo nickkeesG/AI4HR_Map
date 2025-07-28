@@ -142,7 +142,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://dl.acm.org/doi/pdf/10.1145/3640543.3645199\n\nStudy tested \"LLM-Powered Devil's Advocate\" systems that use GPT-3.5 to challenge group decisions in AI-assisted tasks. Researchers ran a randomized experiment where groups made recidivism risk predictions with AI help, and some groups also had an LLM devil's advocate that either questioned the AI's recommendations or challenged the group's majority opinion. The devil's advocate used critique questions and comments to prompt deeper thinking. The key finding was that questioning AI recommendations significantly improved group accuracy, while questioning group opinions provided no benefit."
     },
     {
       "id": "Zaria Jalan",
@@ -406,7 +406,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.lightningrod.ai/foresight\n\nAI tool (with a free version!) which allows you to query the probability of some future event. The system will provide a probability, as well as a reasoning trace explain how that probability was generated. The tool also gives some feedback about the quality of your question (e.g. clear resolution criteria), as well as offering alternate questions you might ask."
     },
     {
       "id": "Sander van der Linden",
@@ -422,7 +422,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.lesswrong.com/posts/ENgwdgdHZ2a6HTWDL/announcing-the-double-crux-bot\n\nGPT-powered chatbot for Slack and Discord that facilitates \"double crux\" conversations - a conflict resolution technique that helps two people identify the core disagreement underlying their dispute by finding shared cruxes (key beliefs that, if changed, would shift both parties' positions). The bot acts as a mediator to help people \"make their reasoning explicit and reflect on the crux of the issue\" and \"build better inferences about each other's motivations and frameworks so that they can come to a resolution.\""
     },
     {
       "id": "Emily Saltz",
@@ -430,7 +430,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://www.emilysaltz.space/"
     },
     {
       "id": "Julien Cornebise",
@@ -726,7 +726,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://futuresearch.ai/"
     },
     {
       "id": "Nick Bostrom",
@@ -782,7 +782,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/pdf/2311.02242\n\nPaper presents a democratic process for developing AI policies through collective dialogues, using AI tools to facilitate large-scale deliberation and consensus-finding among diverse public participants. The system combines AI-augmented group discussions with bridging-based ranking algorithms to identify points of consensus, then uses GPT-4 to translate these into concrete policy guidelines that are refined through expert input and further public feedback.\n\nFunded by [OpenAI Democratic Inputs to AI](https://github.com/openai/democratic-inputs)."
     },
     {
       "id": "David Huang",
@@ -807,6 +807,22 @@
         "person"
       ],
       "content": "#person"
+    },
+    {
+      "id": "Siddarth Srinivasan",
+      "title": "Siddarth Srinivasan",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
+    },
+    {
+      "id": "Julian Michael",
+      "title": "Julian Michael",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n\nhttps://julianmichael.org/"
     },
     {
       "id": "Değer Turan",
@@ -1033,14 +1049,6 @@
       "content": "#person"
     },
     {
-      "id": "Patrick Connolly",
-      "title": "Patrick Connolly",
-      "tags": [
-        "person"
-      ],
-      "content": "#person"
-    },
-    {
       "id": "The Computational Democracy Project",
       "title": "The Computational Democracy Project",
       "tags": [
@@ -1070,7 +1078,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project \n\nhttps://primer.ought.org/"
+      "content": "#project \n\nhttps://primer.ought.org/\n\nTutorial that teaches how to write \"compositional language model programs\" using factored cognition - a technique that breaks down complex reasoning tasks into smaller, manageable subtasks that can be solved recursively through methods like question-answering and debate. This approach aims to make AI reasoning more transparent and supervisable by decomposing sophisticated thinking into many small, independent tasks that humans can verify."
     },
     {
       "id": "Oriana Skylar Mastro",
@@ -1094,7 +1102,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project \n\nhttps://ai.objectives.institute/blog/amplifying-transformative-potential-while-designing-augmented-deliberative-systems\n\nBlog post presenting the \"Goldilocks Framework for Augmented Group Intelligence,\" which proposes principles for designing AI systems that enhance human deliberation and decision-making while preserving authentic human agency. The framework argues that effective AI-augmented deliberation requires balancing two key elements: \n1. participants' ability to understand and steer AI outputs (human agency) and \n2. their commitment to deliberative outcomes \nHigher-commitment decisions requiring correspondingly higher human agency."
+      "content": "#project \n\nhttps://ai.objectives.institute/blog/amplifying-transformative-potential-while-designing-augmented-deliberative-systems\n\nBlog post presenting the \"Goldilocks Framework for Augmented Group Intelligence,\" which proposes principles for designing AI systems that enhance human deliberation and decision-making while preserving authentic human agency. The framework argues that effective AI-augmented deliberation requires balancing two key elements: \n1. participants' ability to understand and steer AI outputs (human agency) and \n2. their commitment to deliberative outcomes \n\nHigher-commitment decisions requiring correspondingly higher human agency."
     },
     {
       "id": "Quantified Uncertainty Research Institute",
@@ -1134,7 +1142,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://ezrakarger.com/"
     },
     {
       "id": "LLMediator",
@@ -1183,6 +1191,14 @@
         "person"
       ],
       "content": "#person"
+    },
+    {
+      "id": "Tell Me Why - Incentivizing Explanations",
+      "title": "Tell Me Why - Incentivizing Explanations",
+      "tags": [
+        "project"
+      ],
+      "content": "#project \n\nhttps://arxiv.org/abs/2502.13410"
     },
     {
       "id": "Metaforecast",
@@ -1254,7 +1270,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://esdurmus.github.io/"
     },
     {
       "id": "Robert Gambee",
@@ -1294,7 +1310,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/pdf/2206.15474\n\nIntroduces \"Autocast,\" a dataset and benchmark for evaluating neural networks' ability to forecast future world events using thousands of real forecasting questions from public tournaments. The dataset tests language models on diverse topics like politics, economics, and science by simulating historical forecasting conditions—providing only past news articles to prevent information leakage from the future.\n\n(research from 2022)"
     },
     {
       "id": "ForecastBench - A Dynamic Benchmark of AI Forecasting Capabilities",
@@ -1302,7 +1318,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/pdf/2409.19839\nhttps://www.forecastbench.org/\n\nBenchmark system that continuously evaluates AI forecasting capabilities using 1,000 automatically generated questions about future events that update in real-time. The system avoids data contamination by using only questions about genuinely unresolved future events, and it compares LLM performance against human forecasters including \"superforecasters\" who have proven track records. Research found that expert human forecasters significantly outperform the best-performing LLMs (like Claude 3.5 Sonnet)."
     },
     {
       "id": "Sofi Vanhanen",
@@ -1401,6 +1417,14 @@
       "content": "#person"
     },
     {
+      "id": "Yiling Chen",
+      "title": "Yiling Chen",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n"
+    },
+    {
       "id": "Levin Brinkmann",
       "title": "Levin Brinkmann",
       "tags": [
@@ -1486,7 +1510,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://www.forethought.org/"
     },
     {
       "id": "AI Future Project",
@@ -1526,7 +1550,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://proceedings.neurips.cc/paper_files/paper/2022/file/f978c8f3b5f399cae464e85f72e28503-Paper-Conference.pdf\n\nPaper presents a system that fine-tunes an LLM to generate consensus statements that maximize expected approval among groups of people with diverse political opinions. The researchers developed a method where participants provide written opinions on political questions, and an AI system generates candidate consensus statements that aim to find common ground among the group members.\n\n(research from 2022)"
     },
     {
       "id": "Sean Trott",
@@ -1535,6 +1559,14 @@
         "person"
       ],
       "content": "#person"
+    },
+    {
+      "id": "Nathan Young",
+      "title": "Nathan Young",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n\nhttps://nathanpmyoung.substack.com/"
     },
     {
       "id": "Nicholas Christakis",
@@ -1590,7 +1622,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://elicit.com/"
     },
     {
       "id": "Can AI bring deliberative democracy to the masses?",
@@ -1665,6 +1697,14 @@
       "content": "#project"
     },
     {
+      "id": "Goodheart Labs",
+      "title": "Goodheart Labs",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization \n\nhttps://goodheartlabs.com/"
+    },
+    {
       "id": "Artifact",
       "title": "Artifact",
       "tags": [
@@ -1694,7 +1734,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://www.elilifland.com/"
     },
     {
       "id": "David Garcia",
@@ -2070,7 +2110,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://miba.dev/"
     },
     {
       "id": "Let’s use AI to harden human defenses against AI manipulation",
@@ -2190,7 +2230,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person \n"
+      "content": "#person \n\nhttp://www.garymarcus.com/"
     },
     {
       "id": "Fred Zhang",
@@ -2198,7 +2238,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://fredzhang.me/"
     },
     {
       "id": "Nexus",
@@ -2230,7 +2270,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://ought.org/ (website is old)\n\nOught 1.0 has effectively become what is now Elicit (the company) continuing development on Elicit (the tool). Ought 2.0 has not yet done any public work."
     },
     {
       "id": "Prateek Buch",
@@ -2321,12 +2361,20 @@
       "content": "#project"
     },
     {
+      "id": "Roast My Post",
+      "title": "Roast My Post",
+      "tags": [
+        "project"
+      ],
+      "content": "#project \n\nhttps://www.roastmypost.org\nhttps://github.com/quantified-uncertainty/roast-my-post\n\nOpen-source AI-powered platform for document analysis and evaluation. It allows users to upload documents and receive feedback with inline comments from customizable AI agents."
+    },
+    {
       "id": "Forecasting Research Institute",
       "title": "Forecasting Research Institute",
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://forecastingresearch.org/"
     },
     {
       "id": "Christopher Summerfield",
@@ -2662,7 +2710,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://elicit.com/\n\nAI research assistant that helps users conduct literature reviews by searching academic papers, extracting key findings, and synthesizing research evidence to answer specific questions."
     },
     {
       "id": "Xixin Wu",
@@ -2710,7 +2758,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://github.com/Metaculus/forecasting-tools\n\nPython framework for building AI-powered forecasting systems that help humans predict future events more accurately."
     },
     {
       "id": "Karim Benyekhlef",
@@ -2750,7 +2798,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.meaningalignment.org/research/openai-dft-the-first-moral-graph\n\nLLM-based system creates \"moral graphs\" by using a two-stage process that aims to uncover shared values underlying political disagreement. A specialized chatbot engages participants in dialogue about contentious scenarios, asking for personal stories and role models to extract the underlying value behind responses rather than collecting ideological commitments like slogans or rules. The system then shows participants stories of people transitioning between different values and asks whether such transitions represent gains in wisdom, creating a graph structure where edges represent consensus about which values are more comprehensive than others\n\nFunded by [OpenAI Democratic Inputs to AI](https://github.com/openai/democratic-inputs)."
     },
     {
       "id": "Michael Curry",
@@ -3078,7 +3126,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://divyasiddarth.com/"
     },
     {
       "id": "Edwin Lock",
@@ -3118,7 +3166,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://dl.acm.org/doi/pdf/10.1145/3544548.3580672\n\nResearch paper presents \"AI-framed Questioning\" - a method where AI systems ask users strategic questions instead of directly telling them answers, designed to improve human critical thinking and logical reasoning. The study found that when people were asked questions like \"If (premise), does it follow that (conclusion)?\" they performed significantly better at identifying logical fallacies in socially divisive statements compared to both receiving direct AI explanations or no assistance at all."
     },
     {
       "id": "Stanford Center for AI Safety",
@@ -3145,6 +3193,14 @@
       "content": "#person"
     },
     {
+      "id": "Topos Institute",
+      "title": "Topos Institute",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization \n\nhttps://topos.institute"
+    },
+    {
       "id": "Yaoli Mao",
       "title": "Yaoli Mao",
       "tags": [
@@ -3163,6 +3219,14 @@
     {
       "id": "Michael Henry Tessler",
       "title": "Michael Henry Tessler",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Rob Gordon",
+      "title": "Rob Gordon",
       "tags": [
         "person"
       ],
@@ -3987,6 +4051,22 @@
       "target": "AI Future Project"
     },
     {
+      "source": "Tell Me Why - Incentivizing Explanations",
+      "target": "Siddarth Srinivasan"
+    },
+    {
+      "source": "Tell Me Why - Incentivizing Explanations",
+      "target": "Ezra Karger"
+    },
+    {
+      "source": "Tell Me Why - Incentivizing Explanations",
+      "target": "Michiel Bakker"
+    },
+    {
+      "source": "Tell Me Why - Incentivizing Explanations",
+      "target": "Yiling Chen"
+    },
+    {
       "source": "Metaforecast",
       "target": "Nuño Sempere"
     },
@@ -4275,6 +4355,10 @@
       "target": "Christopher Summerfield"
     },
     {
+      "source": "Nathan Young",
+      "target": "Goodheart Labs"
+    },
+    {
       "source": "Ivan Vendrov",
       "target": "Midjourney"
     },
@@ -4343,6 +4427,10 @@
       "target": "Helen Meng"
     },
     {
+      "source": "Goodheart Labs",
+      "target": "AI Forecasting Benchmark"
+    },
+    {
       "source": "Artifact",
       "target": "Kevin Systrom"
     },
@@ -4369,6 +4457,10 @@
     {
       "source": "Eli Lifland",
       "target": "AI Future Project"
+    },
+    {
+      "source": "Eli Lifland",
+      "target": "Ought"
     },
     {
       "source": "Iterated Decomposition - Improving Science Q&A by Supervising Reasoning Processes",
@@ -4661,6 +4753,10 @@
     {
       "source": "The MultiView Simulation Machine",
       "target": "Jamie Joyce"
+    },
+    {
+      "source": "Roast My Post",
+      "target": "Quantified Uncertainty Research Institute"
     },
     {
       "source": "Christopher Summerfield",
@@ -4985,6 +5081,10 @@
     {
       "source": "Elicit Tool",
       "target": "Elicit"
+    },
+    {
+      "source": "Elicit Tool",
+      "target": "Ought"
     },
     {
       "source": "Language models can reduce asymmetry in information markets",
@@ -5341,6 +5441,10 @@
     {
       "source": "Michael Henry Tessler",
       "target": "Google DeepMind"
+    },
+    {
+      "source": "Rob Gordon",
+      "target": "Goodheart Labs"
     },
     {
       "source": "Ben Day",
