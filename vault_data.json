@@ -6,7 +6,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://ai.objectives.institute/blog/mapping-the-discourse-on-ai-safety-amp-ethics\n\nProject by the AI Objectives Institute that used their \"Talk to the City\" tool to analyze and map Twitter conversations about AI safety and ethics, identifying six distinct perspectives ranging from near-term harms to long-term existential risks. The tool automatically clustered thousands of tweets to reveal different viewpoints on AI governance, safety approaches, and development concerns, finding significant overlap between groups despite their different priorities."
     },
     {
       "id": "Lei Nelissen",
@@ -22,7 +22,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project \nhttps://arxiv.org/pdf/2410.01555\n\nLLM-based system that serves as both a negotiation partner and provides targeted feedback to help users improve their bargaining skills. The system identifies specific negotiation mistakes using an annotation scheme developed with [MBA](https://en.wikipedia.org/wiki/Master_of_Business_Administration) instructors, then provides detailed feedback on preparation strategies (like setting appropriate target prices) and in-conversation tactics (like including rationales with offers and strategic closing behavior). Through a controlled experiment with 374 participants across two negotiation rounds, the researchers demonstrated that users who received ACE's coaching significantly improved their objective negotiation outcomes compared to control groups."
+      "content": "#project \n\nhttps://arxiv.org/pdf/2410.01555\n\nLLM-based system that provides targeted feedback to help users improve their bargaining skills. The system identifies specific negotiation mistakes using an annotation scheme developed with [MBA](https://en.wikipedia.org/wiki/Master_of_Business_Administration) instructors, then provides detailed feedback on preparation strategies (like setting appropriate target prices) and in-conversation tactics (like including rationales with offers and strategic closing behavior). Through a controlled experiment with 374 participants across two negotiation rounds, the researchers demonstrated that users who received ACE's coaching significantly improved their objective negotiation outcomes compared to control groups."
     },
     {
       "id": "Zhehui Liao",
@@ -38,7 +38,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttp://jonathanstray.com/"
     },
     {
       "id": "David Rand",
@@ -110,7 +110,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://maggieappleton.com/"
     },
     {
       "id": "Andy Zou",
@@ -159,6 +159,14 @@
         "project"
       ],
       "content": "#project"
+    },
+    {
+      "id": "Kenny Peng",
+      "title": "Kenny Peng",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
     },
     {
       "id": "Yoshua Bengio",
@@ -246,7 +254,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://hannahsheahan.github.io/"
     },
     {
       "id": "Kevin Leyton-Brown",
@@ -358,15 +366,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
-    },
-    {
-      "id": "vTaiwan",
-      "title": "vTaiwan",
-      "tags": [
-        "organization"
-      ],
-      "content": "#organization"
+      "content": "#project \n\nhttps://arxiv.org/pdf/2502.09369\n\nResearchers fine-tuned LLMs to simulate how specific people would participate in consensus-finding discussions, particularly in the critique phase where participants evaluate draft consensus statements."
     },
     {
       "id": "Dirk U. Wulff",
@@ -406,7 +406,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project \n\nhttps://www.lightningrod.ai/foresight\n\nAI tool (with a free version!) which allows you to query the probability of some future event. The system will provide a probability, as well as a reasoning trace explain how that probability was generated. The tool also gives some feedback about the quality of your question (e.g. clear resolution criteria), as well as offering alternate questions you might ask."
+      "content": "#project \n\nhttps://www.lightningrod.ai/foresight\n\nAI tool (with a free version!) which allows you to query the probability of some future event. The system will provide a probability, as well as a reasoning trace explaining how that probability was generated. The tool also gives some feedback about the quality of your question (e.g. clear resolution criteria), as well as offering alternate questions you might want to ask."
     },
     {
       "id": "Sander van der Linden",
@@ -470,7 +470,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/pdf/2404.04516\n \nStudy of 21 professional philosophers examining how language models could serve as \"critical thinking tools\" rather than just productivity accelerators. The researchers found that current LMs fail as critical thinking partners because they lack \"selfhood\" (consistent perspectives, memory, beliefs) and \"initiative\" (curiosity, proactivity, willingness to challenge users), leading philosophers to describe them as \"boring,\" \"bland,\" and \"cowardly.\" The authors propose three new LM roles to better support deep reasoning:\n1. the Interlocutor (high selfhood/initiative, challenges and disagrees), \n2. the Monitor (low selfhood/high initiative, provides diverse perspectives), and \n3. the Respondent (high selfhood/low initiative, reacts from specific viewpoints)"
     },
     {
       "id": "Talk to the City",
@@ -535,6 +535,14 @@
         "organization"
       ],
       "content": "#organization"
+    },
+    {
+      "id": "Manifold Markets",
+      "title": "Manifold Markets",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization \n\nhttps://manifold.markets/home"
     },
     {
       "id": "Sentinel",
@@ -654,7 +662,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/pdf/2411.05025\n\nLarge-scale survey study examining how researchers currently use LLMs in their research workflows and their perceptions of benefits and risks. The study surveyed 816 verified research paper authors across multiple disciplines to understand usage patterns, demographic differences, and attitudes toward LLM tools in academic work."
     },
     {
       "id": "Andrea Tacchetti",
@@ -686,7 +694,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://jsteinhardt.stat.berkeley.edu/"
     },
     {
       "id": "Wenkang Ji",
@@ -766,7 +774,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://www.lightningrod.ai/"
     },
     {
       "id": "Human v Bots Forecasting Tournament 2024",
@@ -774,7 +782,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project\n\nhttps://news.manifold.markets/p/human-v-bots-forecasting-tournament\n\nCompetition hosted by Manifold Markets, where human forecasters compete directly against AI systems to predict major world events throughout 2024, with winners determined by forecasting accuracy and profit."
     },
     {
       "id": "Democratic Policy Development using Collective Dialogues and AI",
@@ -846,7 +854,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://jaredmoore.org/"
     },
     {
       "id": "Ulrike Hahn",
@@ -910,7 +918,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/pdf/2403.03407\n\nPaper examines how LLMs behave compared to human experts when simulating military crisis decision-making through wargames. The study involved 214 national security experts and compared their responses to AI-simulated teams in a fictional U.S.-China crisis scenario over the Taiwan Strait. The research found that while LLMs showed significant overlap with human decision-making patterns, they demonstrated concerning tendencies toward more aggressive actions and were significantly affected by changes in scenario parameters."
     },
     {
       "id": "Hadjar Homaei",
@@ -950,7 +958,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://para-zhou.github.io/"
     },
     {
       "id": "Pietro Nickl",
@@ -966,7 +974,7 @@
       "tags": [
         "organization"
       ],
-      "content": ""
+      "content": "#organization\n\nhttps://www.metaculus.com/"
     },
     {
       "id": "Nuño Sempere",
@@ -975,6 +983,14 @@
         "person"
       ],
       "content": "#person"
+    },
+    {
+      "id": "Sparse Autoencoders for Hypothesis Generation",
+      "title": "Sparse Autoencoders for Hypothesis Generation",
+      "tags": [
+        "project"
+      ],
+      "content": "#project \n\nhttps://arxiv.org/pdf/2502.04382\n\nA method that uses sparse autoencoders to automatically generate human-interpretable hypotheses about what features in text data predict certain outcomes (like which headlines get more clicks or what language patterns distinguish Republican vs Democratic speeches). The system works by training neural networks to find interpretable patterns in text, selecting the most predictive patterns, and then using language models to translate those patterns into clear natural language explanations."
     },
     {
       "id": "Bruno Marnette",
@@ -1038,7 +1054,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://www.maxlamparth.com/"
     },
     {
       "id": "Dalit Shalom",
@@ -1059,6 +1075,14 @@
     {
       "id": "Matthew Botvinick",
       "title": "Matthew Botvinick",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Emma Pierson",
+      "title": "Emma Pierson",
       "tags": [
         "person"
       ],
@@ -1094,7 +1118,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/pdf/2309.01291\n\nPaper introduces a framework that combines LLMs with social choice theory to enable democratic decision-making on open-ended questions where traditional voting on predetermined alternatives isn't sufficient. The system can generate new consensus statements from diverse participant opinions and predict how well individuals would agree with any statement.\n\nFunded by [OpenAI Democratic Inputs to AI](https://github.com/openai/democratic-inputs)."
     },
     {
       "id": "Amplifying transformative potential while designing augmented deliberative systems",
@@ -1134,7 +1158,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.tandfonline.com/doi/full/10.1080/21670811.2019.1630289\n\nPaper examines how artificial intelligence can be applied to investigative journalism, focusing on the practical challenges and realistic opportunities for AI tools in newsrooms. The research reveals that while AI has enormous theoretical potential for helping journalists analyze large datasets and uncover hidden patterns of public interest, current applications remain limited to relatively simple tasks like document classification and data cleaning."
     },
     {
       "id": "Ezra Karger",
@@ -1150,7 +1174,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/pdf/2307.16732\n\nAn experimental platform that uses GPT-4 to enhance online dispute resolution by helping parties communicate more effectively and reach amicable settlements. The system offers three key features: \n1. reformulating inflammatory messages to be less confrontational while preserving their core meaning, \n2. generating draft intervention messages for human mediators to guide discussions, and \n3. allowing AI to autonomously mediate certain low-stakes disputes."
     },
     {
       "id": "Ai-Heng Lee",
@@ -1201,12 +1225,20 @@
       "content": "#project \n\nhttps://arxiv.org/abs/2502.13410"
     },
     {
+      "id": "Amelia Wattenberger",
+      "title": "Amelia Wattenberger",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n\nhttps://wattenberger.com\nhttps://github.com/Wattenberger"
+    },
+    {
       "id": "Metaforecast",
       "title": "Metaforecast",
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://metaforecast.org\n\nSearch engine and aggregator for predictions and forecasts from various prediction markets and forecasting platforms, allowing users to search for probability estimates on topics like geopolitics, technology, and other events. It provides quality ratings for forecasts and tools to help users navigate and understand prediction data across multiple platforms.\n\n(not currently maintained)"
     },
     {
       "id": "Santeri Koivula",
@@ -1238,11 +1270,19 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://andre-ye.org/"
     },
     {
       "id": "Inyoung Cheong",
       "title": "Inyoung Cheong",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Jon Kleinberg",
+      "title": "Jon Kleinberg",
       "tags": [
         "person"
       ],
@@ -1255,6 +1295,14 @@
         "person"
       ],
       "content": "#person"
+    },
+    {
+      "id": "Escalation Risks from Language Models in Military and Diplomatic Decision-Making",
+      "title": "Escalation Risks from Language Models in Military and Diplomatic Decision-Making",
+      "tags": [
+        "project"
+      ],
+      "content": "#project \nhttps://dl.acm.org/doi/pdf/10.1145/3630106.3658942\n\nPaper examines what happens when LLMs are placed in charge of simulated nations in wargaming scenarios, finding that these AI systems frequently escalate conflicts and, in some cases, even deploy nuclear weapons. The researchers tested five different LLMs controlling autonomous nation agents and discovered that all models showed escalatory patterns, with some developing arms-race dynamics and making decisions based on concerning justifications like deterrence and first-strike tactics."
     },
     {
       "id": "Filippo Menczer",
@@ -1382,7 +1430,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project\n\nhttps://www.science.org/doi/10.1126/science.adq2852\n\nAI system developed by Google DeepMind that uses two fine-tuned language models to mediate group discussions and help people with differing opinions find common ground on contentious issues. The system takes individual written opinions from participants, generates candidate \"group statements\" that synthesize everyone's perspectives, and iteratively refines these statements based on participant feedback until the group converges on a shared position. Research showed that AI-mediated discussions were more effective than unmediated opinion exposure at causing people to change their minds and reach consensus, with the AI slightly outperforming untrained human mediators."
     },
     {
       "id": "Daniel Schroeder",
@@ -1401,12 +1449,20 @@
       "content": "#person \n"
     },
     {
+      "id": "Gabriel Mukobi",
+      "title": "Gabriel Mukobi",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
       "id": "Justin Reppert",
       "title": "Justin Reppert",
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://www.justinreppert.com/"
     },
     {
       "id": "Jack Wildman",
@@ -1598,7 +1654,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://www.vendrov.ai/"
     },
     {
       "id": "Jonas Kunst",
@@ -1745,12 +1801,20 @@
       "content": "#person \n"
     },
     {
+      "id": "Brendan Fong",
+      "title": "Brendan Fong",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n\nhttp://www.brendanfong.com/"
+    },
+    {
       "id": "Iterated Decomposition - Improving Science Q&A by Supervising Reasoning Processes",
       "title": "Iterated Decomposition - Improving Science Q&A by Supervising Reasoning Processes",
       "tags": [
         "project"
       ],
-      "content": "#project \n\nhttps://arxiv.org/pdf/2301.01751\nhttps://github.com/oughtinc/ice"
+      "content": "#project \n\nhttps://arxiv.org/pdf/2301.01751\nhttps://github.com/oughtinc/ice\n\nA human-in-the-loop workflow for breaking down complex question-answering tasks into smaller, interpretable steps for language models. The approach involves systematically decomposing complex tasks, evaluating intermediate results, diagnosing failures, and refining the decomposition through multiple iterations, supported by a visualization tool called ICE."
     },
     {
       "id": "Peter Mühlbacher",
@@ -1790,7 +1854,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://github.com/SentinelTeam/grim\nhttps://www.lesswrong.com/posts/eR69f3hi5ozxchhYg/scaling-wargaming-for-global-catastrophic-risks-with-ai\n\nAI-powered wargaming tool that uses LLMs to simulate complex catastrophic scenarios and help organizations practice emergency responses. The tool functions as a Telegram bot where participants can take actions, request information, and feed data into crisis simulations, with AI serving as both forecaster and game master to create detailed, dynamic scenarios."
     },
     {
       "id": "Nikos Bosse",
@@ -1854,7 +1918,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://www.jamiejoyce.com/"
     },
     {
       "id": "Deep Ganguli",
@@ -1879,6 +1943,14 @@
         "project"
       ],
       "content": "#project \nhttps://www.sltoken.xyz/\n\nThe Society Library created AI agents called \"Muses\" that users can tag on social media platforms to perform reasoning tasks like fact-checking claims and researching topics. Their \"Muse of Truth\" provides substantive analysis of factual claims with evidence gaps and source references, while the \"Muse of Research\" pulls resources on requested topics.\n\nThe initiative was funded through a community-created meme token ($SL) that was anonymously gifted to the charity, with 50% of holdings donated to support their mission."
+    },
+    {
+      "id": "Rajiv Movva",
+      "title": "Rajiv Movva",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
     },
     {
       "id": "Farhad Moghimifar",
@@ -1926,7 +1998,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/abs/2503.01769\n\nPaper describes a case study of using AI and collective dialogue methods to help Israeli and Palestinian peacebuilders find common ground during the conflict following October 7, 2023. The research integrates LLMs, bridging-based ranking algorithms, and online collective dialogues to identify shared perspectives across divided groups."
     },
     {
       "id": "Jaromir Savelka",
@@ -1943,6 +2015,14 @@
         "project"
       ],
       "content": "#project"
+    },
+    {
+      "id": "Anka Reuel",
+      "title": "Anka Reuel",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
     },
     {
       "id": "Joshua A. Becker",
@@ -1966,7 +2046,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://www.iqt.org/"
     },
     {
       "id": "Gholamreza Haffari",
@@ -1982,7 +2062,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://nxhx.org/"
     },
     {
       "id": "MIT Media Lab",
@@ -2022,7 +2102,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://www.janbalaguer.net/"
     },
     {
       "id": "The Society Library",
@@ -2118,7 +2198,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.lesswrong.com/posts/zxmzBTwKkPMxQQcfR/let-s-use-ai-to-harden-human-defenses-against-ai\n\nBlog post proposes using AI systems to discover and catalog human manipulation techniques in order to train \"detector-AIs\" and humans to recognize these tactics, essentially creating a defensive system against AI manipulation. The approach involves optimizing AIs to persuade humans of both truths and falsehoods, analyzing what manipulation strategies they develop, and then training detection systems to identify these techniques in real-world scenarios."
     },
     {
       "id": "Anne-Marie Nussberger",
@@ -2163,6 +2243,14 @@
     {
       "id": "Lisa Schirch",
       "title": "Lisa Schirch",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n\nhttps://kroc.nd.edu/faculty-and-staff/lisa-schirch/"
+    },
+    {
+      "id": "Nikhil Garg",
+      "title": "Nikhil Garg",
       "tags": [
         "person"
       ],
@@ -2214,7 +2302,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/pdf/2502.05253\n\nMethod for improving large language models' forecasting capabilities through self-play and outcome-driven fine-tuning, where models generate multiple reasoning traces for prediction questions and learn from which approaches led to more accurate forecasts. The authors demonstrate that smaller models (14B parameters) fine-tuned with this method can achieve forecasting performance comparable to much larger frontier models like GPT-4o."
     },
     {
       "id": "Martin Chadwick",
@@ -2302,7 +2390,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://www.meaningalignment.org/"
     },
     {
       "id": "Q1 AI Benchmarking results",
@@ -2324,9 +2412,9 @@
       "id": "Stanford Crowdsourced Democracy Team",
       "title": "Stanford Crowdsourced Democracy Team",
       "tags": [
-        "person"
+        "organization"
       ],
-      "content": "#person"
+      "content": "#organization"
     },
     {
       "id": "Harold Trinkunas",
@@ -2398,7 +2486,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://globaldialogues.ai\n\nResearch initiative that uses AI-powered interactive dialogue platforms to systematically map global public perspectives on AI development and its societal impacts."
     },
     {
       "id": "X Community Notes",
@@ -2414,7 +2502,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://www.hoover.org/research-teams/wargaming-and-crisis-simulation-initiative"
     },
     {
       "id": "Luke Stebbing",
@@ -2422,7 +2510,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://lukestebbing.com/"
     },
     {
       "id": "How Malicious AI Swarms Can Threaten Democracy",
@@ -2451,6 +2539,14 @@
     {
       "id": "Sayash Kapoor",
       "title": "Sayash Kapoor",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Juan-Pablo Rivera",
+      "title": "Juan-Pablo Rivera",
       "tags": [
         "person"
       ],
@@ -2550,7 +2646,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://rezendi.com"
     },
     {
       "id": "Nick Hikita",
@@ -2638,7 +2734,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://sites.google.com/view/georginaevans"
     },
     {
       "id": "Ryan Lowe",
@@ -2673,6 +2769,14 @@
       "content": "#person"
     },
     {
+      "id": "CHAI",
+      "title": "CHAI",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization \n\nhttps://humancompatible.ai/"
+    },
+    {
       "id": "Brett Hennig",
       "title": "Brett Hennig",
       "tags": [
@@ -2702,7 +2806,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://jaybaxter.net/"
     },
     {
       "id": "Elicit Tool",
@@ -2726,7 +2830,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/pdf/2403.14443\n\nPaper presents the \"Information Bazaar,\" a simulated digital marketplace where AI agents powered by LLMs buy and sell information on behalf of principals. The system addresses the buyer's inspection paradox in information markets, where buyers need access to information to assess its value, but sellers need to limit access to prevent theft. The key innovation is that AI agents have dual capabilities: they can evaluate the quality of privileged information and can \"forget\" unpurchased content, allowing temporary inspection without unauthorized retention."
     },
     {
       "id": "Plurality Institute",
@@ -2782,7 +2886,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.nature.com/articles/s41562-024-01959-9\n\nPaper examines how LLMs are reshaping collective intelligence (the ability of groups to solve problems better than individuals alone). The authors examine both the opportunities and risks that LLMs present for human collective reasoning and decision-making processes."
     },
     {
       "id": "Mike Krieger",
@@ -2846,7 +2950,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/pdf/2406.11871\n\nResearch studies how LLMs can serve as representatives for human voters in democratic processes like participatory budgeting and elections. The research demonstrates that AI systems can effectively represent abstaining voters."
     },
     {
       "id": "Rai Sur",
@@ -2902,7 +3006,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://ai.objectives.institute/blog/how-ai-agents-will-improve-consultation-process\n\nBlog post describes how AI agents can transform consultation processes by making them more interactive and engaging than traditional surveys. The AI Objectives Institute proposes using different types of AI agents: \n1. \"domain experts\" to help participants understand complex questions and organize their thoughts, \n2. \"professional interviewers\" to help refine and improve responses, and \n3. \"cross-pollination\" agents to help participants exchange ideas and find consensus by synthesizing diverse viewpoints."
     },
     {
       "id": "Toby Shevlane",
@@ -2918,7 +3022,15 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://jtheuns.com/"
+    },
+    {
+      "id": "vTaiwan & g0v",
+      "title": "vTaiwan & g0v",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization"
     },
     {
       "id": "Google Jigsaw",
@@ -2926,7 +3038,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://jigsaw.google.com/"
     },
     {
       "id": "Abdullah Almaatouq",
@@ -3006,7 +3118,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://ai.objectives.institute/blog/straightlines-surfaces-the-content-beneath-the-headline\nhttps://github.com/AIObjectives/lucidlens\n\nChrome extension that automatically rewrites sensational or misleading news headlines to more accurately reflect the actual content of articles, using AI to read and summarize the full text before generating clearer headlines."
     },
     {
       "id": "Ian Baker",
@@ -3169,6 +3281,14 @@
       "content": "#project \n\nhttps://dl.acm.org/doi/pdf/10.1145/3544548.3580672\n\nResearch paper presents \"AI-framed Questioning\" - a method where AI systems ask users strategic questions instead of directly telling them answers, designed to improve human critical thinking and logical reasoning. The study found that when people were asked questions like \"If (premise), does it follow that (conclusion)?\" they performed significantly better at identifying logical fallacies in socially divisive statements compared to both receiving direct AI explanations or no assistance at all."
     },
     {
+      "id": "Chandler Smith",
+      "title": "Chandler Smith",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
       "id": "Stanford Center for AI Safety",
       "title": "Stanford Center for AI Safety",
       "tags": [
@@ -3214,7 +3334,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person\n\nhttps://www.helenelandemore.com/"
     },
     {
       "id": "Michael Henry Tessler",
@@ -3222,7 +3342,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person\n\nhttps://www.mit.edu/~tessler/"
     },
     {
       "id": "Rob Gordon",
@@ -3353,6 +3473,10 @@
     {
       "source": "ACE - A LLM-based Negotiation Coaching System",
       "target": "Zhou Yu"
+    },
+    {
+      "source": "Jonathan Stray",
+      "target": "CHAI"
     },
     {
       "source": "Amelia Glaese",
@@ -3552,7 +3676,7 @@
     },
     {
       "source": "Recursive Public",
-      "target": "vTaiwan"
+      "target": "vTaiwan & g0v"
     },
     {
       "source": "Recursive Public",
@@ -3784,7 +3908,7 @@
     },
     {
       "source": "Audrey Tang",
-      "target": "vTaiwan"
+      "target": "vTaiwan & g0v"
     },
     {
       "source": "Bridging Bot",
@@ -3805,6 +3929,10 @@
     {
       "source": "Bridging Bot",
       "target": "Peter Darche"
+    },
+    {
+      "source": "Jia-Wei Cui",
+      "target": "vTaiwan & g0v"
     },
     {
       "source": "LLMs as Research Tools -  A Large Scale Survey of Researchers’ Usage and Perceptions",
@@ -3857,6 +3985,10 @@
     {
       "source": "Human v Bots Forecasting Tournament 2024",
       "target": "Future Search"
+    },
+    {
+      "source": "Human v Bots Forecasting Tournament 2024",
+      "target": "Manifold Markets"
     },
     {
       "source": "Democratic Policy Development using Collective Dialogues and AI",
@@ -3945,6 +4077,26 @@
     {
       "source": "Nuño Sempere",
       "target": "Sentinel"
+    },
+    {
+      "source": "Sparse Autoencoders for Hypothesis Generation",
+      "target": "Rajiv Movva"
+    },
+    {
+      "source": "Sparse Autoencoders for Hypothesis Generation",
+      "target": "Kenny Peng"
+    },
+    {
+      "source": "Sparse Autoencoders for Hypothesis Generation",
+      "target": "Nikhil Garg"
+    },
+    {
+      "source": "Sparse Autoencoders for Hypothesis Generation",
+      "target": "Jon Kleinberg"
+    },
+    {
+      "source": "Sparse Autoencoders for Hypothesis Generation",
+      "target": "Emma Pierson"
     },
     {
       "source": "Bruno Marnette",
@@ -4085,6 +4237,30 @@
     {
       "source": "What are human values,and how do we align AI to them?",
       "target": "Joe Edelman"
+    },
+    {
+      "source": "Escalation Risks from Language Models in Military and Diplomatic Decision-Making",
+      "target": "Juan-Pablo Rivera"
+    },
+    {
+      "source": "Escalation Risks from Language Models in Military and Diplomatic Decision-Making",
+      "target": "Gabriel Mukobi"
+    },
+    {
+      "source": "Escalation Risks from Language Models in Military and Diplomatic Decision-Making",
+      "target": "Anka Reuel"
+    },
+    {
+      "source": "Escalation Risks from Language Models in Military and Diplomatic Decision-Making",
+      "target": "Max Lamparth"
+    },
+    {
+      "source": "Escalation Risks from Language Models in Military and Diplomatic Decision-Making",
+      "target": "Chandler Smith"
+    },
+    {
+      "source": "Escalation Risks from Language Models in Military and Diplomatic Decision-Making",
+      "target": "Jacquelyn Schneider"
     },
     {
       "source": "Esin Durmus",
@@ -4463,6 +4639,10 @@
       "target": "Ought"
     },
     {
+      "source": "Brendan Fong",
+      "target": "Topos Institute"
+    },
+    {
       "source": "Iterated Decomposition - Improving Science Q&A by Supervising Reasoning Processes",
       "target": "Justin Reppert"
     },
@@ -4504,7 +4684,7 @@
     },
     {
       "source": "Shu Yang Lin",
-      "target": "vTaiwan"
+      "target": "vTaiwan & g0v"
     },
     {
       "source": "Grim",
@@ -5021,6 +5201,10 @@
     {
       "source": "Jon Evans",
       "target": "Future Search"
+    },
+    {
+      "source": "Jon Evans",
+      "target": "Metaculus"
     },
     {
       "source": "Romuald Elie",
