@@ -929,6 +929,14 @@
       "content": "#person"
     },
     {
+      "id": "AI Debate Maps",
+      "title": "AI Debate Maps",
+      "tags": [
+        "project"
+      ],
+      "content": "#project \n\nhttps://www.societylibrary.org/topics-blog/ai-alignment-superintelligence-ethics\n\nDebate maps specifically about Artificial Intelligence."
+    },
+    {
       "id": "Sara Fish",
       "title": "Sara Fish",
       "tags": [
@@ -2287,6 +2295,14 @@
         "person"
       ],
       "content": "#person"
+    },
+    {
+      "id": "Mapping AI Discourse",
+      "title": "Mapping AI Discourse",
+      "tags": [
+        "topic"
+      ],
+      "content": "#topic"
     },
     {
       "id": "Wei Dai",
@@ -4207,6 +4223,10 @@
       "target": "Plurality Institute"
     },
     {
+      "source": "AI Debate Maps",
+      "target": "Debate Maps"
+    },
+    {
       "source": "Human vs. Machine -  Behavioral Differences between Expert Humans and Language Models in Wargame Simulations",
       "target": "Max Lamparth"
     },
@@ -5013,6 +5033,22 @@
     {
       "source": "Let’s use AI to harden human defenses against AI manipulation",
       "target": "Tom Davidson"
+    },
+    {
+      "source": "Mapping AI Discourse",
+      "target": "Recursive Public"
+    },
+    {
+      "source": "Mapping AI Discourse",
+      "target": "Global Dialogues"
+    },
+    {
+      "source": "Mapping AI Discourse",
+      "target": "Mapping the Discourse on AI Safety & Ethics"
+    },
+    {
+      "source": "Mapping AI Discourse",
+      "target": "AI Debate Maps"
     },
     {
       "source": "Finn Hambly",
