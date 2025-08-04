@@ -116,6 +116,76 @@
             transform: scale(1.1);
         }
         
+        .search-container {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            z-index: 1001;
+        }
+        
+        .search-wrapper {
+            position: relative;
+            display: inline-block;
+        }
+        
+        .search-input {
+            width: 300px;
+            height: 40px;
+            padding: 0 40px 0 15px;
+            border: 2px solid var(--text-color);
+            border-radius: 20px;
+            background: var(--bg-color);
+            color: var(--text-color);
+            font-size: 16px;
+            outline: none;
+            transition: all 0.3s ease;
+            box-sizing: border-box;
+        }
+        
+        .search-clear {
+            position: absolute;
+            right: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: none;
+            border: none;
+            color: var(--text-color);
+            font-size: 18px;
+            cursor: pointer;
+            opacity: 0.6;
+            width: 20px;
+            height: 20px;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            transition: all 0.2s ease;
+        }
+        
+        .search-clear:hover {
+            opacity: 1;
+            background: var(--text-color);
+            color: var(--bg-color);
+        }
+        
+        .search-input::placeholder {
+            color: var(--text-color);
+            opacity: 0.6;
+        }
+        
+        .search-input:focus {
+            border-color: var(--project-color);
+            box-shadow: 0 0 0 3px rgba(212, 121, 26, 0.2);
+        }
+        
+        .search-results {
+            margin-top: 5px;
+            font-size: 14px;
+            color: var(--text-color);
+            opacity: 0.8;
+            font-weight: 500;
+        }
+        
         .links line {
             stroke: var(--link-color);
             stroke-opacity: 0.6;
@@ -241,6 +311,13 @@
     </style>
 </head>
 <body>
+    <div class="search-container">
+        <div class="search-wrapper">
+            <input type="text" class="search-input" placeholder="Search nodes..." id="searchInput">
+            <button class="search-clear" id="searchClear">&times;</button>
+        </div>
+        <div class="search-results" id="searchResults"></div>
+    </div>
     <button class="theme-toggle" onclick="toggleTheme()"><span style="position: relative; top: -4px;">&#9789;</span></button>
     <button class="feedback-button" onclick="openFeedbackModal()"><span style="position: relative; top: -2px;">!</span></button>
     <button class="help-button" onclick="openHelpModal()"><span style="position: relative; top: -2px;">?</span></button>
@@ -479,7 +556,62 @@
             
             // Now restart the simulation after everything is configured
             simulation.restart();
+            
+            // Set up search functionality
+            setupSearch(node);
         });
+        
+        // Search functionality
+        function setupSearch(nodeSelection) {
+            const searchInput = document.getElementById('searchInput');
+            const searchResults = document.getElementById('searchResults');
+            const searchClear = document.getElementById('searchClear');
+            
+            function performSearch() {
+                const searchTerm = searchInput.value.toLowerCase().trim();
+                let matchCount = 0;
+                
+                nodeSelection.style("opacity", d => {
+                    if (!searchTerm) return 1; // Show all nodes if search is empty
+                    
+                    const titleMatch = d.title.toLowerCase().includes(searchTerm);
+                    const contentMatch = d.content.toLowerCase().includes(searchTerm);
+                    const isMatch = titleMatch || contentMatch;
+                    
+                    if (isMatch) matchCount++;
+                    
+                    return isMatch ? 1 : 0.1; // Highlight matches, dim others significantly
+                });
+                
+                // Update results count and clear button visibility
+                if (!searchTerm) {
+                    searchResults.textContent = '';
+                    searchClear.style.display = 'none';
+                } else {
+                    searchResults.textContent = `${matchCount} result${matchCount !== 1 ? 's' : ''} found`;
+                    searchClear.style.display = 'flex';
+                }
+            }
+            
+            // Search as user types
+            searchInput.addEventListener('input', performSearch);
+            
+            function clearSearch() {
+                searchInput.value = '';
+                performSearch();
+                searchInput.focus();
+            }
+            
+            // Clear search button
+            searchClear.addEventListener('click', clearSearch);
+            
+            // Clear search with Escape key
+            searchInput.addEventListener('keydown', function(event) {
+                if (event.key === 'Escape') {
+                    clearSearch();
+                }
+            });
+        }
         
         // Theme toggle functionality
         function toggleTheme() {
