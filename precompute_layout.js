@@ -67,12 +67,12 @@ const simulation = d3.forceSimulation(data.nodes)
     .force("link", d3.forceLink(data.links)
         .id(d => d.id)
         .distance(d => d.type === "topic_link" ? 120 : 50)  // Topic links much longer
-        .strength(d => d.type === "topic_link" ? 0.04 : 0.75)  // Slightly increase topic link strength
+        .strength(d => d.type === "topic_link" ? 0.05 : 0.75)  // Increase topic link strength to 0.05
     )
     .force("charge", d3.forceManyBody().strength(-300))
     .force("center", d3.forceCenter(width / 2, height / 2).strength(0.5))
-    .force("x", d3.forceX(width / 2).strength(0.01))
-    .force("y", d3.forceY(height / 2).strength(0.01))
+    .force("x", d3.forceX(width / 2).strength(0.005))
+    .force("y", d3.forceY(height / 2).strength(0.005))
     .force("collide", d3.forceCollide(d => d.size + 12).strength(1.0)) // Stronger collision with more padding
     .alpha(2.5)
     .alphaDecay(0.0002);

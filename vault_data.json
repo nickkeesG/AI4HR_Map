@@ -5619,6 +5619,10 @@
       "target": "Deep Research Bench - Evaluating AI Web Research Agents"
     },
     {
+      "source": "Research",
+      "target": "Iterated Decomposition - Improving Science Q&A by Supervising Reasoning Processes"
+    },
+    {
       "source": "Bench to the Future - A Pastcasting Benchmark for Forecasting Agents",
       "target": "Jack Wildman"
     },
