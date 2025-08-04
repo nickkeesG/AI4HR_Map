@@ -32,8 +32,8 @@ data.links.forEach(link => {
 });
 
 // Add size property based on degree
-const minSize = 8;
-const maxSize = 16;
+const minSize = 16;
+const maxSize = 32;
 const maxDegree = Math.max(...Object.values(nodeDegrees));
 const minDegree = Math.min(...Object.values(nodeDegrees));
 
@@ -54,10 +54,11 @@ console.log('Creating force simulation...');
 // Create the same simulation as the web app
 const simulation = d3.forceSimulation(data.nodes)
     .force("link", d3.forceLink(data.links).id(d => d.id).distance(50))
-    .force("charge", d3.forceManyBody().strength(-200))
+    .force("charge", d3.forceManyBody().strength(-220))
     .force("center", d3.forceCenter(width / 2, height / 2))
     .force("x", d3.forceX(width / 2).strength(0.02))
     .force("y", d3.forceY(height / 2).strength(0.02))
+    .force("collide", d3.forceCollide(d => d.size + 5)) // Prevent overlapping with 5px padding
     .alpha(1.2)
     .alphaDecay(0.0005);
 
