@@ -190,7 +190,7 @@
         
         .topic-labels text {
             font-family: Arial, sans-serif;
-            font-size: 50px;
+            font-size: 75px;
             font-weight: normal;
             fill: var(--text-color);
             text-anchor: middle;
@@ -572,7 +572,7 @@
             // Position topic labels below their nodes
             labels
                 .attr("x", d => d.x)
-                .attr("y", d => d.y + d.size + 40); // Position below node with more padding for larger text
+                .attr("y", d => d.y + d.size + 55); // Position lower to compensate for larger 75px text
             
             // Set up search functionality
             setupSearch(node, labels);

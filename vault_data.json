@@ -401,6 +401,14 @@
       "content": "#person"
     },
     {
+      "id": "Value Elicitation",
+      "title": "Value Elicitation",
+      "tags": [
+        "topic"
+      ],
+      "content": "#topic"
+    },
+    {
       "id": "David Schwitzgebel",
       "title": "David Schwitzgebel",
       "tags": [
@@ -577,6 +585,14 @@
       "content": "#organization \n\nhttps://www.cip.org/"
     },
     {
+      "id": "Online Epistemics",
+      "title": "Online Epistemics",
+      "tags": [
+        "topic"
+      ],
+      "content": "#topic"
+    },
+    {
       "id": "Modelling Political Coalition Negotiations Using LLM-based Agents",
       "title": "Modelling Political Coalition Negotiations Using LLM-based Agents",
       "tags": [
@@ -687,6 +703,22 @@
         "project"
       ],
       "content": "#project \n\nhttps://arxiv.org/pdf/2411.05025\n\nLarge-scale survey study examining how researchers currently use LLMs in their research workflows and their perceptions of benefits and risks. The study surveyed 816 verified research paper authors across multiple disciplines to understand usage patterns, demographic differences, and attitudes toward LLM tools in academic work."
+    },
+    {
+      "id": "Mediation & Negotiation",
+      "title": "Mediation & Negotiation",
+      "tags": [
+        "topic"
+      ],
+      "content": "#topic"
+    },
+    {
+      "id": "Applied Rationality",
+      "title": "Applied Rationality",
+      "tags": [
+        "topic"
+      ],
+      "content": "#topic"
     },
     {
       "id": "Andrea Tacchetti",
@@ -961,6 +993,14 @@
       "content": "#person"
     },
     {
+      "id": "Information Market Mechanisms",
+      "title": "Information Market Mechanisms",
+      "tags": [
+        "topic"
+      ],
+      "content": "#topic"
+    },
+    {
       "id": "Philipp Schoenegger",
       "title": "Philipp Schoenegger",
       "tags": [
@@ -1007,6 +1047,14 @@
         "person"
       ],
       "content": "#person"
+    },
+    {
+      "id": "Linting Adjacent",
+      "title": "Linting Adjacent",
+      "tags": [
+        "topic"
+      ],
+      "content": "#topic"
     },
     {
       "id": "Metaculus",
@@ -1121,6 +1169,14 @@
       "content": "#person"
     },
     {
+      "id": "Strategic Epistemic Defense",
+      "title": "Strategic Epistemic Defense",
+      "tags": [
+        "topic"
+      ],
+      "content": "#topic"
+    },
+    {
       "id": "Emma Pierson",
       "title": "Emma Pierson",
       "tags": [
@@ -1135,6 +1191,14 @@
         "person"
       ],
       "content": "#person"
+    },
+    {
+      "id": "Interface Design",
+      "title": "Interface Design",
+      "tags": [
+        "topic"
+      ],
+      "content": "#topic"
     },
     {
       "id": "Factored Cognition Primer",
@@ -1311,14 +1375,6 @@
         "person"
       ],
       "content": "#person \n\nhttps://andre-ye.org/"
-    },
-    {
-      "id": "Wargames & TTX",
-      "title": "Wargames & TTX",
-      "tags": [
-        "topic"
-      ],
-      "content": "#topic"
     },
     {
       "id": "Inyoung Cheong",
@@ -1551,6 +1607,14 @@
         "person"
       ],
       "content": "#person"
+    },
+    {
+      "id": "Voting",
+      "title": "Voting",
+      "tags": [
+        "topic"
+      ],
+      "content": "#topic"
     },
     {
       "id": "Bernhard Schölkopf",
@@ -2129,6 +2193,14 @@
       "content": "#person \n\nhttps://andrewkonya.com/"
     },
     {
+      "id": "AI Epistemics",
+      "title": "AI Epistemics",
+      "tags": [
+        "topic"
+      ],
+      "content": "#topic"
+    },
+    {
       "id": "IQT Labs",
       "title": "IQT Labs",
       "tags": [
@@ -2673,6 +2745,14 @@
       "content": "#person"
     },
     {
+      "id": "Wargames & Scenario Planning",
+      "title": "Wargames & Scenario Planning",
+      "tags": [
+        "topic"
+      ],
+      "content": "#topic"
+    },
+    {
       "id": "Common Ground",
       "title": "Common Ground",
       "tags": [
@@ -2719,6 +2799,14 @@
         "project"
       ],
       "content": "#project \n\nhttps://arxiv.org/pdf/2501.14625\n\nAI system that help people communicate their preferences more efficiently in complex auctions by using natural language instead of technical queries. The system uses LLM-powered \"proxies\" that learn what people want through conversational interactions and can infer preferences for items not explicitly discussed."
+    },
+    {
+      "id": "Policy",
+      "title": "Policy",
+      "tags": [
+        "topic"
+      ],
+      "content": "#topic"
     },
     {
       "id": "LLM-Powered Preference Elicitation in Combinatorial Assignment",
@@ -2865,12 +2953,28 @@
       "content": "#person"
     },
     {
+      "id": "Scaling Deliberation",
+      "title": "Scaling Deliberation",
+      "tags": [
+        "topic"
+      ],
+      "content": "#topic"
+    },
+    {
       "id": "Nandika Donthi",
       "title": "Nandika Donthi",
       "tags": [
         "person"
       ],
       "content": "#person"
+    },
+    {
+      "id": "Live Voice Interface",
+      "title": "Live Voice Interface",
+      "tags": [
+        "topic"
+      ],
+      "content": "#topic"
     },
     {
       "id": "Jay Baxter",
@@ -3955,6 +4059,30 @@
       "target": "AI & Democracy Foundation"
     },
     {
+      "source": "Value Elicitation",
+      "target": "Accelerated Preference Elicitation with LLM-Based Proxies"
+    },
+    {
+      "source": "Value Elicitation",
+      "target": "LLM-Powered Preference Elicitation in Combinatorial Assignment"
+    },
+    {
+      "source": "Value Elicitation",
+      "target": "Democratic Fine-Tuning"
+    },
+    {
+      "source": "Value Elicitation",
+      "target": "What are human values,and how do we align AI to them?"
+    },
+    {
+      "source": "Value Elicitation",
+      "target": "Israel-Palestine Collective Dialogues"
+    },
+    {
+      "source": "Value Elicitation",
+      "target": "Opportunities and Risks of LLMs for Scalable Deliberation with Polis"
+    },
+    {
       "source": "Foresight AI",
       "target": "AI Forecasting Benchmark"
     },
@@ -4017,6 +4145,34 @@
     {
       "source": "AI Enhanced Reasoning - Augmenting Human Critical Thinking With AI Systems",
       "target": "Valdemar Danry"
+    },
+    {
+      "source": "Online Epistemics",
+      "target": "Lucid Lens"
+    },
+    {
+      "source": "Online Epistemics",
+      "target": "Supernotes"
+    },
+    {
+      "source": "Online Epistemics",
+      "target": "Bridging Bot"
+    },
+    {
+      "source": "Online Epistemics",
+      "target": "$SL Muses"
+    },
+    {
+      "source": "Online Epistemics",
+      "target": "Artifact"
+    },
+    {
+      "source": "Online Epistemics",
+      "target": "Deceptive Explanations by Large Language Models Lead People to Change their Beliefs About Misinformation More Often than Honest Explanations"
+    },
+    {
+      "source": "Online Epistemics",
+      "target": "Making Artificial Intelligence Work for Investigative Journalism"
     },
     {
       "source": "Modelling Political Coalition Negotiations Using LLM-based Agents",
@@ -4151,6 +4307,42 @@
       "target": "Amy Zhang"
     },
     {
+      "source": "Mediation & Negotiation",
+      "target": "LLMediator"
+    },
+    {
+      "source": "Mediation & Negotiation",
+      "target": "Bot Mediation"
+    },
+    {
+      "source": "Mediation & Negotiation",
+      "target": "ACE - A LLM-based Negotiation Coaching System"
+    },
+    {
+      "source": "Mediation & Negotiation",
+      "target": "Multi-Agent Consensus Seeking via Large Language Models"
+    },
+    {
+      "source": "Mediation & Negotiation",
+      "target": "Modelling Political Coalition Negotiations Using LLM-based Agents"
+    },
+    {
+      "source": "Mediation & Negotiation",
+      "target": "Double Crux Bot"
+    },
+    {
+      "source": "Applied Rationality",
+      "target": "Linters for Thought"
+    },
+    {
+      "source": "Applied Rationality",
+      "target": "AI Enhanced Reasoning - Augmenting Human Critical Thinking With AI Systems"
+    },
+    {
+      "source": "Applied Rationality",
+      "target": "Enhancing AI-Assisted Group Decision Making through LLM-Powered Devil’s Advocate"
+    },
+    {
       "source": "Future Search",
       "target": "AI Forecasting Benchmark"
     },
@@ -4255,8 +4447,28 @@
       "target": "The Computational Democracy Project"
     },
     {
+      "source": "Information Market Mechanisms",
+      "target": "Language models can reduce asymmetry in information markets"
+    },
+    {
+      "source": "Information Market Mechanisms",
+      "target": "Tell Me Why - Incentivizing Explanations"
+    },
+    {
       "source": "Philipp Schoenegger",
       "target": "Metaculus"
+    },
+    {
+      "source": "Linting Adjacent",
+      "target": "Linters for Thought"
+    },
+    {
+      "source": "Linting Adjacent",
+      "target": "Pantheon"
+    },
+    {
+      "source": "Linting Adjacent",
+      "target": "Roast My Post"
     },
     {
       "source": "Nuño Sempere",
@@ -4297,6 +4509,22 @@
     {
       "source": "Ian Beacock",
       "target": "Google Jigsaw"
+    },
+    {
+      "source": "Strategic Epistemic Defense",
+      "target": "How Malicious AI Swarms Can Threaten Democracy"
+    },
+    {
+      "source": "Strategic Epistemic Defense",
+      "target": "Let’s use AI to harden human defenses against AI manipulation"
+    },
+    {
+      "source": "Interface Design",
+      "target": "Why Chatbots Are Not the Future"
+    },
+    {
+      "source": "Interface Design",
+      "target": "Amplifying transformative potential while designing augmented deliberative systems"
     },
     {
       "source": "Factored Cognition Primer",
@@ -4413,26 +4641,6 @@
     {
       "source": "What are human values,and how do we align AI to them?",
       "target": "Joe Edelman"
-    },
-    {
-      "source": "Wargames & TTX",
-      "target": "Wargames for Peace"
-    },
-    {
-      "source": "Wargames & TTX",
-      "target": "Human vs. Machine -  Behavioral Differences between Expert Humans and Language Models in Wargame Simulations"
-    },
-    {
-      "source": "Wargames & TTX",
-      "target": "Snow Globe"
-    },
-    {
-      "source": "Wargames & TTX",
-      "target": "Escalation Risks from Language Models in Military and Diplomatic Decision-Making"
-    },
-    {
-      "source": "Wargames & TTX",
-      "target": "Grim"
     },
     {
       "source": "Escalation Risks from Language Models in Military and Diplomatic Decision-Making",
@@ -4629,6 +4837,14 @@
     {
       "source": "Jack Wildman",
       "target": "Future Search"
+    },
+    {
+      "source": "Voting",
+      "target": "Generative Social Choice"
+    },
+    {
+      "source": "Voting",
+      "target": "Generative AI Voting - Fair Collective Choice is Resilient to LLM Biases and Inconsistencies"
     },
     {
       "source": "Debate Maps",
@@ -4995,6 +5211,10 @@
       "target": "AI & Democracy Foundation"
     },
     {
+      "source": "AI Epistemics",
+      "target": "Truthful AI"
+    },
+    {
       "source": "Joe Edelman",
       "target": "Meaning Alignment Institute"
     },
@@ -5263,6 +5483,30 @@
       "target": "Jack Wildman"
     },
     {
+      "source": "Wargames & Scenario Planning",
+      "target": "Wargames for Peace"
+    },
+    {
+      "source": "Wargames & Scenario Planning",
+      "target": "Human vs. Machine -  Behavioral Differences between Expert Humans and Language Models in Wargame Simulations"
+    },
+    {
+      "source": "Wargames & Scenario Planning",
+      "target": "Snow Globe"
+    },
+    {
+      "source": "Wargames & Scenario Planning",
+      "target": "Escalation Risks from Language Models in Military and Diplomatic Decision-Making"
+    },
+    {
+      "source": "Wargames & Scenario Planning",
+      "target": "Grim"
+    },
+    {
+      "source": "Wargames & Scenario Planning",
+      "target": "AI‐assisted scenario generation for strategic planning"
+    },
+    {
       "source": "Common Ground",
       "target": "Jorim Theuns"
     },
@@ -5347,6 +5591,18 @@
       "target": "David Parkes"
     },
     {
+      "source": "Policy",
+      "target": "Democratic Policy Development using Collective Dialogues and AI"
+    },
+    {
+      "source": "Policy",
+      "target": "AI4Democracy - How AI Can Be Used to Inform Policymaking?"
+    },
+    {
+      "source": "Policy",
+      "target": "The AI Adoption Gap - Preparing the US Government for Advanced AI"
+    },
+    {
       "source": "LLM-Powered Preference Elicitation in Combinatorial Assignment",
       "target": "Ermis Soumalias"
     },
@@ -5411,8 +5667,68 @@
       "target": "AI Objectives Institute"
     },
     {
+      "source": "Scaling Deliberation",
+      "target": "Habermas Machine"
+    },
+    {
+      "source": "Scaling Deliberation",
+      "target": "Nexus"
+    },
+    {
+      "source": "Scaling Deliberation",
+      "target": "Common Ground"
+    },
+    {
+      "source": "Scaling Deliberation",
+      "target": "Opportunities and Risks of LLMs for Scalable Deliberation with Polis"
+    },
+    {
+      "source": "Scaling Deliberation",
+      "target": "Talk to the City"
+    },
+    {
+      "source": "Scaling Deliberation",
+      "target": "Israel-Palestine Collective Dialogues"
+    },
+    {
+      "source": "Scaling Deliberation",
+      "target": "Amplifying transformative potential while designing augmented deliberative systems"
+    },
+    {
+      "source": "Scaling Deliberation",
+      "target": "Democratic Policy Development using Collective Dialogues and AI"
+    },
+    {
+      "source": "Scaling Deliberation",
+      "target": "Sensemaker"
+    },
+    {
+      "source": "Scaling Deliberation",
+      "target": "Can AI bring deliberative democracy to the masses?"
+    },
+    {
+      "source": "Scaling Deliberation",
+      "target": "Reimagining Democracy for AI"
+    },
+    {
       "source": "Nandika Donthi",
       "target": "Reddit"
+    },
+    {
+      "source": "Live Voice Interface",
+      "target": "Online Deliberation Platform"
+    },
+    {
+      "source": "Live Voice Interface",
+      "target": "Echo"
+    },
+    {
+      "source": "Live Voice Interface",
+      "target": "Common Ground"
+    },
+    {
+      "source": "Live Voice Interface",
+      "target": "Wearable Reasoner"
     },
     {
       "source": "Jay Baxter",
