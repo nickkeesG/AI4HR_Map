@@ -10,7 +10,7 @@ import * as d3 from 'd3-force';
 // Configuration
 const INPUT_FILE = 'vault_data.json';
 const OUTPUT_FILE = 'web/vault_data_with_positions.json';
-const SIMULATION_TICKS = 2000;
+const SIMULATION_TICKS = 5000;
 
 console.log('Loading graph data...');
 

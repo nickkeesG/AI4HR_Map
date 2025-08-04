@@ -54,7 +54,7 @@
       "tags": [
         "organization"
       ],
-      "content": ""
+      "content": "#organization \n\nhttps://www.remesh.ai"
     },
     {
       "id": "Amelia Glaese",
@@ -190,7 +190,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://aviv.me/Reimagining-Democracy-for-AI-Journal-of-Democracy.pdf\n\nPaper proposes reinventing \"democratic infrastructure\" through four key innovations: \n1. representative deliberations (citizen assemblies selected by lottery), \n2. AI-augmentation of democratic processes, \n3. democracy-as-a-service organizations, and \n4. platform democracy for governing tech companies."
     },
     {
       "id": "Tom Davidson",
@@ -223,6 +223,14 @@
         "person"
       ],
       "content": "#person \n"
+    },
+    {
+      "id": "Truthful AI",
+      "title": "Truthful AI",
+      "tags": [
+        "project"
+      ],
+      "content": "#project \n\nhttps://arxiv.org/pdf/2110.06674\n\nPaper proposes developing AI systems that avoid stating falsehoods, particularly \"negligent falsehoods\" - statements that AI systems should have been able to recognize as likely false given available information. The authors argue for establishing societal standards and institutions to evaluate and certify AI truthfulness, moving beyond current approaches that rely on human-like accountability mechanisms which don't translate well to AI systems. They outline technical approaches for building more truthful AI systems and explore the governance frameworks needed to implement truthfulness standards at scale, including certification bodies and adjudication processes for evaluating AI statements."
     },
     {
       "id": "Alek Chakroff",
@@ -286,7 +294,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://vtaiwan-openai-2023.vercel.app/Report_%20Recursive%20Public.pdf\n\nPilot democratic deliberation system designed to gather public input on AI governance decisions through cascading online discussions and AI-powered analysis. The project used platforms like [Polis](https://pol.is) and [Talk to the City](https://ai.objectives.institute/talk-to-the-city) to engage over 1,000 participants across different communities in identifying AI governance priorities, then employed LLMs to analyze consensus and disagreement patterns in the discussions.\n\nFunded by [OpenAI Democratic Inputs to AI](https://github.com/openai/democratic-inputs)."
     },
     {
       "id": "Rowan Wilkinson",
@@ -310,7 +318,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://owainevans.github.io/"
     },
     {
       "id": "Martin Weiss",
@@ -342,7 +350,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://www.klingefjord.com/"
     },
     {
       "id": "Nicholas Rowland",
@@ -478,7 +486,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://ai.objectives.institute/talk-to-the-city"
     },
     {
       "id": "Arvind Narayanan",
@@ -494,7 +502,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://forum.effectivealtruism.org/posts/EykCuXDCFAT5oGyux/my-current-claims-and-cruxes-on-llm-forecasting-and\n\nPost outlines a vision for LLM-based Epistemic Processes (LEPs) that could automate virtually all aspects of knowledge work, from gathering and synthesizing information to generating forecasts and presenting results to users. The author breaks down LEPs into 13 distinct components including data collection, world modeling, human elicitation, numeric modeling, decomposition/amplification techniques, and various forms of automated decision support. A central argument is that these systems will require substantial \"scaffolding\" (supporting software infrastructure) and will likely be dominated by centralized platforms rather than distributed individual forecasters, potentially replacing human participation in prediction markets like Manifold and Metaculus. The post also addresses potential risks including AI acceleration, misuse by malicious actors, and the challenge that these powerful epistemic tools might increase world complexity faster than they improve our ability to navigate it."
     },
     {
       "id": "Ezequiel Lopez-Lopez",
@@ -527,14 +535,6 @@
         "project"
       ],
       "content": "#project \n\nhttps://www.proquest.com/openview/3393dad9ea55a5d47f1a0b19e607f964/1.pdf\n\nMasters thesis, uses AI to help humans reason better through 3 experiments:\n- AI logic-checkers that spot argument flaws in real-time\n- Studies on how deceptive AI explanations mess with human thinking\n- AI that improves reasoning by asking smart questions"
-    },
-    {
-      "id": "Anthropic",
-      "title": "Anthropic",
-      "tags": [
-        "organization"
-      ],
-      "content": "#organization"
     },
     {
       "id": "Manifold Markets",
@@ -574,7 +574,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/pdf/2402.11712\n\nThis research paper introduces a system for modeling political coalition negotiations using LLM-based agents. The authors create AI agents that represent different political parties and simulate the complex negotiation process to predict which policy statements from party manifestos will be included in final coalition agreements."
     },
     {
       "id": "Darren Fancher",
@@ -611,6 +611,14 @@
     {
       "id": "Kris Skotheim",
       "title": "Kris Skotheim",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Ziv Epstein",
+      "title": "Ziv Epstein",
       "tags": [
         "person"
       ],
@@ -742,7 +750,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person \n"
+      "content": "#person \n\nhttps://nickbostrom.com/\n"
     },
     {
       "id": "Sven Seuken",
@@ -846,7 +854,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://strangecities.substack.com/"
     },
     {
       "id": "Jared Moore",
@@ -934,6 +942,14 @@
       "tags": [
         "person"
       ],
+      "content": "#person \n\nhttps://philipp-schoenegger.weebly.com/"
+    },
+    {
+      "id": "William Saunders",
+      "title": "William Saunders",
+      "tags": [
+        "person"
+      ],
       "content": "#person"
     },
     {
@@ -982,7 +998,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://nunosempere.com/"
     },
     {
       "id": "Sparse Autoencoders for Hypothesis Generation",
@@ -1134,7 +1150,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://quantifieduncertainty.org/"
     },
     {
       "id": "Creating a large language model of a philosopher",
@@ -1201,6 +1217,14 @@
       "content": "#person \n"
     },
     {
+      "id": "Adam Bales",
+      "title": "Adam Bales",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
       "id": "Daniel Kokotajlo",
       "title": "Daniel Kokotajlo",
       "tags": [
@@ -1255,14 +1279,6 @@
         "project"
       ],
       "content": "#project"
-    },
-    {
-      "id": "UK Policy Lab",
-      "title": "UK Policy Lab",
-      "tags": [
-        "organization"
-      ],
-      "content": "#organization"
     },
     {
       "id": "Andre Ye",
@@ -1390,7 +1406,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://mosaic-labs.org/"
     },
     {
       "id": "Rose Novick",
@@ -1415,6 +1431,14 @@
         "person"
       ],
       "content": "#person"
+    },
+    {
+      "id": "Why Chatbots Are Not the Future",
+      "title": "Why Chatbots Are Not the Future",
+      "tags": [
+        "project"
+      ],
+      "content": "#project \n\nhttps://wattenberger.com/thoughts/boo-chatbots\n\nArticle that argues chatbots are poor interfaces for AI systems because they lack clear affordances, force users to learn complex prompting, and isolate responses without allowing iterative refinement. The author advocates for AI tools with better user interfaces that provide contextual controls, visual feedback, and support human agency rather than replacing human decision-making."
     },
     {
       "id": "Andrea Brennen",
@@ -1542,7 +1566,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.lightningrod.ai/outcome-based-reinforcement-learning-to-predict-the-future\n\nPaper presents a method for training AI models to make better probabilistic forecasts about future events using reinforcement learning with outcome-based rewards. The researchers adapted existing reinforcement learning algorithms (like GRPO and ReMax) to work with the messy, delayed feedback that comes from real-world prediction tasks, using a dataset of over 100,000 forecasting questions from sources like Polymarket. Their approach produces a 14B parameter model that matches the accuracy of frontier models like OpenAI's o1 while achieving better calibration, ultimately translating this into higher hypothetical trading profits when betting against prediction markets."
     },
     {
       "id": "Molly Hickman",
@@ -1550,7 +1574,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://hickman-santini.github.io/"
     },
     {
       "id": "Kevin McKee",
@@ -1591,6 +1615,14 @@
         "project"
       ],
       "content": "#project \n\nhttps://www.americanbar.org/groups/law_practice/resources/law-technology-today/2025/ai-powered-mediation-for-efficient-legal-dispute-resolution/\n\nAI system designed to mediate disputes between parties without human mediators. The platform claims to reduce mediation timeframes from months to days (without having to pay for professional mediation). The company was selected as a [finalist](https://www.techshow.com/2025/02/voting-is-closed-results-are-in-here-are-the-15-legal-tech-startups-selected-for-the-2025-startup-alley-at-aba-techshow/) in the American Bar Association's [TECHSHOW](https://www.techshow.com/) 2025 Startup Alley competition."
+    },
+    {
+      "id": "Linters for Thought",
+      "title": "Linters for Thought",
+      "tags": [
+        "project"
+      ],
+      "content": "#project \n\nhttps://textpress.md/jlevy/d/lft.html\n\nEssay about using AI and software engineering principles to augment human intelligence and improve collective problem-solving. The essay proposes developing \"linters\" for human reasoning - automated tools that catch errors in logic, fact-checking, and consistency in writing and decision-making, similar to how code linters catch programming errors."
     },
     {
       "id": "Lizka Vaintrob",
@@ -1635,6 +1667,14 @@
     {
       "id": "Shiyu Zhao",
       "title": "Shiyu Zhao",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Matthew Groh",
+      "title": "Matthew Groh",
       "tags": [
         "person"
       ],
@@ -1753,6 +1793,14 @@
       "content": "#project"
     },
     {
+      "id": "Joshua Levy",
+      "title": "Joshua Levy",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n\nhttps://github.com/jlevy"
+    },
+    {
       "id": "Goodheart Labs",
       "title": "Goodheart Labs",
       "tags": [
@@ -1817,12 +1865,20 @@
       "content": "#project \n\nhttps://arxiv.org/pdf/2301.01751\nhttps://github.com/oughtinc/ice\n\nA human-in-the-loop workflow for breaking down complex question-answering tasks into smaller, interpretable steps for language models. The approach involves systematically decomposing complex tasks, evaluating intermediate results, diagnosing failures, and refining the decomposition through multiple iterations, supported by a visualization tool called ICE."
     },
     {
+      "id": "Deceptive Explanations by Large Language Models Lead People to Change their Beliefs About Misinformation More Often than Honest Explanations",
+      "title": "Deceptive Explanations by Large Language Models Lead People to Change their Beliefs About Misinformation More Often than Honest Explanations",
+      "tags": [
+        "project"
+      ],
+      "content": "#project \n\nhttps://dl.acm.org/doi/pdf/10.1145/3706598.3713408\n\nResearch study examines how AI-generated explanations can be used to combat misinformation more effectively than simple false classifications alone. The researchers conducted an experiment with 589 participants who rated the truthfulness of news headlines before and after receiving AI feedback, finding that deceptive explanations were significantly more persuasive than both honest explanations and deceptive classifications without explanations."
+    },
+    {
       "id": "Peter Mühlbacher",
       "title": "Peter Mühlbacher",
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttp://peter.muehlbacher.me/"
     },
     {
       "id": "Lawrence Phillips",
@@ -1862,7 +1918,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://followtheargument.org/"
     },
     {
       "id": "Aleks Berditchevskaia",
@@ -2017,16 +2073,16 @@
       "content": "#project"
     },
     {
-      "id": "Anka Reuel",
-      "title": "Anka Reuel",
+      "id": "Luca Righetti",
+      "title": "Luca Righetti",
       "tags": [
         "person"
       ],
       "content": "#person"
     },
     {
-      "id": "Joshua A. Becker",
-      "title": "Joshua A. Becker",
+      "id": "Anka Reuel",
+      "title": "Anka Reuel",
       "tags": [
         "person"
       ],
@@ -2070,7 +2126,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://www.media.mit.edu/"
     },
     {
       "id": "Evangelos Pournaras",
@@ -2129,12 +2185,12 @@
       "content": "#person"
     },
     {
-      "id": "OpenAI",
-      "title": "OpenAI",
+      "id": "Peter Wills",
+      "title": "Peter Wills",
       "tags": [
-        "organization"
+        "person"
       ],
-      "content": "#organization"
+      "content": "#person"
     },
     {
       "id": "Flynn Devine",
@@ -2265,6 +2321,14 @@
       "content": "#project"
     },
     {
+      "id": "Joshua Becker",
+      "title": "Joshua Becker",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
       "id": "Frank Schweitzer",
       "title": "Frank Schweitzer",
       "tags": [
@@ -2294,7 +2358,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://patpat.world/"
     },
     {
       "id": "LLMs Can Teach Themselves to Better Predict the Future",
@@ -2334,7 +2398,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://nexus-tool.com/\n\nNexus is a discussion platform that organizes user statements and reactions into a visual graph, where semantically similar statements are connected and colored based on consensus, divergence, and quality scores. The tool specifically counteracts factionalism and amplifying unique perspectives by weighting minority voices more heavily, highlighting surprising agreement between usual opponents (consensus), and promoting dissenting views within like-minded groups (divergence)."
     },
     {
       "id": "AI Objectives Institute",
@@ -2398,7 +2462,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.metaculus.com/notebooks/38673/q1-ai-benchmarking-results/\n\nReport on Metaculus's quarterly tournament that compared AI forecasting bots against professional human forecasters on real-world prediction questions, with the key finding that professional forecasters significantly outperformed the best AI systems."
     },
     {
       "id": "Lucie Flek",
@@ -2543,6 +2607,14 @@
         "person"
       ],
       "content": "#person"
+    },
+    {
+      "id": "Plurality Mapping Project",
+      "title": "Plurality Mapping Project",
+      "tags": [
+        "project"
+      ],
+      "content": "#project \n\nhttps://publish.obsidian.md/plurality-map"
     },
     {
       "id": "Juan-Pablo Rivera",
@@ -2694,7 +2766,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/pdf/2506.01578\n\nPaper presents a systematic study of prompt engineering techniques for improving large language models' forecasting capabilities. The researchers tested 38 different prompts across four major LLMs using 100 forecasting questions, followed by a second study with compound and professionally-designed prompts. Surprisingly, they found that most prompt modifications had negligible or even negative effects on forecasting accuracy, with some techniques like explicit Bayesian reasoning actually making predictions worse."
     },
     {
       "id": "Midjourney",
@@ -2702,7 +2774,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://www.midjourney.com\n\nThe Collective Intelligence team at Midjourney (currently stealth)."
     },
     {
       "id": "Luke Hewitt",
@@ -2715,6 +2787,14 @@
     {
       "id": "Ted Suzman",
       "title": "Ted Suzman",
+      "tags": [
+        "person"
+      ],
+      "content": "#person"
+    },
+    {
+      "id": "Avital Balwit",
+      "title": "Avital Balwit",
       "tags": [
         "person"
       ],
@@ -2750,15 +2830,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
-    },
-    {
-      "id": "Raphael Koster",
-      "title": "Raphael Koster",
-      "tags": [
-        "person"
-      ],
-      "content": "#person"
+      "content": "#person\n\nhttps://ncase.me/"
     },
     {
       "id": "Justin Stimatze",
@@ -2767,14 +2839,6 @@
         "person"
       ],
       "content": "#person"
-    },
-    {
-      "id": "CHAI",
-      "title": "CHAI",
-      "tags": [
-        "organization"
-      ],
-      "content": "#organization \n\nhttps://humancompatible.ai/"
     },
     {
       "id": "Brett Hennig",
@@ -2807,6 +2871,14 @@
         "person"
       ],
       "content": "#person \n\nhttps://jaybaxter.net/"
+    },
+    {
+      "id": "GitHub Next",
+      "title": "GitHub Next",
+      "tags": [
+        "organization"
+      ],
+      "content": "#organization \n\nhttps://githubnext.com"
     },
     {
       "id": "Elicit Tool",
@@ -2958,7 +3030,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://rai.dev"
     },
     {
       "id": "Naomi Esther",
@@ -2990,7 +3062,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/abs/2310.20151\n\nPaper studies how multiple AI agents powered by large language models can reach consensus through negotiation, where each agent starts with a numerical value and must collectively agree on a final shared value. The research reveals that LLM agents naturally tend to use averaging strategies for consensus-seeking and that factors like agent personality (stubborn vs. suggestible), network topology, and group size significantly influence both the speed and outcome of negotiations."
     },
     {
       "id": "Online Deliberation Platform",
@@ -2998,7 +3070,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project\n\nhttps://stanforddeliberate.org/\n\nStanford Deliberate is an AI-assisted online video platform designed to facilitate structured small group discussions using deliberative polling methodology, with an automated moderator that manages speaking queues, timed agendas, and ensures equitable participation among participants. The platform has been used for large-scale national deliberative polling events across multiple countries and languages, allowing unlimited participants to deliberate simultaneously in small groups on policy issues."
     },
     {
       "id": "How AI Agents Will Improve the Consultation Process",
@@ -3366,7 +3438,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://pantheon.chat/\n\nExperimental AI tool that reverses the typical human-AI interaction pattern by having LLM-powered \"daemons\" proactively respond to and comment on a user's stream of consciousness writing, rather than waiting for human prompts. The system allows users to write their thoughts in a diary-like format while customizable AI advisors offer questions, insights, and challenges designed to stimulate deeper thinking and explore new directions."
     },
     {
       "id": "Ran Haase",
@@ -3475,10 +3547,6 @@
       "target": "Zhou Yu"
     },
     {
-      "source": "Jonathan Stray",
-      "target": "CHAI"
-    },
-    {
       "source": "Amelia Glaese",
       "target": "Google DeepMind"
     },
@@ -3555,12 +3623,40 @@
       "target": "Nicholas Rowland"
     },
     {
-      "source": "Hannah Sheahan",
-      "target": "Google DeepMind"
+      "source": "Truthful AI",
+      "target": "Owain Evans"
+    },
+    {
+      "source": "Truthful AI",
+      "target": "Owen Cotton-Barratt"
+    },
+    {
+      "source": "Truthful AI",
+      "target": "Lukas Finnveden"
+    },
+    {
+      "source": "Truthful AI",
+      "target": "Adam Bales"
+    },
+    {
+      "source": "Truthful AI",
+      "target": "Avital Balwit"
+    },
+    {
+      "source": "Truthful AI",
+      "target": "Peter Wills"
+    },
+    {
+      "source": "Truthful AI",
+      "target": "Luca Righetti"
+    },
+    {
+      "source": "Truthful AI",
+      "target": "William Saunders"
     },
     {
       "source": "Hannah Sheahan",
-      "target": "OpenAI"
+      "target": "Google DeepMind"
     },
     {
       "source": "AI and the Future of Digital Public Squares",
@@ -3717,6 +3813,10 @@
     {
       "source": "Snow Globe",
       "target": "Andrea Brennen"
+    },
+    {
+      "source": "Owain Evans",
+      "target": "Ought"
     },
     {
       "source": "Oliver Klingefjord",
@@ -4219,6 +4319,10 @@
       "target": "Yiling Chen"
     },
     {
+      "source": "Amelia Wattenberger",
+      "target": "GitHub Next"
+    },
+    {
       "source": "Metaforecast",
       "target": "Nuño Sempere"
     },
@@ -4261,10 +4365,6 @@
     {
       "source": "Escalation Risks from Language Models in Military and Diplomatic Decision-Making",
       "target": "Jacquelyn Schneider"
-    },
-    {
-      "source": "Esin Durmus",
-      "target": "Anthropic"
     },
     {
       "source": "Robert Gambee",
@@ -4371,6 +4471,10 @@
       "target": "Wei Dai"
     },
     {
+      "source": "Why Chatbots Are Not the Future",
+      "target": "Amelia Wattenberger"
+    },
+    {
       "source": "Andrea Brennen",
       "target": "IQT Labs"
     },
@@ -4396,7 +4500,7 @@
     },
     {
       "source": "Habermas Machine",
-      "target": "Raphael Koster"
+      "target": "Raphael Köster"
     },
     {
       "source": "Habermas Machine",
@@ -4483,6 +4587,10 @@
       "target": "Nick Hikita"
     },
     {
+      "source": "Linters for Thought",
+      "target": "Joshua Levy"
+    },
+    {
       "source": "Lizka Vaintrob",
       "target": "Forethought"
     },
@@ -4537,10 +4645,6 @@
     {
       "source": "Ivan Vendrov",
       "target": "Midjourney"
-    },
-    {
-      "source": "Ivan Vendrov",
-      "target": "Anthropic"
     },
     {
       "source": "Nat McAleese",
@@ -4671,6 +4775,22 @@
       "target": "Andreas Stuhlmüller"
     },
     {
+      "source": "Deceptive Explanations by Large Language Models Lead People to Change their Beliefs About Misinformation More Often than Honest Explanations",
+      "target": "Valdemar Danry"
+    },
+    {
+      "source": "Deceptive Explanations by Large Language Models Lead People to Change their Beliefs About Misinformation More Often than Honest Explanations",
+      "target": "Pat Pataranutaporn"
+    },
+    {
+      "source": "Deceptive Explanations by Large Language Models Lead People to Change their Beliefs About Misinformation More Often than Honest Explanations",
+      "target": "Matthew Groh"
+    },
+    {
+      "source": "Deceptive Explanations by Large Language Models Lead People to Change their Beliefs About Misinformation More Often than Honest Explanations",
+      "target": "Ziv Epstein"
+    },
+    {
       "source": "Peter Mühlbacher",
       "target": "Future Search"
     },
@@ -4709,10 +4829,6 @@
     {
       "source": "Jamie Joyce",
       "target": "The Society Library"
-    },
-    {
-      "source": "Deep Ganguli",
-      "target": "Anthropic"
     },
     {
       "source": "$SL Muses",
@@ -4915,10 +5031,6 @@
       "target": "Niki Dupuis"
     },
     {
-      "source": "Prateek Buch",
-      "target": "UK Policy Lab"
-    },
-    {
       "source": "Q1 AI Benchmarking results",
       "target": "Ben Wilson"
     },
@@ -5045,6 +5157,10 @@
     {
       "source": "Philip Tetlock",
       "target": "Forecasting Research Institute"
+    },
+    {
+      "source": "Plurality Mapping Project",
+      "target": "Plurality Institute"
     },
     {
       "source": "AI4Democracy - How AI Can Be Used to Inform Policymaking?",
@@ -5243,14 +5359,6 @@
       "target": "Meaning Alignment Institute"
     },
     {
-      "source": "Ryan Lowe",
-      "target": "OpenAI"
-    },
-    {
-      "source": "Raphael Koster",
-      "target": "Google DeepMind"
-    },
-    {
       "source": "Justin Stimatze",
       "target": "AI Objectives Institute"
     },
@@ -5336,7 +5444,7 @@
     },
     {
       "source": "How large language models can reshape collective intelligence",
-      "target": "Joshua A. Becker"
+      "target": "Joshua Becker"
     },
     {
       "source": "How large language models can reshape collective intelligence",
