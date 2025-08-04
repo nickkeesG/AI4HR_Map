@@ -126,7 +126,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.youtube.com/watch?v=9_zSzjTWr8A\n\n[MATS](https://www.matsprogram.org/) project to simulate  a tabletop exercises with LLMs, allowing a human to play solo."
     },
     {
       "id": "Evelien Nieuwenburg",
@@ -158,7 +158,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project\n\nhttps://www.lesswrong.com/posts/7worWgggeHL3Eb7wq/introducing-squiggle-ai\n\nTool that automatically generates probabilistic cost-effectiveness models using the Squiggle programming language, allowing users to quickly create Fermi estimates and decision analyses without needing to learn programming. It combines large language models with specialized scaffolding to produce structured, adjustable models for questions like comparing charitable interventions or evaluating policy decisions."
     },
     {
       "id": "Kenny Peng",
@@ -174,7 +174,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://yoshuabengio.org"
     },
     {
       "id": "Colleen McKenzie",
@@ -198,7 +198,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://tomdavidson-ai.github.io/"
     },
     {
       "id": "Joseph Chee Chang",
@@ -310,7 +310,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://github.com/IQTLabs/snowglobe\nhttps://arxiv.org/pdf/2404.11446\n\nSystem that uses LLMs to automate qualitative wargames - open-ended strategic simulations where participants respond with natural language rather than choosing from predefined moves. The system can simulate crisis scenarios like AI incidents or geopolitical conflicts, allowing multiple AI agents to play different roles while a control agent moderates and adjudicates outcomes."
     },
     {
       "id": "Owain Evans",
@@ -366,7 +366,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.nature.com/articles/s41562-023-01686-7.pdf\n\nResearchers used deep reinforcement learning to train an AI \"social planner\" that makes recommendations about which connections to form or break in human social networks playing a cooperation game for real money. The AI learned a counterintuitive \"encouraging\" strategy: instead of isolating defectors from cooperators (the traditional approach), it placed defectors in small neighborhoods surrounded by cooperators, which led groups to achieve 77.7% cooperation rates compared to just 42.8% in static networks."
     },
     {
       "id": "Language Agents as Digital Representatives in Collective Decision-Making",
@@ -486,7 +486,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project \n\nhttps://ai.objectives.institute/talk-to-the-city"
+      "content": "#project \n\nhttps://ai.objectives.institute/talk-to-the-city\n\nOpen-source AI system that analyzes large-scale public input from surveys, interviews, and meetings using LLMs to identify themes and cluster opinions while maintaining the specificity of individual responses. The system processes both structured and unstructured data to generate interactive reports that allow decision-makers to explore opinion distributions at multiple scales, from broad thematic patterns down to individual participant perspectives"
     },
     {
       "id": "Arvind Narayanan",
@@ -550,7 +550,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://sentinel-team.org"
     },
     {
       "id": "Sarah Bluhm",
@@ -1086,7 +1086,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://compdemocracy.org/"
     },
     {
       "id": "Matthew Botvinick",
@@ -1166,7 +1166,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.forethought.org/research/whats-important-in-ai-for-epistemics\n\nAnalysis of priorities and strategies for developing \"AI for epistemics\": essentially AI tools that help humans and organizations make better, more informed decisions by improving how we discover, evaluate, and act on information. The paper argues that as AI becomes more powerful, it will dramatically reshape how society generates knowledge and makes decisions, creating both opportunities to enhance human reasoning and risks of manipulation or poor coordination."
     },
     {
       "id": "Making Artificial Intelligence Work for Investigative Journalism",
@@ -1246,7 +1246,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project \n\nhttps://arxiv.org/abs/2502.13410"
+      "content": "#project \n\nhttps://arxiv.org/abs/2502.13410\n\nPaper presents a \"deliberation mechanism\" that uses economic incentives to get experts to explain their reasoning, not just state their conclusions. The mechanism works through a three-party structure: experts submit both beliefs and explanations to a supervisor, who then reports aggregated beliefs to a principal, with all parties scored using proper scoring rules based on accuracy. The key insight is that a supervisor can credibly commit to ignoring any expert reports that lack explanations, which forces experts to provide rationales despite the extra effort required, because without explanations, experts receive zero reward."
     },
     {
       "id": "Amelia Wattenberger",
@@ -1278,7 +1278,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/pdf/2404.10636\n\nPaper introduces \"Moral Graph Elicitation\" (MGE), a method for systematically collecting and organizing human values to better align AI systems with what people actually care about. The researchers developed a process that uses AI-powered interviews to elicit specific \"values cards\" from people (detailed descriptions of what they pay attention to when making meaningful choices) then connects these values in a graph structure based on which values participants consider \"wiser\" than others."
     },
     {
       "id": "Andre Ye",
@@ -1350,7 +1350,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person\n\nhttps://valdemardanry.com/"
     },
     {
       "id": "Contra papers claiming superhuman AI forecasting",
@@ -1390,7 +1390,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://sofiavanhanen.fi/"
     },
     {
       "id": "AI Forecasting Benchmark",
@@ -1766,7 +1766,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.forethought.org/research/the-ai-adoption-gap\n\nResearch piece examining how the US federal government is falling behind the private sector in adopting AI technologies, creating risks for democratic institutions and national security. The research argues this gap could leave the government unable to effectively respond to AI-driven existential challenges or maintain oversight of rapidly advancing AI systems."
     },
     {
       "id": "Alex Krasodomski-Jones",
@@ -1790,7 +1790,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://arxiv.org/pdf/2308.15399\n\nPaper presents a framework for enabling LLMs to make moral judgments by grounding them in established moral theories rather than learning from crowdsourced data. The researchers develop prompting techniques that guide models like GPT-4 to reason through ethical scenarios using theories from normative ethics (Justice, Deontology, Utilitarianism) and moral psychology (Theory of Dyadic Morality), producing explainable moral reasoning and decisions."
     },
     {
       "id": "Joshua Levy",
@@ -1822,7 +1822,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://dl.acm.org/doi/pdf/10.1145/3384657.3384799\n\nProof-of-concept wearable device (smart glasses with audio feedback) that uses AI to analyze spoken arguments in real-time and tell users whether claims are supported by evidence or not. The system employs argumentation mining techniques to classify statements and provides either simple feedback (\"supported/unsupported\") or explainable feedback that describes what type of evidence was found."
     },
     {
       "id": "Yuan-Fang Li",
@@ -1902,7 +1902,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://www.shuyanglin.com/"
     },
     {
       "id": "Grim",
@@ -1998,7 +1998,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project \nhttps://www.sltoken.xyz/\n\nThe Society Library created AI agents called \"Muses\" that users can tag on social media platforms to perform reasoning tasks like fact-checking claims and researching topics. Their \"Muse of Truth\" provides substantive analysis of factual claims with evidence gaps and source references, while the \"Muse of Research\" pulls resources on requested topics.\n\nThe initiative was funded through a community-created meme token ($SL) that was anonymously gifted to the charity, with 50% of holdings donated to support their mission."
+      "content": "#project \nhttps://www.sltoken.xyz/\n\nAI agents called \"Muses\" that users can tag on social media platforms to perform reasoning tasks like fact-checking claims and researching topics. Their \"Muse of Truth\" provides substantive analysis of factual claims with evidence gaps and source references, while the \"Muse of Research\" pulls resources on requested topics.\n\nThe initiative was funded through a community-created meme token ($SL) that was anonymously gifted to the charity, with 50% of holdings donated to support their mission."
     },
     {
       "id": "Rajiv Movva",
@@ -2166,7 +2166,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://societylibrary.medium.com/\nhttps://www.societylibrary.org/"
     },
     {
       "id": "Mantic",
@@ -2222,7 +2222,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://www.science.org/doi/pdf/10.1126/sciadv.adp1528\n\nPaper demonstrates that an ensemble of 12 different large language models can achieve forecasting accuracy that rivals human crowd predictions in real-world forecasting tournaments. The study shows that while individual LLMs typically underperform human crowds, aggregating predictions from multiple LLMs creates a \"wisdom of the silicon crowd\" effect that matches human accuracy on 31 binary forecasting questions."
     },
     {
       "id": "Anthony Corso",
@@ -2270,7 +2270,7 @@
       "tags": [
         "person"
       ],
-      "content": "#person"
+      "content": "#person \n\nhttps://wdai.us/"
     },
     {
       "id": "Finn Hambly",
@@ -2318,7 +2318,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://github.com/Jigsaw-Code/sensemaking-tools/\nhttps://report.whatcouldbgbe.com/\n\nCollection of AI-powered systems designed to help analyze and understand large-scale online conversations by automatically identifying topics, categorizing statements, and summarizing areas of agreement and disagreement from thousands of public comments."
     },
     {
       "id": "Joshua Becker",
@@ -2473,14 +2473,6 @@
       "content": "#person"
     },
     {
-      "id": "Stanford Crowdsourced Democracy Team",
-      "title": "Stanford Crowdsourced Democracy Team",
-      "tags": [
-        "organization"
-      ],
-      "content": "#organization"
-    },
-    {
       "id": "Harold Trinkunas",
       "title": "Harold Trinkunas",
       "tags": [
@@ -2503,14 +2495,6 @@
         "person"
       ],
       "content": "#person"
-    },
-    {
-      "id": "The MultiView Simulation Machine",
-      "title": "The MultiView Simulation Machine",
-      "tags": [
-        "project"
-      ],
-      "content": "#project"
     },
     {
       "id": "Roast My Post",
@@ -2558,7 +2542,7 @@
       "tags": [
         "organization"
       ],
-      "content": ""
+      "content": "#organization \n\nhttps://communitynotes.x.com/guide/en/welcome"
     },
     {
       "id": "Hoover Wargaming and Crisis Simulation Initiative",
@@ -2694,7 +2678,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project"
+      "content": "#project \n\nhttps://dl.acm.org/doi/pdf/10.1145/3696410.3714934\n\nAI system that synthesizes multiple community-written fact-checking notes into single, more effective notes that build consensus among diverse users. The system uses an LLM to generate many candidate notes from existing human-written notes, then employs a machine learning model trained on millions of historical ratings to predict which candidates would be most helpful to users with different viewpoints."
     },
     {
       "id": "Accelerated Preference Elicitation with LLM-Based Proxies",
@@ -3102,7 +3086,7 @@
       "tags": [
         "organization"
       ],
-      "content": "#organization"
+      "content": "#organization \n\nhttps://info.vtaiwan.tw/\nhttps://g0v.tw/"
     },
     {
       "id": "Google Jigsaw",
@@ -3265,14 +3249,6 @@
       "content": "#person"
     },
     {
-      "id": "Tom Liptay",
-      "title": "Tom Liptay",
-      "tags": [
-        "person"
-      ],
-      "content": "#person"
-    },
-    {
       "id": "Lufeng Xu",
       "title": "Lufeng Xu",
       "tags": [
@@ -3359,14 +3335,6 @@
         "person"
       ],
       "content": "#person"
-    },
-    {
-      "id": "Stanford Center for AI Safety",
-      "title": "Stanford Center for AI Safety",
-      "tags": [
-        "organization"
-      ],
-      "content": "#organization"
     },
     {
       "id": "Rafael Valdece Sousa Bastos",
@@ -4219,10 +4187,6 @@
       "target": "Google Jigsaw"
     },
     {
-      "source": "Max Lamparth",
-      "target": "Stanford Center for AI Safety"
-    },
-    {
       "source": "Matthew Botvinick",
       "target": "Google DeepMind"
     },
@@ -4951,10 +4915,6 @@
       "target": "Philip Tetlock"
     },
     {
-      "source": "Anthony Corso",
-      "target": "Stanford Center for AI Safety"
-    },
-    {
       "source": "Aviv Ovadya",
       "target": "AI & Democracy Foundation"
     },
@@ -5041,10 +5001,6 @@
     {
       "source": "Q1 AI Benchmarking results",
       "target": "AI Forecasting Benchmark"
-    },
-    {
-      "source": "The MultiView Simulation Machine",
-      "target": "Jamie Joyce"
     },
     {
       "source": "Roast My Post",
@@ -5612,10 +5568,6 @@
     },
     {
       "source": "Online Deliberation Platform",
-      "target": "Stanford Crowdsourced Democracy Team"
-    },
-    {
-      "source": "Online Deliberation Platform",
       "target": "Deliberative Democracy Lab"
     },
     {
@@ -5681,14 +5633,6 @@
     {
       "source": "Lucy Campbell-Gillingham",
       "target": "Google DeepMind"
-    },
-    {
-      "source": "Tom Liptay",
-      "target": "Future Search"
-    },
-    {
-      "source": "Tom Liptay",
-      "target": "Metaculus"
     },
     {
       "source": "Houtan Bastani",
