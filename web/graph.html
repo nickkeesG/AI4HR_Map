@@ -481,20 +481,6 @@
                 link.target = data.nodes.find(node => node.id === link.target.id);
             });
             
-            // Create simulation with nodes and links, but don't start it yet
-            const simulation = d3.forceSimulation()
-                .nodes(data.nodes)
-                .force("link", d3.forceLink(data.links))
-                .stop(); // Stop immediately to prevent auto-start
-            
-            // Configure forces for pre-computed positions
-            simulation
-                .force("link").distance(50);
-            simulation
-                .force("charge", d3.forceManyBody().strength(-100))
-                .alpha(0.1)
-                .alphaDecay(0.05);
-            
             // Add event handlers to nodes
             node.on("mouseover", function(event, d) {
                     // Show tooltip
@@ -541,21 +527,16 @@
                     showModal(d.title, d.content);
                 });
             
-            // Update positions on each tick
-            simulation.on("tick", function() {
-                link
-                    .attr("x1", d => d.source.x)
-                    .attr("y1", d => d.source.y)
-                    .attr("x2", d => d.target.x)
-                    .attr("y2", d => d.target.y);
-                
-                node
-                    .attr("cx", d => d.x)
-                    .attr("cy", d => d.y);
-            });
+            // Set static positions directly from precomputed data
+            link
+                .attr("x1", d => d.source.x)
+                .attr("y1", d => d.source.y)
+                .attr("x2", d => d.target.x)
+                .attr("y2", d => d.target.y);
             
-            // Now restart the simulation after everything is configured
-            simulation.restart();
+            node
+                .attr("cx", d => d.x)
+                .attr("cy", d => d.y);
             
             // Set up search functionality
             setupSearch(node);
