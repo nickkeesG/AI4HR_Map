@@ -10,7 +10,7 @@ import * as d3 from 'd3-force';
 // Configuration
 const INPUT_FILE = 'vault_data.json';
 const OUTPUT_FILE = 'web/vault_data_with_positions.json';
-const SIMULATION_TICKS = 5000;
+const SIMULATION_TICKS = 10000;
 
 console.log('Loading graph data...');
 
@@ -67,15 +67,15 @@ const simulation = d3.forceSimulation(data.nodes)
     .force("link", d3.forceLink(data.links)
         .id(d => d.id)
         .distance(d => d.type === "topic_link" ? 120 : 50)  // Topic links much longer
-        .strength(d => d.type === "topic_link" ? 0.02 : 0.8)  // Make topic links extremely weak
+        .strength(d => d.type === "topic_link" ? 0.03 : 0.8)  // Make topic links very weak
     )
-    .force("charge", d3.forceManyBody().strength(-250))
+    .force("charge", d3.forceManyBody().strength(-275))
     .force("center", d3.forceCenter(width / 2, height / 2))
     .force("x", d3.forceX(width / 2).strength(0.02))
     .force("y", d3.forceY(height / 2).strength(0.02))
-    .force("collide", d3.forceCollide(d => d.size + 8)) // Prevent overlapping with 8px padding
-    .alpha(2.0)
-    .alphaDecay(0.0003);
+    .force("collide", d3.forceCollide(d => d.size + 12).strength(1.0)) // Stronger collision with more padding
+    .alpha(2.5)
+    .alphaDecay(0.0002);
 
 console.log(`Running simulation for ${SIMULATION_TICKS} ticks...`);
 
