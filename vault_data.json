@@ -321,6 +321,14 @@
       "content": "#person \n\nhttps://owainevans.github.io/"
     },
     {
+      "id": "Forecasting",
+      "title": "Forecasting",
+      "tags": [
+        "topic"
+      ],
+      "content": "#topic"
+    },
+    {
       "id": "Martin Weiss",
       "title": "Martin Weiss",
       "tags": [
@@ -647,6 +655,14 @@
         "project"
       ],
       "content": "#project \n\nhttps://www.youtube.com/watch?v=QgfXdJ-7pF4\n\nLLM-based bot that de-escalates arguments on Reddit. Funded by Google Jigsaw."
+    },
+    {
+      "id": "Philosophy & Morality",
+      "title": "Philosophy & Morality",
+      "tags": [
+        "topic"
+      ],
+      "content": "#topic"
     },
     {
       "id": "Wasim Almasri",
@@ -1289,6 +1305,14 @@
       "content": "#person \n\nhttps://andre-ye.org/"
     },
     {
+      "id": "Wargames & TTX",
+      "title": "Wargames & TTX",
+      "tags": [
+        "topic"
+      ],
+      "content": "#topic"
+    },
+    {
       "id": "Inyoung Cheong",
       "title": "Inyoung Cheong",
       "tags": [
@@ -1454,7 +1478,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project\n\nhttps://www.science.org/doi/10.1126/science.adq2852\n\nAI system developed by Google DeepMind that uses two fine-tuned language models to mediate group discussions and help people with differing opinions find common ground on contentious issues. The system takes individual written opinions from participants, generates candidate \"group statements\" that synthesize everyone's perspectives, and iteratively refines these statements based on participant feedback until the group converges on a shared position. Research showed that AI-mediated discussions were more effective than unmediated opinion exposure at causing people to change their minds and reach consensus, with the AI slightly outperforming untrained human mediators."
+      "content": "#project\n\nhttps://www.science.org/doi/10.1126/science.adq2852\n\nAI system that uses two fine-tuned language models to mediate group discussions and help people with differing opinions find common ground on contentious issues. The system takes individual written opinions from participants, generates candidate \"group statements\" that synthesize everyone's perspectives, and iteratively refines these statements based on participant feedback until the group converges on a shared position. Research showed that AI-mediated discussions were more effective than unmediated opinion exposure at causing people to change their minds and reach consensus, with the AI slightly outperforming untrained human mediators."
     },
     {
       "id": "Daniel Schroeder",
@@ -2289,14 +2313,6 @@
       "content": "#person \n\nhttp://metasoarous.com/"
     },
     {
-      "id": "FutureSearch Benchmarks",
-      "title": "FutureSearch Benchmarks",
-      "tags": [
-        "project"
-      ],
-      "content": "#project \n\nhttps://evals.futuresearch.ai/"
-    },
-    {
       "id": "Lisa Schirch",
       "title": "Lisa Schirch",
       "tags": [
@@ -2630,7 +2646,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project \n\nhttps://arxiv.org/abs/2506.06287\n\nBenchmark for evaluating AI agents on complex, multi-step web research tasks that mirror real-world analytical work, using a frozen web environment to ensure consistent and repeatable evaluations. The benchmark tests research capabilities including strategic planning, source credibility assessment, systematic information gathering, and synthesis across contradictory sources through eight different task categories."
+      "content": "#project \n\nhttps://arxiv.org/abs/2506.06287\nhttps://evals.futuresearch.ai/\n\nBenchmark for evaluating AI agents on complex, multi-step web research tasks that mirror real-world analytical work, using a frozen web environment to ensure consistent and repeatable evaluations. The benchmark tests research capabilities including strategic planning, source credibility assessment, systematic information gathering, and synthesis across contradictory sources through eight different task categories."
     },
     {
       "id": "Edith Elkind",
@@ -3025,6 +3041,14 @@
       "content": "#person"
     },
     {
+      "id": "Research",
+      "title": "Research",
+      "tags": [
+        "topic"
+      ],
+      "content": "#topic"
+    },
+    {
       "id": "Tantum Collins",
       "title": "Tantum Collins",
       "tags": [
@@ -3038,7 +3062,7 @@
       "tags": [
         "project"
       ],
-      "content": "#project \n\nhttps://arxiv.org/abs/2506.21558\n\nEstablishes a \"pastcasting\" benchmark that evaluates AI forecasting capabilities by having LLMs predict outcomes of events that have already happened, using carefully curated web snapshots from before those events occurred. The benchmark addresses a key challenge in forecasting research - the long wait times between making predictions and learning outcomes."
+      "content": "#project \n\nhttps://arxiv.org/abs/2506.21558\nhttps://evals.futuresearch.ai/\n\nEstablishes a \"pastcasting\" benchmark that evaluates AI forecasting capabilities by having LLMs predict outcomes of events that have already happened, using carefully curated web snapshots from before those events occurred. The benchmark addresses a key challenge in forecasting research - the long wait times between making predictions and learning outcomes."
     },
     {
       "id": "Multi-Agent Consensus Seeking via Large Language Models",
@@ -3787,6 +3811,78 @@
       "target": "Ought"
     },
     {
+      "source": "Forecasting",
+      "target": "Forecasting Future World Events with Neural Networks"
+    },
+    {
+      "source": "Forecasting",
+      "target": "Approaching Human-Level Forecasting with Language Models"
+    },
+    {
+      "source": "Forecasting",
+      "target": "ForecastBench - A Dynamic Benchmark of AI Forecasting Capabilities"
+    },
+    {
+      "source": "Forecasting",
+      "target": "AI-Augmented Predictions - LLM Assistants Improve Human Forecasting Accuracy"
+    },
+    {
+      "source": "Forecasting",
+      "target": "Wisdom of the silicon crowd - LLM ensemble prediction capabilities rival human crowd accuracy"
+    },
+    {
+      "source": "Forecasting",
+      "target": "Prompt Engineering Large Language Models’ Forecasting Capabilities"
+    },
+    {
+      "source": "Forecasting",
+      "target": "LLMs Can Teach Themselves to Better Predict the Future"
+    },
+    {
+      "source": "Forecasting",
+      "target": "Outcome-based Reinforcement Learning to Predict the Future"
+    },
+    {
+      "source": "Forecasting",
+      "target": "Foresight AI"
+    },
+    {
+      "source": "Forecasting",
+      "target": "AI Forecasting Benchmark"
+    },
+    {
+      "source": "Forecasting",
+      "target": "Squiggle AI"
+    },
+    {
+      "source": "Forecasting",
+      "target": "My Current Claims and Cruxes on LLM Forecasting & Epistemics"
+    },
+    {
+      "source": "Forecasting",
+      "target": "Metaforecast"
+    },
+    {
+      "source": "Forecasting",
+      "target": "Q1 AI Benchmarking results"
+    },
+    {
+      "source": "Forecasting",
+      "target": "Forecasting Tools"
+    },
+    {
+      "source": "Forecasting",
+      "target": "Bench to the Future - A Pastcasting Benchmark for Forecasting Agents"
+    },
+    {
+      "source": "Forecasting",
+      "target": "Human v Bots Forecasting Tournament 2024"
+    },
+    {
+      "source": "Forecasting",
+      "target": "Contra papers claiming superhuman AI forecasting"
+    },
+    {
       "source": "Oliver Klingefjord",
       "target": "Meaning Alignment Institute"
     },
@@ -3997,6 +4093,30 @@
     {
       "source": "Bridging Bot",
       "target": "Peter Darche"
+    },
+    {
+      "source": "Philosophy & Morality",
+      "target": "AI doing philosophy = AI generating hands?"
+    },
+    {
+      "source": "Philosophy & Morality",
+      "target": "Creating a large language model of a philosopher"
+    },
+    {
+      "source": "Philosophy & Morality",
+      "target": "Language Models as Critical Thinking Tools - A Case Study of Philosophers"
+    },
+    {
+      "source": "Philosophy & Morality",
+      "target": "What are human values,and how do we align AI to them?"
+    },
+    {
+      "source": "Philosophy & Morality",
+      "target": "Democratic Fine-Tuning"
+    },
+    {
+      "source": "Philosophy & Morality",
+      "target": "Rethinking Machine Ethics –Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?"
     },
     {
       "source": "Jia-Wei Cui",
@@ -4305,6 +4425,26 @@
     {
       "source": "What are human values,and how do we align AI to them?",
       "target": "Joe Edelman"
+    },
+    {
+      "source": "Wargames & TTX",
+      "target": "Wargames for Peace"
+    },
+    {
+      "source": "Wargames & TTX",
+      "target": "Human vs. Machine -  Behavioral Differences between Expert Humans and Language Models in Wargame Simulations"
+    },
+    {
+      "source": "Wargames & TTX",
+      "target": "Snow Globe"
+    },
+    {
+      "source": "Wargames & TTX",
+      "target": "Escalation Risks from Language Models in Military and Diplomatic Decision-Making"
+    },
+    {
+      "source": "Wargames & TTX",
+      "target": "Grim"
     },
     {
       "source": "Escalation Risks from Language Models in Military and Diplomatic Decision-Making",
@@ -4939,18 +5079,6 @@
       "target": "The Computational Democracy Project"
     },
     {
-      "source": "FutureSearch Benchmarks",
-      "target": "Future Search"
-    },
-    {
-      "source": "FutureSearch Benchmarks",
-      "target": "Deep Research Bench - Evaluating AI Web Research Agents"
-    },
-    {
-      "source": "FutureSearch Benchmarks",
-      "target": "Bench to the Future - A Pastcasting Benchmark for Forecasting Agents"
-    },
-    {
       "source": "Lisa Schirch",
       "target": "Plurality Institute"
     },
@@ -5513,6 +5641,18 @@
     {
       "source": "Rai Sur",
       "target": "Sentinel"
+    },
+    {
+      "source": "Research",
+      "target": "Elicit Tool"
+    },
+    {
+      "source": "Research",
+      "target": "LLMs as Research Tools -  A Large Scale Survey of Researchers’ Usage and Perceptions"
+    },
+    {
+      "source": "Research",
+      "target": "Deep Research Bench - Evaluating AI Web Research Agents"
     },
     {
       "source": "Tantum Collins",

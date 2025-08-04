@@ -20,6 +20,17 @@ const data = JSON.parse(rawData);
 
 console.log(`Loaded ${data.nodes.length} nodes and ${data.links.length} links`);
 
+// Auto-classify links to topic nodes as topic_link type
+const topicNodeIds = new Set(data.nodes.filter(node => node.tags.includes("topic")).map(node => node.id));
+
+data.links.forEach(link => {
+    if (topicNodeIds.has(link.source) || topicNodeIds.has(link.target)) {
+        link.type = "topic_link";
+    }
+});
+
+console.log(`Auto-classified ${data.links.filter(l => l.type === "topic_link").length} topic links`);
+
 // Calculate node degrees (number of connections)
 const nodeDegrees = {};
 data.nodes.forEach(node => {
@@ -53,14 +64,18 @@ console.log('Creating force simulation...');
 
 // Create the same simulation as the web app
 const simulation = d3.forceSimulation(data.nodes)
-    .force("link", d3.forceLink(data.links).id(d => d.id).distance(50))
-    .force("charge", d3.forceManyBody().strength(-220))
+    .force("link", d3.forceLink(data.links)
+        .id(d => d.id)
+        .distance(d => d.type === "topic_link" ? 120 : 50)  // Topic links much longer
+        .strength(d => d.type === "topic_link" ? 0.02 : 0.8)  // Make topic links extremely weak
+    )
+    .force("charge", d3.forceManyBody().strength(-250))
     .force("center", d3.forceCenter(width / 2, height / 2))
     .force("x", d3.forceX(width / 2).strength(0.02))
     .force("y", d3.forceY(height / 2).strength(0.02))
-    .force("collide", d3.forceCollide(d => d.size + 5)) // Prevent overlapping with 5px padding
-    .alpha(1.2)
-    .alphaDecay(0.0005);
+    .force("collide", d3.forceCollide(d => d.size + 8)) // Prevent overlapping with 8px padding
+    .alpha(2.0)
+    .alphaDecay(0.0003);
 
 console.log(`Running simulation for ${SIMULATION_TICKS} ticks...`);
 

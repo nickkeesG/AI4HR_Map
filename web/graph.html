@@ -12,6 +12,7 @@
             --person-color: #69b3a2;
             --project-color: #d4791a;
             --organization-color: #9c4dcc;
+            --topic-color: #3498db;
             --node-hover-color: #ff6b6b;
             --link-color: #999;
             --tooltip-bg: rgba(0, 0, 0, 0.8);
@@ -24,6 +25,7 @@
             --person-color: #4ecdc4;
             --project-color: #f4a261;
             --organization-color: #ba68c8;
+            --topic-color: #74b9ff;
             --node-hover-color: #ff8a80;
             --link-color: #666;
             --tooltip-bg: rgba(255, 255, 255, 0.9);
@@ -186,10 +188,27 @@
             font-weight: 500;
         }
         
+        .topic-labels text {
+            font-family: Arial, sans-serif;
+            font-size: 40px;
+            font-weight: normal;
+            fill: var(--text-color);
+            text-anchor: middle;
+            pointer-events: none;
+            user-select: none;
+        }
+        
         .links line {
             stroke: var(--link-color);
             stroke-opacity: 0.6;
             stroke-width: 4;
+        }
+        
+        .links line.topic-link {
+            stroke: var(--link-color);
+            stroke-opacity: 0.4;
+            stroke-width: 2;
+            stroke-dasharray: 5,5;
         }
         
         .nodes circle {
@@ -204,7 +223,7 @@
         .nodes circle.highlighted {
             fill: var(--node-hover-color);
             stroke: var(--text-color);
-            stroke-width: 2px;
+            stroke-width: 4px;
         }
 
         .links line.highlighted {
@@ -382,6 +401,7 @@
                     <li><span style="color: var(--person-color); font-weight: bold;">People</span></li>
                     <li><span style="color: var(--project-color); font-weight: bold;">Projects</span></li>
                     <li><span style="color: var(--organization-color); font-weight: bold;">Organizations</span></li>
+                    <li><span style="color: var(--topic-color); font-weight: bold;">Topics</span></li>
                 </ul>
                 
                 <p>Found something missing or incorrect? Use the <strong>!</strong> button to let me know!</p>
@@ -458,7 +478,8 @@
                 .attr("class", "links")
                 .selectAll("line")
                 .data(data.links)
-                .enter().append("line");
+                .enter().append("line")
+                .attr("class", d => d.type === "topic_link" ? "topic-link" : "");
             
             // Create nodes after links so they appear on top
             const node = container.append("g")
@@ -471,8 +492,18 @@
                     if (d.tags.includes("person")) return "var(--person-color)";
                     if (d.tags.includes("project")) return "var(--project-color)";
                     if (d.tags.includes("organization")) return "var(--organization-color)";
+                    if (d.tags.includes("topic")) return "var(--topic-color)";
                     return "var(--person-color)"; // default fallback
                 });
+            
+            // Create labels for topic nodes only
+            const topicNodes = data.nodes.filter(d => d.tags.includes("topic"));
+            const labels = container.append("g")
+                .attr("class", "topic-labels")
+                .selectAll("text")
+                .data(topicNodes)
+                .enter().append("text")
+                .text(d => d.title);
             
             // Since links already contain full objects, we need to map them to the actual nodes
             // from data.nodes to ensure they reference the same objects
@@ -538,12 +569,17 @@
                 .attr("cx", d => d.x)
                 .attr("cy", d => d.y);
             
+            // Position topic labels below their nodes
+            labels
+                .attr("x", d => d.x)
+                .attr("y", d => d.y + d.size + 40); // Position below node with more padding for larger text
+            
             // Set up search functionality
-            setupSearch(node);
+            setupSearch(node, labels);
         });
         
         // Search functionality
-        function setupSearch(nodeSelection) {
+        function setupSearch(nodeSelection, labelSelection) {
             const searchInput = document.getElementById('searchInput');
             const searchResults = document.getElementById('searchResults');
             const searchClear = document.getElementById('searchClear');
@@ -563,6 +599,19 @@
                     
                     return isMatch ? 1 : 0.1; // Highlight matches, dim others significantly
                 });
+                
+                // Also dim/highlight topic labels to match their nodes
+                if (labelSelection) {
+                    labelSelection.style("opacity", d => {
+                        if (!searchTerm) return 1;
+                        
+                        const titleMatch = d.title.toLowerCase().includes(searchTerm);
+                        const contentMatch = d.content.toLowerCase().includes(searchTerm);
+                        const isMatch = titleMatch || contentMatch;
+                        
+                        return isMatch ? 1 : 0.1;
+                    });
+                }
                 
                 // Update results count and clear button visibility
                 if (!searchTerm) {
