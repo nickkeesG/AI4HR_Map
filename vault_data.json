@@ -2849,14 +2849,6 @@
       "content": "#person"
     },
     {
-      "id": "Google DeepMind",
-      "title": "Google DeepMind",
-      "tags": [
-        "organization"
-      ],
-      "content": "#organization"
-    },
-    {
       "id": "Nandika Donthi",
       "title": "Nandika Donthi",
       "tags": [
@@ -3539,10 +3531,6 @@
       "target": "Zhou Yu"
     },
     {
-      "source": "Amelia Glaese",
-      "target": "Google DeepMind"
-    },
-    {
       "source": "Amina Green",
       "target": "Plurality Institute"
     },
@@ -3645,10 +3633,6 @@
     {
       "source": "Truthful AI",
       "target": "William Saunders"
-    },
-    {
-      "source": "Hannah Sheahan",
-      "target": "Google DeepMind"
     },
     {
       "source": "AI and the Future of Digital Public Squares",
@@ -3983,10 +3967,6 @@
       "target": "The Computational Democracy Project"
     },
     {
-      "source": "Daniel Jarrett",
-      "target": "Google DeepMind"
-    },
-    {
       "source": "Danny Fanklin",
       "target": "Lightning Rod Labs"
     },
@@ -4155,10 +4135,6 @@
       "target": "Amy Zhang"
     },
     {
-      "source": "Andrea Tacchetti",
-      "target": "Google DeepMind"
-    },
-    {
       "source": "Future Search",
       "target": "AI Forecasting Benchmark"
     },
@@ -4299,16 +4275,8 @@
       "target": "Ought"
     },
     {
-      "source": "David Parkes",
-      "target": "Google DeepMind"
-    },
-    {
       "source": "Ian Beacock",
       "target": "Google Jigsaw"
-    },
-    {
-      "source": "Matthew Botvinick",
-      "target": "Google DeepMind"
     },
     {
       "source": "Factored Cognition Primer",
@@ -4675,10 +4643,6 @@
       "target": "Metaculus"
     },
     {
-      "source": "Kevin McKee",
-      "target": "Google DeepMind"
-    },
-    {
       "source": "Bot Mediation",
       "target": "Curtis Holdsworth"
     },
@@ -4749,10 +4713,6 @@
     {
       "source": "Ivan Vendrov",
       "target": "Midjourney"
-    },
-    {
-      "source": "Nat McAleese",
-      "target": "Google DeepMind"
     },
     {
       "source": "Can AI bring deliberative democracy to the masses?",
@@ -4923,10 +4883,6 @@
       "target": "Future Search"
     },
     {
-      "source": "Raphael Köster",
-      "target": "Google DeepMind"
-    },
-    {
       "source": "Jacquelyn Schneider",
       "target": "Hoover Wargaming and Crisis Simulation Initiative"
     },
@@ -5027,10 +4983,6 @@
       "target": "Hoover Wargaming and Crisis Simulation Initiative"
     },
     {
-      "source": "Jan Balaguer",
-      "target": "Google DeepMind"
-    },
-    {
       "source": "Mantic",
       "target": "AI Forecasting Benchmark"
     },
@@ -5057,10 +5009,6 @@
     {
       "source": "Aviv Ovadya",
       "target": "AI & Democracy Foundation"
-    },
-    {
-      "source": "Michiel Bakker",
-      "target": "Google DeepMind"
     },
     {
       "source": "Let’s use AI to harden human defenses against AI manipulation",
@@ -5107,10 +5055,6 @@
       "target": "Philipp Schoenegger"
     },
     {
-      "source": "Martin Chadwick",
-      "target": "Google DeepMind"
-    },
-    {
       "source": "Nexus",
       "target": "Sofi Vanhanen"
     },
@@ -5133,10 +5077,6 @@
     {
       "source": "Roast My Post",
       "target": "Quantified Uncertainty Research Institute"
-    },
-    {
-      "source": "Christopher Summerfield",
-      "target": "Google DeepMind"
     },
     {
       "source": "Global Dialogues",
@@ -5339,10 +5279,6 @@
       "target": "Dembrane"
     },
     {
-      "source": "John Aslanides",
-      "target": "Google DeepMind"
-    },
-    {
       "source": "Supernotes",
       "target": "Soham De"
     },
@@ -5407,10 +5343,6 @@
       "target": "Metaculus"
     },
     {
-      "source": "Romuald Elie",
-      "target": "Google DeepMind"
-    },
-    {
       "source": "Prompt Engineering Large Language Models’ Forecasting Capabilities",
       "target": "Philipp Schoenegger"
     },
@@ -5433,10 +5365,6 @@
     {
       "source": "Ozzie Gooen",
       "target": "Quantified Uncertainty Research Institute"
-    },
-    {
-      "source": "Georgina Evans",
-      "target": "Google DeepMind"
     },
     {
       "source": "Ryan Lowe",
@@ -5655,10 +5583,6 @@
       "target": "Deep Research Bench - Evaluating AI Web Research Agents"
     },
     {
-      "source": "Tantum Collins",
-      "target": "Google DeepMind"
-    },
-    {
       "source": "Bench to the Future - A Pastcasting Benchmark for Forecasting Agents",
       "target": "Jack Wildman"
     },
@@ -5735,16 +5659,8 @@
       "target": "Midjourney"
     },
     {
-      "source": "Richard Everett",
-      "target": "Google DeepMind"
-    },
-    {
       "source": "Pattie Maes",
       "target": "MIT Media Lab"
-    },
-    {
-      "source": "Miruna Pîslar",
-      "target": "Google DeepMind"
     },
     {
       "source": "Lucid Lens",
@@ -5769,10 +5685,6 @@
     {
       "source": "Ben Turtel",
       "target": "Lightning Rod Labs"
-    },
-    {
-      "source": "Lucy Campbell-Gillingham",
-      "target": "Google DeepMind"
     },
     {
       "source": "Houtan Bastani",
@@ -5813,10 +5725,6 @@
     {
       "source": "Don't Just Tell Me, Ask Me",
       "target": "Pattie Maes"
-    },
-    {
-      "source": "Michael Henry Tessler",
-      "target": "Google DeepMind"
     },
     {
       "source": "Rob Gordon",
