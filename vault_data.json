@@ -1153,6 +1153,14 @@
       "content": "#person"
     },
     {
+      "id": "AI Safety Feed",
+      "title": "AI Safety Feed",
+      "tags": [
+        "project"
+      ],
+      "content": "#project \n\nhttps://aisafetyfeed.com\n\nCurated content aggregation platform that gathers posts and research from key AI safety sources across the internet. It uses LLMs to automatically summarize, tag, and rate content for novelty and importance, helping users quickly identify what's most relevant to them in the AI safety field."
+    },
+    {
       "id": "The Computational Democracy Project",
       "title": "The Computational Democracy Project",
       "tags": [
@@ -3609,6 +3617,14 @@
       "content": "#person"
     },
     {
+      "id": "Matt Brooks",
+      "title": "Matt Brooks",
+      "tags": [
+        "person"
+      ],
+      "content": "#person \n\nhttps://mattbrooks.xyz/"
+    },
+    {
       "id": "Ming Yin",
       "title": "Ming Yin",
       "tags": [
@@ -4509,6 +4525,10 @@
     {
       "source": "Ian Beacock",
       "target": "Google Jigsaw"
+    },
+    {
+      "source": "AI Safety Feed",
+      "target": "Matt Brooks"
     },
     {
       "source": "Strategic Epistemic Defense",
@@ -5937,6 +5957,10 @@
     {
       "source": "Research",
       "target": "Iterated Decomposition - Improving Science Q&A by Supervising Reasoning Processes"
+    },
+    {
+      "source": "Research",
+      "target": "AI Safety Feed"
     },
     {
       "source": "Bench to the Future - A Pastcasting Benchmark for Forecasting Agents",
