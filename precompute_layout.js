@@ -67,7 +67,7 @@ const simulation = d3.forceSimulation(data.nodes)
     .force("link", d3.forceLink(data.links)
         .id(d => d.id)
         .distance(d => d.type === "topic_link" ? 120 : 50)  // Topic links much longer
-        .strength(d => d.type === "topic_link" ? 0.05 : 0.75)  // Reduce topic link strength to 0.05
+        .strength(d => d.type === "topic_link" ? 0.06 : 0.75)  // Topic link strength set to 0.06
     )
     .force("charge", d3.forceManyBody().strength(-300))
     .force("center", d3.forceCenter(width / 2, height / 2).strength(0.5))

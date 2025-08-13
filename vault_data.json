@@ -361,6 +361,14 @@
       "content": "#person \n\nhttps://www.klingefjord.com/"
     },
     {
+      "id": "Boardy",
+      "title": "Boardy",
+      "tags": [
+        "project"
+      ],
+      "content": "#project \n\nhttps://www.boardy.ai/\n\nAI-powered networking assistant that conducts phone conversations with users to understand their professional goals, then autonomously facilitates introductions to relevant people in its network of founders, investors, and other professionals."
+    },
+    {
       "id": "Nicholas Rowland",
       "title": "Nicholas Rowland",
       "tags": [
@@ -607,6 +615,14 @@
         "person"
       ],
       "content": "#person"
+    },
+    {
+      "id": "Matchmaking",
+      "title": "Matchmaking",
+      "tags": [
+        "topic"
+      ],
+      "content": "#topic"
     },
     {
       "id": "Jason W. Burton",
@@ -2095,6 +2111,14 @@
         "person"
       ],
       "content": "#person"
+    },
+    {
+      "id": "Series",
+      "title": "Series",
+      "tags": [
+        "project"
+      ],
+      "content": "#project \n\nhttps://www.series.so/\n\nSeries is an AI-powered networking platform that uses automated agents to facilitate professional introductions between users via messaging platforms like iMessage. The system analyzes user profiles and objectives to identify potential matches based on calculated mutual benefit, then initiates double opt-in introductions without requiring users to actively search or request connections."
     },
     {
       "id": "$SL Muses",
@@ -4205,6 +4229,14 @@
     {
       "source": "Modelling Political Coalition Negotiations Using LLM-based Agents",
       "target": "Gholamreza Haffari"
+    },
+    {
+      "source": "Matchmaking",
+      "target": "Boardy"
+    },
+    {
+      "source": "Matchmaking",
+      "target": "Series"
     },
     {
       "source": "Approaching Human-Level Forecasting with Language Models",
